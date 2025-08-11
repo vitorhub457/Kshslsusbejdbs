@@ -1459,7 +1459,7 @@ function redzlib:MakeWindow(Configs)
         Position = UDim2.new(0, 0, 0, 0),
         BackgroundTransparency = 1,
         Image = "rbxassetid://95790427461481",
-        ImageTransparency = 0.5, -- Ajuste a transparência como preferir
+        ImageTransparency = 0.1, -- Ajuste a transparência como preferir
         ScaleType = Enum.ScaleType.Crop,
         ZIndex = 0 -- Garante que fique atrás de tudo
     })
@@ -2167,7 +2167,7 @@ end
 			
 			local DropFrame = Create("Frame", NoClickFrame, {
 				Size = UDim2.new(SelectedFrame.Size.X, 0, 0),
-				BackgroundTransparency = 0.1,
+				BackgroundTransparency = 1,
 				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
 				AnchorPoint = Vector2.new(0, 1),
 				Name = "DropdownFrame",
