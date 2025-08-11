@@ -1460,7 +1460,7 @@ function redzlib:MakeWindow(Configs)
         Size = UDim2.new(1, 50, 1, 50), -- Um pouco maior que o frame para o efeito de pan
         Position = UDim2.new(0, 0, 0, 0),
         BackgroundTransparency = 1,
-        Image = "rbxassetid://75732220851513",
+        Image = "rbxassetid://104585683276370",
         ImageTransparency = 0.5, -- Ajuste a transparência como preferir
         ScaleType = Enum.ScaleType.Crop,
         ZIndex = 0 -- Garante que fique atrás de tudo
