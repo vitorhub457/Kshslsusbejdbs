@@ -1,5 +1,3 @@
--- START OF FILE redz opensouce.txt (MODIFICADO) ---
-
 local MarketplaceService = game:GetService("MarketplaceService")
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
@@ -12,21 +10,6 @@ local PlayerMouse = Player:GetMouse()
 
 local redzlib = {
 	Themes = {
-         -- --- MODIFICAÇÃO 1: NOVO TEMA ADICIONADO ---
-        AnimeFeminino = {
-            ["Color Hub 1"] = ColorSequence.new({
-                ColorSequenceKeypoint.new(0.00, Color3.fromRGB(40, 100, 80)),  -- Verde escuro
-                ColorSequenceKeypoint.new(0.50, Color3.fromRGB(60, 120, 100)), -- Verde médio claro
-                ColorSequenceKeypoint.new(1.00, Color3.fromRGB(40, 100, 80))   -- Verde escuro
-            }),
-            ["Color Hub 2"] = Color3.fromRGB(50, 110, 90),                     -- Verde escuro suave
-            ["Color Stroke"] = Color3.fromRGB(30, 90, 70),                     -- Verde escuro mais profundo
-            ["Color Theme"] = Color3.fromRGB(30, 90, 70),                      -- Mesmo verde do stroke
-            ["Color Text"] = Color3.fromRGB(220, 240, 230),                    -- Texto claro com tom esverdeado
-            ["Color Dark Text"] = Color3.fromRGB(150, 180, 170),               -- Texto escuro com tom verde claro
-            ["Color Dark Purple"] = Color3.fromRGB(30, 90, 70),                -- Ajustado para verde escuro
-            ["Color Dark Greem"] = Color3.fromRGB(150, 180, 170)               -- Ajustado para verde claro (corrigido typo "Greem" para "Green")
-	    },
 		Darker = {
 			["Color Hub 1"] = ColorSequence.new({
 				ColorSequenceKeypoint.new(0.00, Color3.fromRGB(25, 25, 25)),
@@ -74,9 +57,7 @@ local redzlib = {
 	Save = {
 		UISize = {550, 380},
 		TabSize = 160,
-        -- --- MODIFICAÇÃO 2: TEMA PADRÃO ALTERADO ---
-		Theme = "AnimeFeminino" 
-        -- --- FIM DA MODIFICAÇÃO 2 ---
+		Theme = "Purple"
 	},
 	Settings = {},
 	Connection = {},
@@ -1116,7 +1097,6 @@ end
 
 local ScreenGui = Create("ScreenGui", CoreGui, {
 	Name = "redz Library V5",
-	IgnoreGuiInset = true, -- Adicionado para ocupar a tela toda
 }, {
 	Create("UIScale", {
 		Scale = UIScale,
@@ -1395,7 +1375,7 @@ function redzlib:SetTheme(NewTheme)
 	SaveJson("redz library V5.json", redzlib.Save)
 	Theme = redzlib.Themes[NewTheme]
 	
-	Connection:FireConnection("ThemeChanged", NewTheme) -- Corrigido de Comnection para Connection
+	Comnection:FireConnection("ThemeChanged", NewTheme)
 	table.foreach(redzlib.Instances, function(_,Val)
 		if Val.Type == "Gradient" then
 			Val.Instance.Color = Theme["Color Hub 1"]
@@ -1446,53 +1426,11 @@ function redzlib:MakeWindow(Configs)
 	local MainFrame = InsertTheme(Create("ImageButton", ScreenGui, {
 		Size = UDim2.fromOffset(UISizeX, UISizeY),
 		Position = UDim2.new(0.5, -UISizeX/2, 0.5, -UISizeY/2),
-		BackgroundColor3 = Theme["Color Hub 2"], -- Cor de fundo caso a imagem não carregue
-		BackgroundTransparency = 0,
-		Name = "Hub",
-		ClipsDescendants = true -- Importante para a imagem de fundo não vazar
+		BackgroundTransparency = 0.03,
+		Name = "Hub"
 	}), "Main")
-	
-    -- --- MODIFICAÇÃO 3: ADICIONANDO FUNDO ANIMADO ---
-    local BgImage = Create("ImageLabel", MainFrame, {
-        Name = "AnimatedBackground",
-        Size = UDim2.new(1, 50, 1, 50), -- Um pouco maior que o frame para o efeito de pan
-        Position = UDim2.new(0, 0, 0, 0),
-        BackgroundTransparency = 1,
-        Image = "rbxassetid://95790427461481",
-        ImageTransparency = 0.1, -- Ajuste a transparência como preferir
-        ScaleType = Enum.ScaleType.Crop,
-        ZIndex = 0 -- Garante que fique atrás de tudo
-    })
-
-    local function AnimateBg()
-        -- Cria um tween que move a imagem para um canto
-        local forwardTween = TweenService:Create(BgImage, TweenInfo.new(15, Enum.EasingStyle.Linear),
-            {Position = UDim2.new(0, -50, 0, -50)}
-        )
-        -- Cria um tween que move a imagem de volta para a posição original
-        local backwardTween = TweenService:Create(BgImage, TweenInfo.new(15, Enum.EasingStyle.Linear),
-            {Position = UDim2.new(0, 0, 0, 0)}
-        )
-
-        -- Toca as animações em loop
-        local function PlayInLoop()
-            while MainFrame.Parent do -- A animação só roda enquanto a UI existir
-                forwardTween:Play()
-                forwardTween.Completed:Wait()
-                if not MainFrame.Parent then break end
-                backwardTween:Play()
-                backwardTween.Completed:Wait()
-            end
-        end
-        task.spawn(PlayInLoop)
-    end
-    AnimateBg() -- Inicia a animação
-    -- --- FIM DA MODIFICAÇÃO 3 ---
-    
 	Make("Gradient", MainFrame, {
-		Rotation = 45,
-        -- Deixa o gradiente semi-transparente para ver a imagem de fundo
-        Transparency = NumberSequence.new(0.8) 
+		Rotation = 45
 	})MakeDrag(MainFrame)
 	
 	local MainCorner = Make("Corner", MainFrame)
@@ -1961,11 +1899,11 @@ end
 				Font = Enum.Font.BuilderSansExtraBold,--GothamBold
 				Text = SectionName,
 				TextColor3 = Theme["Color Dark Purple"],
-				Size = UDim2.new(1, -25, 1, 0),
+				Size = UDim2.new(1, -30, 1, 0),
 				Position = UDim2.new(0, 30),
 				BackgroundTransparency = 1,
 				TextTruncate = "AtEnd",
-				TextSize = 11,
+				TextSize = 15,
 				TextXAlignment = "Left"
 			}), "Text")
 			
@@ -2022,7 +1960,7 @@ end
 				Position = UDim2.new(1, -10, 0.5),
 				AnchorPoint = Vector2.new(1, 0.5),
 				BackgroundTransparency = 1,
-				Image = "rbxassetid://10734973999"
+				Image = "rbxassetid://10734934585"
 			})
 			
 			FButton.Activated:Connect(function()
@@ -2063,7 +2001,7 @@ end
 			}), "Stroke")Make("Corner", ToggleHolder, UDim.new(0.5, 0))
 			
 			local Slider = Create("Frame", ToggleHolder, {
-				BackgroundTransparency = 0.4,
+				BackgroundTransparency = 1,
 				Size = UDim2.new(0.8, 0, 0.8, 0),
 				Position = UDim2.new(0.5, 0, 0.5, 0),
 				AnchorPoint = Vector2.new(0.5, 0.5)
@@ -2167,7 +2105,7 @@ end
 			
 			local DropFrame = Create("Frame", NoClickFrame, {
 				Size = UDim2.new(SelectedFrame.Size.X, 0, 0),
-				BackgroundTransparency = 1,
+				BackgroundTransparency = 0.1,
 				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
 				AnchorPoint = Vector2.new(0, 1),
 				Name = "DropdownFrame",
