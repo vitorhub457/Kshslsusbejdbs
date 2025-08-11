@@ -12,23 +12,21 @@ local PlayerMouse = Player:GetMouse()
 
 local redzlib = {
 	Themes = {
-        -- --- MODIFICAÇÃO 1: NOVO TEMA ADICIONADO ---
+         -- --- MODIFICAÇÃO 1: NOVO TEMA ADICIONADO ---
         AnimeFeminino = {
-    ["Color Hub 1"] = ColorSequence.new({
-        ColorSequenceKeypoint.new(0.00, Color3.fromRGB(40, 100, 80)),  -- Verde escuro
-        ColorSequenceKeypoint.new(0.50, Color3.fromRGB(60, 120, 100)), -- Verde médio claro
-        ColorSequenceKeypoint.new(1.00, Color3.fromRGB(40, 100, 80))   -- Verde escuro
-    }),
-    ["Color Hub 2"] = Color3.fromRGB(50, 110, 90),                     -- Verde escuro suave
-    ["Color Stroke"] = Color3.fromRGB(30, 90, 70),                     -- Verde escuro mais profundo
-    ["Color Theme"] = Color3.fromRGB(30, 90, 70),                      -- Mesmo verde do stroke
-    ["Color Text"] = Color3.fromRGB(220, 240, 230),                    -- Texto claro com tom esverdeado
-    ["Color Dark Text"] = Color3.fromRGB(150, 180, 170),               -- Texto escuro com tom verde claro
-    ["Color Dark Purple"] = Color3.fromRGB(30, 90, 70),                -- Ajustado para verde escuro
-    ["Color Dark Greem"] = Color3.fromRGB(150, 180, 170)               -- Ajustado para verde claro (corrigido typo "Greem" para "Green")
-},
-        -- --- FIM DA MODIFICAÇÃO 1 ---
-
+            ["Color Hub 1"] = ColorSequence.new({
+                ColorSequenceKeypoint.new(0.00, Color3.fromRGB(40, 100, 80)),  -- Verde escuro
+                ColorSequenceKeypoint.new(0.50, Color3.fromRGB(60, 120, 100)), -- Verde médio claro
+                ColorSequenceKeypoint.new(1.00, Color3.fromRGB(40, 100, 80))   -- Verde escuro
+            }),
+            ["Color Hub 2"] = Color3.fromRGB(50, 110, 90),                     -- Verde escuro suave
+            ["Color Stroke"] = Color3.fromRGB(30, 90, 70),                     -- Verde escuro mais profundo
+            ["Color Theme"] = Color3.fromRGB(30, 90, 70),                      -- Mesmo verde do stroke
+            ["Color Text"] = Color3.fromRGB(220, 240, 230),                    -- Texto claro com tom esverdeado
+            ["Color Dark Text"] = Color3.fromRGB(150, 180, 170),               -- Texto escuro com tom verde claro
+            ["Color Dark Purple"] = Color3.fromRGB(30, 90, 70),                -- Ajustado para verde escuro
+            ["Color Dark Greem"] = Color3.fromRGB(150, 180, 170)               -- Ajustado para verde claro (corrigido typo "Greem" para "Green")
+	    },
 		Darker = {
 			["Color Hub 1"] = ColorSequence.new({
 				ColorSequenceKeypoint.new(0.00, Color3.fromRGB(25, 25, 25)),
@@ -1461,7 +1459,7 @@ function redzlib:MakeWindow(Configs)
         Position = UDim2.new(0, 0, 0, 0),
         BackgroundTransparency = 1,
         Image = "rbxassetid://95790427461481",
-        ImageTransparency = 0,2 -- Ajuste a transparência como preferir
+        ImageTransparency = 0.5, -- Ajuste a transparência como preferir
         ScaleType = Enum.ScaleType.Crop,
         ZIndex = 0 -- Garante que fique atrás de tudo
     })
@@ -2065,7 +2063,7 @@ end
 			}), "Stroke")Make("Corner", ToggleHolder, UDim.new(0.5, 0))
 			
 			local Slider = Create("Frame", ToggleHolder, {
-				BackgroundTransparency = 0,
+				BackgroundTransparency = 0.4,
 				Size = UDim2.new(0.8, 0, 0.8, 0),
 				Position = UDim2.new(0.5, 0, 0.5, 0),
 				AnchorPoint = Vector2.new(0.5, 0.5)
