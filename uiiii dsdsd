@@ -20,7 +20,7 @@ local redzlib = {
                 ColorSequenceKeypoint.new(1.00, Color3.fromRGB(40, 100, 80))   -- Verde escuro
             }),
             ["Color Hub 2"] = Color3.fromRGB(50, 110, 90),                     -- Verde escuro suave
-            ["Color Stroke"] = Color3.fromRGB(30, 90, 70),                     -- Verde escuro mais profundo
+            ["Color Stroke"] = Color3.fromRGB(220, 240, 230),                     -- Verde escuro mais profundo
             ["Color Theme"] = Color3.fromRGB(30, 90, 70),                      -- Mesmo verde do stroke
             ["Color Text"] = Color3.fromRGB(220, 240, 230),                    -- Texto claro com tom esverdeado
             ["Color Dark Text"] = Color3.fromRGB(150, 180, 170),               -- Texto escuro com tom verde claro
@@ -1965,7 +1965,7 @@ end
 				Position = UDim2.new(0, 30),
 				BackgroundTransparency = 1,
 				TextTruncate = "AtEnd",
-				TextSize = 15,
+				TextSize = 17,
 				TextXAlignment = "Left"
 			}), "Text")
 			
@@ -2022,7 +2022,7 @@ end
 				Position = UDim2.new(1, -10, 0.5),
 				AnchorPoint = Vector2.new(1, 0.5),
 				BackgroundTransparency = 1,
-				Image = "rbxassetid://10734934585"
+				Image = "rbxassetid://10734973999"
 			})
 			
 			FButton.Activated:Connect(function()
@@ -2063,7 +2063,7 @@ end
 			}), "Stroke")Make("Corner", ToggleHolder, UDim.new(0.5, 0))
 			
 			local Slider = Create("Frame", ToggleHolder, {
-				BackgroundTransparency = 0.4,
+				BackgroundTransparency = 1,
 				Size = UDim2.new(0.8, 0, 0.8, 0),
 				Position = UDim2.new(0.5, 0, 0.5, 0),
 				AnchorPoint = Vector2.new(0.5, 0.5)
