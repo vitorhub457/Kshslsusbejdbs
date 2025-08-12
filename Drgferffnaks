@@ -53,7 +53,8 @@ return {
     ["ProibidoUsarHack"] = true, -- ganhador 1 semana 15/08/2025
     ["Rampo34827e"] = true, -- ganhador 1 semana 15/08/2025
     ["pablovinicius66"] = true, -- vinicius00072 1 semana 15/08/2025
-    ["zeluffyzix"] = true, -- pedro05979 1 semana 15/08/2025
+    ["zeluffyzix"] = true, -- pedro05979 1 semana 15/08/2025 
+    ["Vinilatas"] = true, -- mikey123kdjdj 1 semana 19/08/2025
 
     -- 3 dias
     ["DarkaoBonitao"] = true, -- kevennm 3 dias 13/08/2025
