@@ -20,11 +20,11 @@ local redzlib = {
                 ColorSequenceKeypoint.new(1.00, Color3.fromRGB(40, 100, 80))   -- Verde escuro
             }),
             ["Color Hub 2"] = Color3.fromRGB(50, 110, 90),                     -- Verde escuro suave
-            ["Color Stroke"] = Color3.fromRGB(50, 110, 90),                     -- Verde escuro mais profundo
+            ["Color Stroke"] = Color3.fromRGB(40, 40, 40),                     -- Verde escuro mais profundo
             ["Color Theme"] = Color3.fromRGB(30, 90, 70),                      -- Mesmo verde do stroke
             ["Color Text"] = Color3.fromRGB(220, 240, 230),                    -- Texto claro com tom esverdeado
             ["Color Dark Text"] = Color3.fromRGB(150, 180, 170),               -- Texto escuro com tom verde claro
-            ["Color Dark Purple"] = Color3.fromRGB(30, 90, 70),                -- Ajustado para verde escuro
+            ["Color Dark Purple"] = Color3.fromRGB(150, 180, 170),                -- Ajustado para verde escuro
             ["Color Dark Greem"] = Color3.fromRGB(150, 180, 170)               -- Ajustado para verde claro (corrigido typo "Greem" para "Green")
 	    },
 		Darker = {
