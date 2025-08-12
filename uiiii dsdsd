@@ -1642,8 +1642,8 @@ function redzlib:MakeWindow(Configs)
 	local Window, FirstTab = {}, false
 	function Window:CloseBtn()
 		local Dialog = Window:Dialog({
-			Title = "Close",
-			Text = "Deseja Realmente Fecha o Script?",
+			Title = "fechar",
+			Text = "Deseja Realmente Fecha Coquette Hub?",
 			Options = {
 				{"Confirm", function()
 					ScreenGui:Destroy()
@@ -1686,16 +1686,19 @@ function Window:AddMinimizeButton(Configs)
 
 	local Stroke, Corner
 
-	-- Aplicar arredondamento mínimo
+	
 	if Configs.Corner then
 		Corner = Make("Corner", Button)
 		SetProps(Corner, Configs.Corner)
 	end
 
-	-- Aplicar borda invisível
+	
+	Stroke = Make("Stroke", Button)
 	if Configs.Stroke then
-		Stroke = Make("Stroke", Button)
-		SetProps(Stroke, Configs.Stroke) -- ✅ Corrigido para aplicar Stroke corretamente
+		SetProps(Stroke, Configs.Stroke)
+	else
+		Stroke.Thickness = 2
+		Stroke.Transparency = 0
 	end
 
 	SetProps(Button, Configs.Button)
