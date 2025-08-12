@@ -2128,8 +2128,23 @@ end
 			local Flag = Configs[5] or Configs.Flag or false
 			local DMultiSelect = Configs.MultiSelect or false
 			local Callback = Funcs:GetCallback(Configs, 4)
-			
-			local Button, LabelFunc = ButtonFrame(Container, DName, DDesc, UDim2.new(1, -180))
+
+			-- Deixar o painel do dropdown opaco (sem transparência)
+			local __Create = Create
+			Create = function(...)
+				local args = {...}
+				local class = args[1]
+				local props = (typeof(args[2]) == "Instance") and args[3] or args[2]
+				if class == "Frame" and type(props) == "table" and props.Name == "DropdownFrame" then
+					props.BackgroundTransparency = 0
+					props.BackgroundColor3 = Theme["Color Hub 2"]
+					local inst = __Create(table.unpack(args))
+					Create = __Create
+					return inst
+				end
+				return __Create(table.unpack(args))
+			end
+			local Button = ButtonFrame(Container, DName, DDesc, UDim2.new(1, -180))
 			
 			local SelectedFrame = InsertTheme(Create("Frame", Button, {
 				Size = UDim2.new(0, 150, 0, 18),
