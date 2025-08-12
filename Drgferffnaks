@@ -22,6 +22,7 @@ return {
     ["MIGUEL2000MU1"] = true, -- clone vitalicio
     ["C00lkidd679679"] = true, -- clone vitalicio
     ["pedredsom100"] = true, -- _miguelbrasil vitalicio
+    ["kit_cynALT"] = true, -- Samuel001 3 dias 13/08/2025
 
     -- 4 meses
     -- (nenhum jogador listado)
@@ -69,7 +70,6 @@ return {
     ["LOBO_5465"] = true, -- carlos7r 3 dias 13/08/2025
     ["yurichoy90"] = true, -- Yurichoy1 3 dias 13/08/2025
     ["DarkMoon78997"] = true, -- tryhardzin0111_92688 3 dias 13/08/2025
-    ["kit_cynALT"] = true, -- Samuel001 3 dias 13/08/2025
     ["scripter_tubers938"] = true, -- bernadocheats 3 dias 14/08/2025
     ["P0Z3RP"] = true, -- okuluva 3 dias 14/08/2025
     ["kllhzs"] = true, -- kaleb.ttk 3 dias 14/08/2025
