@@ -37,7 +37,7 @@ return {
     ["joao018805"] = true, -- sem nome mes fim 27/08/2025
     ["gk_r4p"] = true, -- sem nome mes fim 27/08/2025
     ["kjsaitama50"] = true, -- loney 1 mes 29/07/2025 fim 29/08/2025
-    ["calvobonitao_v3"] = true, -- loney 1 mes 29/07/2025 fim 29/08/2025
+    ["calvobonitao_v3"] = true, -- loney 1 mes fim 29/08/2025
     ["souagiota20"] = true, -- ztrik3r 1 mes 31/08/2025  
     ["Felipe94823"] = true, -- plzzs 1 mes fim 31/08/2025
     ["tyuekkodsk"] = true, -- vitinho.xs. 1 mes 09/09/2025
@@ -48,7 +48,6 @@ return {
 
 
     -- Semanal
-    ["so_gayler"] = true, -- @chapeu_hunter_28550 1 semana 13/08/2025
     ["Fdffgvfgvfgbv"] = true, -- davi042265 1 semana 14/08/2025
     ["ProibidoUsarHack"] = true, -- ganhador 1 semana 15/08/2025
     ["Rampo34827e"] = true, -- ganhador 1 semana 15/08/2025
@@ -57,12 +56,6 @@ return {
     ["Vinilatas"] = true, -- mikey123kdjdj 1 semana 19/08/2025
 
     -- 3 dias
-    ["luisssss549"] = true, -- luis_br897 3 dias 13/08/2025
-    ["nicolas288t"] = true, -- Kaiox 3 dias 13/08/2025
-    ["kayro20112p"] = true, -- Kayro 3 dias 13/08/2025
-    ["LOBO_5465"] = true, -- carlos7r 3 dias 13/08/2025
-    ["yurichoy90"] = true, -- Yurichoy1 3 dias 13/08/2025
-    ["DarkMoon78997"] = true, -- tryhardzin0111_92688 3 dias 13/08/2025
     ["scripter_tubers938"] = true, -- bernadocheats 3 dias 14/08/2025
     ["P0Z3RP"] = true, -- okuluva 3 dias 14/08/2025
     ["kllhzs"] = true, -- kaleb.ttk 3 dias 14/08/2025
