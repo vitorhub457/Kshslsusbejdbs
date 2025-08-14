@@ -49,7 +49,6 @@ return {
 
 
     -- Semanal
-    ["Fdffgvfgvfgbv"] = true, -- davi042265 1 semana 14/08/2025
     ["ProibidoUsarHack"] = true, -- ganhador 1 semana 15/08/2025
     ["Rampo34827e"] = true, -- ganhador 1 semana 15/08/2025
     ["pablovinicius66"] = true, -- vinicius00072 1 semana 15/08/2025
@@ -57,9 +56,6 @@ return {
     ["Vinilatas"] = true, -- mikey123kdjdj 1 semana 19/08/2025
 
     -- 3 dias
-    ["scripter_tubers938"] = true, -- bernadocheats 3 dias 14/08/2025
-    ["P0Z3RP"] = true, -- okuluva 3 dias 14/08/2025
-    ["kllhzs"] = true, -- kaleb.ttk 3 dias 14/08/2025
     ["Miguel_kiwi777"] = true, -- Miguel tsu 3 dias 15/08/2025
     ["DAVISKE067"] = true, -- eoninja 3 dias 16/08/2025
     ["sontana28"] = true, -- abc05 3 dias 16/08/2025
