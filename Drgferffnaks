@@ -26,7 +26,7 @@ return {
     -- (nenhum jogador listado)
 
     -- 2 meses
-    -- (nenhum jogador listado)
+    ["shadow83953"] = true, -- 1v1blax 2 mes fim 15/10/2025
 
     -- 1 mes
     ["NandoAranha"] = true, -- 1 mes fim 27/08/2025
