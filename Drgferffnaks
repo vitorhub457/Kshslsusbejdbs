@@ -50,14 +50,9 @@ return {
 
 
     -- Semanal
-    ["ProibidoUsarHack"] = true, -- ganhador 1 semana 15/08/2025
-    ["Rampo34827e"] = true, -- ganhador 1 semana 15/08/2025
-    ["pablovinicius66"] = true, -- vinicius00072 1 semana 15/08/2025
-    ["zeluffyzix"] = true, -- pedro05979 1 semana 15/08/2025 
     ["Vinilatas"] = true, -- mikey123kdjdj 1 semana 19/08/2025
 
     -- 3 dias
-    ["Miguel_kiwi777"] = true, -- Miguel tsu 3 dias 15/08/2025
     ["DAVISKE067"] = true, -- eoninja 3 dias 16/08/2025
     ["sontana28"] = true, -- abc05 3 dias 16/08/2025
     ["Bakugo_Master4"] = true, -- robloxstudioscript 3 dias 16/08/2025
