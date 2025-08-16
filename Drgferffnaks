@@ -14,6 +14,7 @@ return {
     ["BSX_ADMIRI"] = true, -- BSX amiguinho
     ["MAYCONPRO54"] = true, -- maycon ._.
     ["17896Oi"] = true, -- benjamim
+    ["RaelAdminScripter"] = true, -- Rael
 
     -- Vitalicio
     ["MIGUEL2000MU1"] = true, -- clone vitalicio
