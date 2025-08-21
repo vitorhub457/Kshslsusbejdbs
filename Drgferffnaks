@@ -93,4 +93,9 @@ return {
     ["kayro20112p"] = true, -- kayro01 sorteio 22/08/2025
     ["saitama9rsm"] = true, -- r097610 sorteio 22/08/2025
     ["j7pirk"] = true, -- zora.zfx sorteio 22/08/2025
+
+-- outros 4 dias
+["javali_444gg"] = true, -- gabriel_henrique0373 sorteio 25/08/2025
+
+
 }
