@@ -19,6 +19,7 @@ return {
     
 
     -- Vitalicio
+    ["dszin0_0"] = true, -- leaodalapa vitalicio
     ["kaynahhhhh"] = true, -- kakah0240 vitalicio
     ["MIGUEL2000MU1"] = true, -- clone vitalicio
     ["LUIGI_CRIA9987"] = true, -- sans12 vitalicio
