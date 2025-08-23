@@ -41,20 +41,20 @@ return {
     ["Davi_jk180"] = true, -- davi0422 4 meses fim 18/12/2025
 
     -- 2 meses
-    ["shadow83953"] = true, -- 1v1blax 2 mes fim 15/10/2025
-    ["HAYYBROOKHAVEN"] = true, -- dogzin06 2 mes fim 15/10/2025
-    ["ITZ_LOI84"] = true, -- semprecontandoumvale 2 mes fim 18/10/2025
+    ["shadow83953"] = true, -- 1v1blax 2 meses fim 15/10/2025
+    ["HAYYBROOKHAVEN"] = true, -- dogzin06 2 meses fim 15/10/2025
+    ["ITZ_LOI84"] = true, -- semprecontandoumvale 2 meses fim 18/10/2025
 
     -- 1 mes
     ["NandoAranha"] = true, -- 1 mes fim 27/08/2025
     ["XanXalvador"] = true, -- hit 1 mes fim 27/08/2025
-    ["nxp2i4"] = true, -- sem nome mes fim 27/08/2025
-    ["Vinicius_Gamerofc1"] = true, -- sem nome mes fim 27/08/2025
-    ["joao018805"] = true, -- sem nome mes fim 27/08/2025
-    ["gk_r4p"] = true, -- sem nome mes fim 27/08/2025
-    ["kjsaitama50"] = true, -- loney 1 mes 29/07/2025 fim 29/08/2025
+    ["nxp2i4"] = true, -- sem nome 1 mes fim 27/08/2025
+    ["Vinicius_Gamerofc1"] = true, -- sem nome 1 mes fim 27/08/2025
+    ["joao018805"] = true, -- sem nome 1 mes fim 27/08/2025
+    ["gk_r4p"] = true, -- sem nome 1 mes fim 27/08/2025
+    ["kjsaitama50"] = true, -- loney 1 mes fim 29/08/2025
     ["calvobonitao_v3"] = true, -- loney 1 mes fim 29/08/2025
-    ["souagiota20"] = true, -- ztrik3r 1 mes 31/08/2025  
+    ["souagiota20"] = true, -- ztrik3r 1 mes fim 31/08/2025  
     ["Felipe94823"] = true, -- plzzs 1 mes fim 31/08/2025
     ["tyuekkodsk"] = true, -- vitinho.xs. 1 mes 09/09/2025
     ["arthur2002roblox"] = true, -- _tutu_amigo 1 mes fim 05/09/2025
@@ -77,14 +77,13 @@ return {
 
 
     -- Semanal
-    ["emprenharxa"] = true, -- victor_gamer 1 semana 24/08/2025
-    ["dilaver7117"] = true, -- aspect_24 2 semana fim 25/10/2025
+    ["emprenharxa"] = true, -- victor_gamer 1 semana fim 24/08/2025
     ["Miguel77e46"] = true, -- adrianasilva 1 semana fim 25/08/2025
     ["victor_galera"] = true, -- victor_gamer5405 1 semana fim 26/08/2025
-    ["nino_abravanel15707"] = true, -- polo181972631 semana fim 27/08/2025
+    ["nino_abravanel15707"] = true, -- polo181972631 1 semana fim 27/08/2025
     ["untoa8xt"] = true, -- nicoblox 1 semana fim 27/08/2025
     ["luczin2447"] = true, -- lucinxz 1 semana fim 27/08/2025
-    ["kllhzs"] = true, -- kaleb_tkk_21192 1 mes fim 27/08/2025
+    ["kllhzs"] = true, -- kaleb_tkk_21192 1 semana fim 27/08/2025
     ["wnsishsksjjsksjdjd"] = true, -- Francisco 1 semana fim 30/08/2025
     ["joca6578"] = true, -- faelzin7xz 1 semana fim 27/08/2025
     ["BIELZIN_0I"] = true, -- bielzin919172 1 semana fim 27/08/2025
@@ -92,25 +91,19 @@ return {
     ["menor_docria9391"] = true, -- ayslan05078 1 semana fim 28/08/2025
 
     -- 3 dias
-    ["Bakugo_Master4"] = true, -- 785423 3 dias 21/08/2025
-    ["abcde123456ak"] = true, -- nicolas012929 3 dias 22/08/2025
-    ["xtrem_Barbiess"] = true, -- oliverlove sorteio 22/08/2025
-    ["YourL0calDestroyer"] = true, -- valky07 sorteio 22/08/2025
-    ["kayro20112p"] = true, -- kayro01 sorteio 22/08/2025
-    ["saitama9rsm"] = true, -- r097610 sorteio 22/08/2025
-    ["j7pirk"] = true, -- zora.zfx sorteio 22/08/2025
-    ["thelast12211"] = true, -- clint70 24/08/2025
-    ["Miguel_kiwi777"] = true, -- miguel_tsu 24/05/2025
-    ["eisksks929"] = true, -- gaymer0513 24/05/2025
-    ["isaquezinho988"] = true, -- isaque_o_71639 24/05/2025
-    ["giova_378"] = true, -- giovanni03088 24/05/2025
-    ["euuu_daviiiid"] = true, -- wescley 25/08/2025
-    ["ainnnnnn767"] = true, -- oimn 25/08/2025
+    ["thelast12211"] = true, -- clint70 3 dias 24/08/2025
+    ["Miguel_kiwi777"] = true, -- miguel_tsu 3 dias 24/08/2025
+    ["eisksks929"] = true, -- gaymer0513 3 dias 24/08/2025
+    ["isaquezinho988"] = true, -- isaque_o_71639 3 dias 24/08/2025
+    ["giova_378"] = true, -- giovanni03088 3 dias 24/08/2025
+    ["euuu_daviiiid"] = true, -- wescley 3 dias 25/08/2025
+    ["ainnnnnn767"] = true, -- oimn 3 dias 25/08/2025
 
     -- outros
     ["javali_444gg"] = true, -- gabriel_henrique0373 sorteio 25/08/2025
     ["ASGANRIEL444"] = true, -- alluring 4 dias fim 25/08/2025
     ["CauanTubeh"] = true, -- owasdin 1 dia e meio fim 23/08/2025
+    ["dilaver7117"] = true, -- aspect_24 2 semana fim 25/10/2025
 
 
 }
