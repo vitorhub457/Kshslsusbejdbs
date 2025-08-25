@@ -1,4 +1,4 @@
-return {
+Jureturn {
     -- Staff
     ["is_dragom"] = true, -- nayura77 bom
     ["Lusquinha_067"] = true, -- lusca ._.
@@ -94,7 +94,7 @@ return {
     ["Monkedluffy1601"] = true, -- marcoz_75 1 semana fim 28/08/2025
     ["menor_docria9391"] = true, -- ayslan05078 1 semana fim 28/08/2025
     ["caradepau901"] = true, -- player00000 1 semana fim 30/08/2025
-  
+    ["cxjuhj"] = true, -- cxjuhj 3 dias fim 28/08/2025
 
     -- 3 dias
     ["thelast12211"] = true, -- clint70 3 dias 24/08/2025
@@ -121,6 +121,7 @@ return {
     ["dhhdhwje1"] = true, -- guelzito12 3 dias fim 27/08/2025
     ["Tivesr35"] = true, -- d_molestador_12999 3 dias fim 27/08/2025
     ["0000000000000009010"] = true, -- lorenzo_roblox 3 dias fim 27/08/2025
+
 
     -- outros
     ["javali_444gg"] = true, -- gabriel_henrique0373 sorteio 25/08/2025
