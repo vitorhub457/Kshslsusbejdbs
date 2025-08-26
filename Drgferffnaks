@@ -126,6 +126,8 @@ return {
     ["cxjuhj"] = true, -- cxjuhj 3 dias fim 28/08/2025
     ["Kaick890567"] = true, -- davi087201 3 dias fim 28/08/2025
     ["438ri_2"] = true, -- phzinho0160 3 dias fim 28/08/2025
+    ["Ryan_Eduardu"] = true, -- ryan01 3 dias fim 29/08/2025
+   
 
     -- outros
     ["izaac92288"] = true, -- gustavo_yt2.0. 20 dias inpulso  14/09/2025
@@ -134,7 +136,7 @@ return {
     ["dilaver7117"] = true, -- aspect_24 2 semana fim 25/10/2025
     ["kgdfh6"] = true, -- taypp 20 dias fim 14/09/2025
     ["peixebometop"] = true, -- .leonardo064817 3 dias fim 13/09/2025
-    ["budhhaleopardo"] = true, -- .luis09 10 dias fim 05/09/2025
+    ["budhhaleopardo"] = true, -- .luis09 10 dias fim 05/09/2025 
 
 
 }
