@@ -14,6 +14,7 @@ return {
     
 
     -- Vitalicio
+    ["garfishbjwc_88"] = true, -- lohan_xiter vitalicio
     ["dszin0_0"] = true, -- leaodalapa vitalicio
     ["kaynahhhhh"] = true, -- kakah0240 vitalicio
     ["MIGUEL2000MU1"] = true, -- clone vitalicio
