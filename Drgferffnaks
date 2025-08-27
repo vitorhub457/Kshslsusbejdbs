@@ -1,7 +1,5 @@
 return {
     -- Staff
-    ["is_dragom"] = true, -- nayura77
-    ["Lusquinha_067"] = true, -- lusca
     ["pozella999"] = true, -- pozzhck
     ["Usuario_X1x1x1"] = true, -- shelby
     ["emanifesto6q"] = true, -- 4nna
@@ -83,6 +81,7 @@ return {
     ["pattsumrbs"] = true, -- josk 1 mes fim 24/09/2025
     ["adm_lucas48"] = true, -- putz_lucas._._89727 1 mes fim 25/09/2025
     ["Misterbaconhj"] = true, -- soldado_biel 1 mes fim 27/09/2025
+    ["Dqvi_MineHK"] = true, -- Daff 1 mes fim 27/09/2025
 
 
     -- Semanal
@@ -114,6 +113,7 @@ return {
     ["Kaick890567"] = true, -- davi087201 3 dias fim 28/08/2025
     ["438ri_2"] = true, -- phzinho0160 3 dias fim 28/08/2025
     ["ryan_Eduardu"] = true, -- ryan01 3 dias fim 29/08/2025
+    ["is_dragom"] = true, -- nayura77 3 dias fim 30/08/2025
    
 
     -- outros
