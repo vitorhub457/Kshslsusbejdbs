@@ -49,12 +49,6 @@ return {
     ["kayolyan"] = true, -- kayobloxfruit 2 meses fim 24/10/2025
 
     -- 1 mes
-    ["NandoAranha"] = true, -- 1 mes fim 27/08/2025
-    ["XanXalvador"] = true, -- hit 1 mes fim 27/08/2025
-    ["nxp2i4"] = true, -- sem nome 1 mes fim 27/08/2025
-    ["Vinicius_Gamerofc1"] = true, -- sem nome 1 mes fim 27/08/2025
-    ["joao018805"] = true, -- sem nome 1 mes fim 27/08/2025
-    ["gk_r4p"] = true, -- sem nome 1 mes fim 27/08/2025
     ["kjsaitama50"] = true, -- loney 1 mes fim 29/08/2025
     ["calvobonitao_v3"] = true, -- loney 1 mes fim 29/08/2025
     ["souagiota20"] = true, -- ztrik3r 1 mes fim 31/08/2025  
@@ -85,33 +79,14 @@ return {
 
 
     -- Semanal
-    
-    ["nino_abravanel15707"] = true, -- polo181972631 1 semana fim 27/08/2025
-    ["untoa8xt"] = true, -- nicoblox 1 semana fim 27/08/2025
-    ["luczin2447"] = true, -- lucinxz 1 semana fim 27/08/2025
-    ["kllhzs"] = true, -- kaleb_tkk_21192 1 semana fim 27/08/2025
     ["wnsishsksjjsksjdjd"] = true, -- Francisco 1 semana fim 30/08/2025
-    ["joca6578"] = true, -- faelzin7xz 1 semana fim 27/08/2025
-    ["BIELZIN_0I"] = true, -- bielzin919172 1 semana fim 27/08/2025
-    ["Monkedluffy1601"] = true, -- marcoz_75 1 semana fim 28/08/2025
-    ["menor_docria9391"] = true, -- ayslan05078 1 semana fim 28/08/2025
     ["caradepau901"] = true, -- player00000 1 semana fim 30/08/2025
     ["ltz_tutu021"] = true, -- .snakezz_ 1 semana fim 03/09/2025
     ["rip_arthu1572"] = true, -- arthurxp0500 1 semana fim 02/09/2025
     
 
     -- 3 dias
-    ["marcosbobm"] = true, -- guest666 3 dias fim 27/08/2025
     ["darkizinho9910"] = true, -- thetitantvman19 6 dias fim 31/08/2025
-    ["ereseus7"] = true, -- .snakezz_ 3 dias fim 27/08/2025
-    ["samueloficoi1"] = true, -- sigma0459_89932 3 dias fim 27/08/2025
-    ["ryan_nevida3"] = true, -- itspartygirlj 3 dias fim 27/08/2025
-    ["dhhdhwje1"] = true, -- guelzito12 3 dias fim 27/08/2025
-    ["Tivesr35"] = true, -- d_molestador_12999 3 dias fim 27/08/2025
-    ["0000000000000009010"] = true, -- lorenzo_roblox 3 dias fim 27/08/2025
-    ["cxjuhj"] = true, -- cxjuhj 3 dias fim 28/08/2025
-    ["Kaick890567"] = true, -- davi087201 3 dias fim 28/08/2025
-    ["438ri_2"] = true, -- phzinho0160 3 dias fim 28/08/2025
     ["ryan_Eduardu"] = true, -- ryan01 3 dias fim 29/08/2025
     ["is_dragom"] = true, -- nayura77 3 dias fim 30/08/2025
     ["Pedro40bem70"] = true, -- scott 3 dias fim 30/08/2025
@@ -119,7 +94,7 @@ return {
 
     -- outros
     ["izaac92288"] = true, -- gustavo_yt2.0. 20 dias inpulso  14/09/2025
-    ["dilaver7117"] = true, -- aspect_24 2 semana fim 25/10/2025
+    ["dilaver7117"] = true, -- aspect_24 2 semana fim 14/09/2025
     ["kgdfh6"] = true, -- taypp 20 dias fim 14/09/2025
     ["peixebometop"] = true, -- .leonardo064817 3 dias fim 13/09/2025
     ["budhhaleopardo"] = true, -- .luis09 10 dias fim 05/09/2025 
