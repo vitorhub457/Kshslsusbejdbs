@@ -104,8 +104,6 @@ return {
 
 
     -- Semanal
-    ["ltz_tutu021"] = true, -- .snakezz_ 1 semana fim 03/09/2025
-    ["rip_arthu1572"] = true, -- arthurxp0500 1 semana fim 02/09/2025
     ["ReaperOfficiel"] = true, -- axeldalas 1 semana fim 04/09/2025
     ["dttps_148980"] = true, -- Júlio.gg 1 semana fim 07/09/2025
     ["capivaoioi"] = true, -- kevingames 1 semana fim 05/09/2025
@@ -117,18 +115,6 @@ return {
     ["x_P3drox"] = true, -- matheus038896 1 semana fim 07/09/2025
 
     -- 3 dias
-    ["aalexis5562"] = true, -- alexis_1550 3 dias fim 02/09/2025
-    ["fela9s"] = true, -- felaips 3 dias fim 02/09/2025
-    ["ADRIXX_142"] = true, -- adrixx 3 dias fim 02/09/2025
-    ["Alexanderson496"] = true, -- admmike3099 3 dias fim 02/09/2025
-    ["huzako7"] = true, -- rlksousa 3 dias fim 02/09/2025
-    ["Bernardo_romom"] = true, -- tkgabriel.80 3 dias fim 02/09/2025
-    ["italo_zerei4"] = true, -- italojgrb 3 dias fim 03/09/2025
-    ["matiasprodk1"] = true, -- mat12 3 dias fim 03/08/2025
-    ["Gatinho26FOFO"] = true, -- gatinho26 3 dias fim 03/09/2025
-    ["barba_pranca1212"] = true, -- bielztx0_33512 3 dias fim 03/09/2025
-    ["hack_lixo6"] = true, -- joaooo_az 3 dias fim 03/09/2025
-    ["Angelo626962"] = true, -- angelo99 3 dias fim 03/09/2025
     ["miqueiasmiqueias_472"] = true, -- jv60794 3 dias fim 07/09/2025
     ["rafinha33959"] = true, -- angelorafael0771_98143 3 dias fim 07/09/2025
     ["ArthurNJ104"] = true, -- 021tutu_xz 3 dias fim 04/09/2025
@@ -141,13 +127,12 @@ return {
    
 
     -- outros
-    ["izaac92288"] = true, -- gustavo_yt2.0. 20 dias inpulso  14/09/2025
+    ["izaac92288"] = true, -- gustavo_yt2.0. 20 dias 14/09/2025
     ["dilaver7117"] = true, -- aspect_24 2 semana fim 14/09/2025
     ["kgdfh6"] = true, -- taypp 20 dias fim 14/09/2025
     ["peixebometop"] = true, -- .leonardo064817 3 dias fim 13/09/2025
     ["budhhaleopardo"] = true, -- .luis09 10 dias fim 05/09/2025
     ["candoruklskxlmoxm"] = true, -- babapro 4 dias 04/09/2025
-    ["ERIK90909082"] = true, -- dudu028396 1 dia 02/09/2025/21:50
     ["Kaysko_sokyonb"] = true, -- isawyxz 20 dias fim 19/09/2025
 
 
