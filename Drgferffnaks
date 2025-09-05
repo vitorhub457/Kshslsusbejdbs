@@ -82,7 +82,6 @@ return {
     ["52FDSH"] = true, -- diones7606  1 mes fim 13/09/2025
     ["mandrake07970"] = true, -- phzin_kka 1 mes fim 20/09/2025
     ["graknniu"] = true, -- pedrohenrique012 1 mes fim 15/09/2025
-    ["to_duro237"] = true, -- miguelalves9771 1 mes fim 15/09/2025
     ["o_melhor342"] = true, -- miguelalves9771 1 mes fim 16/09/2025
     ["Carlos999_0p"] = true, -- carloszxui 1 mes fim 18/09/2025
     ["bundarosinha"] = true, -- nescas4 1 mes fim 19/09/2025
@@ -163,6 +162,7 @@ return {
     ["bandido244966"] = true, -- mateus081913 2 dias fim 06/09/2025
     ["arthur667125"] = true, -- jajajojojiji 2 dias fim 06/09/2025
     ["gabriel373853"] = true, -- brisado157 2 dias fim 07/09/2025
+    ["nobruzin0904"] = true, -- miguelalves9771 20 dias fim 25/09/2025
 
 
 }
