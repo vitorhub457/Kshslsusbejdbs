@@ -94,13 +94,12 @@ return {
     ["abastetz20"] = true, -- rayxzyxx 2 meses fim 07/11/2025
     ["Rj_Diogo6"] = true, -- diogo.xt6 2 meses fim 08/11/2025
     ["cagomome"] = true, -- cagomome 2 meses fim 08/11/2025
-    ["gamer_dirvedidap"] = true, -- kodak0349 2 meses fim 08/11/2025
+    ["gamer_dirvedidap"] = true, -- kodak0349 2 meses fim 08/11/2025 
+    ["darkness_SupremoAWJ"] = true, -- luissamuel1 2 meses fim 09/11/2025
 
 
 
     -- 1 mes
-    ["tyuekkodsk"] = true, -- vitinho.xs. 1 mes 09/09/2025
-    ["alexiacamisa1"] = true, -- matheusbmx. 1 mes fim 09/09/2025
     ["zorohenmasen"] = true, -- Bernado1. 1 mes fim 10/09/2025
     ["FSVR24251"] = true, -- diones7606  1 mes fim 13/09/2025
     ["52FDSH"] = true, -- diones7606  1 mes fim 13/09/2025
@@ -108,7 +107,6 @@ return {
     ["graknniu"] = true, -- pedrohenrique012 1 mes fim 15/09/2025
     ["o_melhor342"] = true, -- miguelalves9771 1 mes fim 16/09/2025
     ["Carlos999_0p"] = true, -- carloszxui 1 mes fim 18/09/2025
-    ["bundarosinha"] = true, -- nescas4 1 mes fim 19/09/2025
     ["BD_GOKENNY"] = true, -- goken1131 1 mes fim 19/09/2025
     ["jjkoid6353"] = true, -- scripts0903 1 mes fim 19/09/2025
     ["murilo_12303"] = true, -- murillo.82 1 mes 21/09/2025
@@ -127,8 +125,8 @@ return {
     ["josesavioxx"] = true, -- swyx0915_15276 1 mes fim 30/9/2025
     ["O21marcelo_021"] = true, -- 729721 1 mes fim 30/09/2025
     ["drani372"] = true, -- drevix13 1 mes fim 30/09/2025
-    ["XHZ_07"] = true, -- jester00 1 mes fim 31/09/2025
-    ["sr_vssvictor"] = true, -- avknlife_78068 1 mes fim 31/09/2025
+    ["XHZ_07"] = true, -- jester00 1 mes fim 01/10/2025
+    ["sr_vssvictor"] = true, -- avknlife_78068 1 mes fim 01/10/2025
     ["menor_rdzx7"] = true, -- arthur090pp 1 mes fim 03/10/2025
     ["Gatinho26FOFO"] = true, -- gatinho26 1 mes fim 03/10/2025
     ["emanifesto6q"] = true, -- anna 1 mes fim 03/10/2025
@@ -165,7 +163,6 @@ return {
     ["PlayerEnigma_5"] = true, -- lucasff445_25165 1 semana fim 13/09/2025
     ["ryan_gamer652"] = true, -- ryandoboso 1 semana fim 08/09/2025
     ["DodsonBrad2"] = true, -- rsullucasferreira 1 semana fim 08/09/2025
-    ["Lucas_edits7377"] = true, -- japinhaaaa0 1 semana fim 08/09/2025
     ["xgui556"] = true, -- shadow_07867 1 semana fim 08/09/2025
     ["ghjgcuz"] = true, -- alisson3344 1 semana fim 14/09/2025
     ["Lucas_edits7377"] = true, -- japinhaaaa0 1 semana fim 14/09/2025
@@ -176,33 +173,10 @@ return {
 
 
     -- 3 dias
-    ["lvpxmanu"] = true, -- jjsm91 3 dias fim 08/09/2025
-    ["mellu107"] = true, -- ghost_7266 3 dias fim 08/09/2025
-    ["witor3607"] = true, -- witoremanoel 3 dias fim 08/09/2025
-    ["luan122010"] = true, -- luanzin0404 3 dias fim 08/09/2025
-    ["jorginho120009"] = true, -- luizluizlindo 3 dias fim 08/09/2025
-    ["PM_Pedro3333"] = true, -- pdzinxp7 3 dias fim 08/09/2025
-    ["hebahkan3h"] = true, -- carlos_tenzoo 3 dias 08/09/2025
-    ["capivarinha45688"] = true, -- cleintok 3 dias 08/09/2025
-    ["MANDRAK123459"] = true, -- neylon0630_80503 3 dias 08/09/2025
-    ["pedriinn_gamerr"] = true, -- rdzin21 3 dias fim 08/09/2025
-    ["MOREETE7"] = true, -- minhavo 3 dias fim 09/09/2025
-    ["Aislan556i2"] = true, -- guilherme0147 3 dias fim 09/09/2025
-    ["pedrorjgm11"] = true, -- cebolinha29 3 dias fim 09/09/2025
-    ["XXXX12STH"] = true, -- juliohenrique39 3 dias fim 09/09/2025
-    ["theguy_say"] = true, -- sattk_ 3 dias fim 09/09/2025
-    ["andredecria3"] = true, -- andre25k 3 dias fim 09/09/2025
-    ["joaq2480"] = true, -- jocas0967 3 dias fim 09/09/2025
-    ["famitopey"] = true, -- wdzzy7xx 3 dias fim 09/09/2025
-    ["kaike_xs8"] = true, -- kaike._.xtw 3 dias fim 09/09/2025
-    ["DUDUXZIN_BR"] = true, -- hhjfjfuguf 3 dias fim 09/09/2025
-    ["SADX5434"] = true, -- igor023966 3 dias fim 09/09/2025
-    ["Foortataq"] = true, -- nickzin_42 3 dias fim 09/09/2025
     ["neymar11flamengo81"] = true, -- samuelalves0 3 dias fim 10/09/2025
     ["Mtzin0322"] = true, -- theuz0756 3 dias fim 10/09/2025
     ["ygo_enzo"] = true, -- brunokkll. 3 dias fim 10/09/2025
     ["mialedzahk"] = true, -- iago031598 3 dias fim 10/09/2025
-    ["black_rp777"] = true, -- black_rp 3 dias fim 10/09/2025
     ["RafaelBDO0419"] = true, -- liuliubro 3 dias fim 10/09/2025
     ["oiaqdedoem"] = true, -- gabriel022 3 dias fim 10/09/2025
     ["spreiddent4"] = true, -- pedroallef 3 dias fim 10/09/2025
@@ -219,14 +193,13 @@ return {
     ["StealaBrainrot111851"] = true, -- eyan06088 3 dias fim 11/09/2025
     ["gbugado20"] = true, -- mtz_sz777 3 dias fim 12/09/2025
     ["roubobrainront"] = true, -- ruanff6307 3 dias fim 12/09/2025
-    ["black_rp777"] = true, -- black_rp 3 dias fim 12/09/2025
+    ["black_rp777"] = true, -- black_rp 3 dias fim 13/09/2025
    
    
 
     -- outros
     ["izaac92288"] = true, -- gustavo_yt2.0. 20 dias 14/09/2025
     ["dilaver7117"] = true, -- aspect_24 2 semana fim 14/09/2025
-    ["kgdfh6"] = true, -- taypp 20 dias fim 14/09/2025
     ["peixebometop"] = true, -- .leonardo064817 3 dias fim 13/09/2025
     ["Kaysko_sokyonb"] = true, -- isawyxz 20 dias fim 19/09/2025
     ["nobruzin0904"] = true, -- miguelalves9771 20 dias fim 25/09/2025
