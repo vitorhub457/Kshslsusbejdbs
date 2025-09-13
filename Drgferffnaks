@@ -180,7 +180,7 @@ return {
 
 
     -- 3 dias
-["Batatinhadocara"] = true, -- @luiz._.80 3d fim 16/09/2025
+["batatinhadocara"] = true, -- @luiz._.80 3d fim 16/09/2025
 ["APRENDENDOSCRIPT_4"] = true, -- @dupi4031 3d fim 16/09/2025
 ["LTC_861"] = true, -- @king_hah 3d fim 16/09/2025
 ["Omelhor_242"] = true, -- @phzinho0160 3d fim 16/09/2025
