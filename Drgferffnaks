@@ -5,6 +5,7 @@ return {
     ["Usuario_X1x1x1"] = true, -- shelby
     ["BSX_ADMIRI"] = true, -- BSX
     ["RaelAdminScripter"] = true, -- Rael
+    ["sanscoquette"] = true, -- @jesusvive._. 4m fim 11/01/2026
     
 
     -- Vitalicio
@@ -67,7 +68,6 @@ return {
 
 
     -- 4 meses
-["sanscoquette"] = true, -- @jesusvive._. 4m fim 11/01/2026
     ["Davi_jk180"] = true, -- davi0422 4 meses fim 18/12/2025
     ["bgkb1el"] = true, -- sag0841_67213 4 meses fim 23/12/2025
     ["maike_japones"] = true, -- 78biel 4 meses fim 23/12/2025
@@ -112,8 +112,6 @@ return {
 ["xgui556"] = true, -- @shadow_07867 1m fim 13/10/2025
 ["pecanha99"] = true, -- @selene2640 1m fim 12/10/2025
 ["LUIGI_CRIA9987"] = true, -- @jesusvive._. 1m fim 12/10/2025
-    ["FSVR24251"] = true, -- diones7606  1 mes fim 13/09/2025
-    ["52FDSH"] = true, -- diones7606  1 mes fim 13/09/2025
     ["mandrake07970"] = true, -- phzin_kka 1 mes fim 20/09/2025
     ["graknniu"] = true, -- pedrohenrique012 1 mes fim 15/09/2025
     ["o_melhor342"] = true, -- miguelalves9771 1 mes fim 16/09/2025
@@ -167,12 +165,6 @@ return {
 
 
     -- Semanal
-    ["victorryan200"] = true, -- japa_2k 1 semana fim 12/09/2025
-    ["ryfrutdrrr"] = true, -- kenned0179 1 semana fim 12/09/2025
-    ["jakepuding20yt"] = true, -- thulioarthur 1 semana fim 13/09/2025
-    ["tres_dedos8"] = true, -- tmj.riquelmy_47286 1 semana fim 13/09/2025
-    ["abcde123456ak"] = true, -- nicolas012929 1 semana fim 13/09/2025
-    ["PlayerEnigma_5"] = true, -- lucasff445_25165 1 semana fim 13/09/2025
     ["ghjgcuz"] = true, -- alisson3344 1 semana fim 14/09/2025
     ["Lucas_edits7377"] = true, -- japinhaaaa0 1 semana fim 14/09/2025
     ["Gustavo2015052"] = true, -- japa_2k_ 1 semana fim 14/09/2025
@@ -194,22 +186,8 @@ return {
 ["BloxZera_121"] = true, -- @fantastic_quail_24424 3d fim 16/09/2025
 ["Mtzin0322"] = true, -- @theuz0756 3d fim 16/09/2025
 ["fefe93974"] = true, -- @felipepaivax0 3d fim 15/09/2025
-["lol666"] = true, -- Lolyta 👾 3d fim 15/09/2025
 ["matheus131ks"] = true, -- @victor06119 3d fim 15/09/2025
 ["438ri_2"] = true, -- @phzinho0160 3d fim 15/09/2025
-    ["gbugado20"] = true, -- mtz_sz777 3 dias fim 12/09/2025
-    ["roubobrainront"] = true, -- ruanff6307 3 dias fim 12/09/2025
-    ["black_rp777"] = true, -- black_rp 3 dias fim 13/09/2025
-    ["Ch0ra_Bebezin"] = true, -- s2kauanzx 3 dias fim 12/10/2025
-    ["inc0mu00871"] = true, -- udn_biel 3 dias fim 13/10/2025
-    ["Henrique8844"] = true, -- wx.vgb 3 dias fim 13/10/2025
-    ["eugdaee"] = true, -- yuri02332 3 dias fim 13/10/2025
-    ["itz_brain6"] = true, -- xmiguel90 3 dias fim 13/10/2025
-    ["spreiddent4"] = true, -- pedroallef_ 3 dias fim 13/10/2025
-    ["uoubrainrots"] = true, -- 1310220936083013695 3 dias fim 13/10/2025
-    ["1UC45FOR7UN470"] = true, -- lkzxx_777 3 dias fim 13/10/2025
-    ["santosx_214"] = true, -- luanzin02403 3 dias fim 13/10/2025
-    ["HUMANO_BRASILL"] = true, -- carelesse. 3 dias fim 14/10/2025
     ["Alexnadrec4"] = true, -- felss_xandizin_gstz 3 dias fim 14/10/2025
     ["vvvvvvew2eeee"] = true, -- rafalindinho 3 dias fim 14/10/2025
     ["hack_lixo6"] = true, -- jaooo_az9a 3 dias fim 14/10/2025
