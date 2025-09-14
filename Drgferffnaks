@@ -2,6 +2,7 @@ return {
 
 
     -- staff
+["sanscoquette"] = true, -- @jesusvive._. Staff
 ["wmelendez_41"] = true, -- @darkzin99__ Staff
     ["Usuario_X1x1x1"] = true, -- shelby
     ["BSX_ADMIRI"] = true, -- BSX
