@@ -1,14 +1,14 @@
 return {
 
 
-    -- Staff
+    -- staff
     ["Usuario_X1x1x1"] = true, -- shelby
     ["BSX_ADMIRI"] = true, -- BSX
     ["RaelAdminScripter"] = true, -- Rael
     ["sanscoquette"] = true, -- @jesusvive._. 4m fim 11/01/2026
     
 
-    -- Vitalicio
+    -- vitalicio
     ["gtavaitoma"] = true, -- kakashi_script99 vitalicio
     ["garfishbjwc_88"] = true, -- lohan_xiter vitalicio
     ["dszin0_0"] = true, -- leaodalapa vitalicio
@@ -170,7 +170,7 @@ return {
     ["neymaraura7"] = true, -- manga0526 1 mes fim 12/10/2025
 
 
-    -- Semanal
+    -- semanal
     ["ghjgcuz"] = true, -- alisson3344 1 semana fim 14/09/2025
     ["Lucas_edits7377"] = true, -- japinhaaaa0 1 semana fim 14/09/2025
     ["Gustavo2015052"] = true, -- japa_2k_ 1 semana fim 14/09/2025
