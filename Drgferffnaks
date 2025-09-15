@@ -2,6 +2,7 @@ return {
 
 
     -- staff
+["RH_Novo"] = true, -- @rhmano25 Staff
 ["dvdfy4wfiyf"] = true, -- @jesusvive._. Staff
 ["Loregamer_02GG"] = true, -- @lolytao. Staff
 ["emanifesto6q"] = true, -- @sementedocaos44 Staff
