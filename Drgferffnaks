@@ -194,6 +194,7 @@ return {
 
 
     -- 3 dias
+["cantanguandi2"] = true, -- @janderson027949 3d fim 17/09/2025
 ["scripter_docartola"] = true, -- @chora_pro_junin_98831 3d fim 17/09/2025
 ["gguelgamer"] = true, -- @renatoflima89 3d fim 17/09/2025
 ["black_rp777"] = true, -- @black_rp 3d fim 17/09/2025
