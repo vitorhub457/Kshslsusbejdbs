@@ -18,7 +18,6 @@ return {
 ["tcb6tb6c6bc"] = true, -- @arthur03664 vitalicio fim vitalicio
 ["pintilinteste"] = true, -- @gostodebrainrots vitalicio fim vitalicio
 ["DarYizinXD"] = true, -- @vrendsx vitalicio fim vitalicio
-["Pintilinteste"] = true, -- @gostodebrainrots vitalicio fim vitalicio
 ["Gojo_22796"] = true, -- @jesusvive._. vitalicio fim vitalicio
 ["kiera7pockett"] = true, -- @kiera02219 vitalicio fim vitalicio
 ["Taylor14Brother"] = true, -- @naopeganomeu___f_42980 vitalicio fim vitalicio
@@ -138,7 +137,6 @@ return {
 ["xgui556"] = true, -- @shadow_07867 1m fim 13/10/2025
 ["pecanha99"] = true, -- @selene2640 1m fim 12/10/2025
     ["mandrake07970"] = true, -- phzin_kka 1 mes fim 20/09/2025
-    ["graknniu"] = true, -- pedrohenrique012 1 mes fim 15/09/2025
     ["o_melhor342"] = true, -- miguelalves9771 1 mes fim 16/09/2025
     ["Carlos999_0p"] = true, -- carloszxui 1 mes fim 18/09/2025
     ["BD_GOKENNY"] = true, -- goken1131 1 mes fim 19/09/2025
@@ -183,15 +181,10 @@ return {
     ["eisksks929"] = true, -- gaymer0513 1 mes fim 11/10/2025
     ["gbzin15830"] = true, -- kaioxxlkh 1 mes fim 11/10/2025
     ["RafaelBDO0419"] = true, -- liuliubro_ 1 mes fim 11/10/2025
-    ["shadow83953"] = true, -- shadow066065 1 mes fim 12/10/2025
     ["neymaraura7"] = true, -- manga0526 1 mes fim 12/10/2025
 
 
     -- semanal
-    ["ghjgcuz"] = true, -- alisson3344 1 semana fim 14/09/2025
-    ["Lucas_edits7377"] = true, -- japinhaaaa0 1 semana fim 14/09/2025
-    ["Gustavo2015052"] = true, -- japa_2k_ 1 semana fim 14/09/2025
-    ["ponchatsg4"] = true, -- arthur068851 1 semana fim 15/09/2025
     ["Erikryan_7"] = true, -- erik_ryan 1 semana fim 16/09/2025   
     ["kauamatosvilla"] = true, -- 1384307599876296818 1 semana fim 16/09/2025
     ["ryfrutdrrr"] = true, -- kenned0179_62682 1 semana fim 17/09/2025
@@ -219,33 +212,18 @@ return {
 ["inc0mu00871"] = true, -- @udn_biel 3d fim 16/09/2025
 ["Tubers93177373"] = true, -- @manoapredizdevirus 3d fim 16/09/2025
 ["Joaolucasopii"] = true, -- @jao086928 3d fim 16/09/2025
-["joaolucasopii"] = true, -- @jao086928 3d fim 16/09/2025
 ["dysdfss"] = true, -- @kalebao345yt4738 3d fim 16/09/2025
 ["batatinhadocara"] = true, -- @luiz._.80 3d fim 16/09/2025
 ["APRENDENDOSCRIPT_4"] = true, -- @dupi4031 3d fim 16/09/2025
 ["Omelhor_242"] = true, -- @phzinho0160 3d fim 16/09/2025
 ["Mtzin0322"] = true, -- @theuz0756 3d fim 16/09/2025
-["fefe93974"] = true, -- @felipepaivax0 3d fim 15/09/2025
-["matheus131ks"] = true, -- @victor06119 3d fim 15/09/2025
-["438ri_2"] = true, -- @phzinho0160 3d fim 15/09/2025
 ["PODEROSO_NZ0"] = true, -- @davi026003 3d fim 18/09/2025
 ["VAGALUMEPOLAR"] = true, -- @jadzun_18353 3d fim 18/09/2025
-    ["vvvvvvew2eeee"] = true, -- rafalindinho 3 dias fim 14/10/2025
-    ["Hetien"] = true, -- hetien_ 3 dias fim 14/10/2025
-    ["04levy28"] = true, -- levy6861 3 dias fim 14/10/2025
-    ["nicobagre"] = true, -- neymar_e 3 dias fim 15/10/2025
-    ["Ismael2012856"] = true, -- ismael455 3 dias fim 15/10/2025
-    ["PM_Pedro3333"] = true, -- pdzinxp7 3 dias fim 15/10/2025
-    ["saelvinte"] = true, -- obbey__ 3 dias fim 15/10/2025
-    ["erickbloxfruitokblz"] = true, -- gb771li_15105 3 dias fim 15/10/2025
    
 
     -- outros
-    ["izaac92288"] = true, -- gustavo_yt2.0. 20 dias 14/09/2025
-    ["dilaver7117"] = true, -- aspect_24 2 semana fim 14/09/2025
-    ["peixebometop"] = true, -- .leonardo064817 3 dias fim 13/09/2025
     ["Kaysko_sokyonb"] = true, -- isawyxz 20 dias fim 19/09/2025
-    ["nobruzin0904"] = true, -- miguelalves9771 20 dias fim 25/09/2025 c
+    ["nobruzin0904"] = true, -- miguelalves9771 20 dias fim 25/09/2025 
 
 
 }
