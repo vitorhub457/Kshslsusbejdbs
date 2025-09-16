@@ -195,6 +195,7 @@ return {
 
 
     -- 3 dias
+["Hetien"] = true, -- @hetien_ 3d fim 19/09/2025
 ["01Xxx09"] = true, -- @quentengiel_63681 3d fim 19/09/2025
 ["dudagame1725"] = true, -- @lucas01458 3d fim 19/09/2025
 ["o"] = true, -- @nick_23729 3d fim 18/09/2025
