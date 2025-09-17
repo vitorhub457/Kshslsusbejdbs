@@ -196,6 +196,7 @@ return {
 
 
     -- 3 dias
+["Hetien"] = true, -- @hetien_ 3d fim 20/09/2025
 ["Kauan_knz9"] = true, -- @daviscript0580_74926 3d fim 20/09/2025
 ["trem_bala730"] = true, -- @antiputa10 3d fim 19/09/2025
 ["nicollas15344"] = true, -- @nicollas09349 3d fim 19/09/2025
