@@ -149,8 +149,6 @@ return {
 ["xgui556"] = true, -- @shadow_07867 1m fim 13/10/2025
 ["pecanha99"] = true, -- @selene2640 1m fim 12/10/2025
     ["mandrake07970"] = true, -- phzin_kka 1 mes fim 20/09/2025
-    ["o_melhor342"] = true, -- miguelalves9771 1 mes fim 16/09/2025
-    ["Carlos999_0p"] = true, -- carloszxui 1 mes fim 18/09/2025
     ["BD_GOKENNY"] = true, -- goken1131 1 mes fim 19/09/2025
     ["jjkoid6353"] = true, -- scripts0903 1 mes fim 19/09/2025
     ["murilo_12303"] = true, -- murillo.82 1 mes 21/09/2025
@@ -195,10 +193,7 @@ return {
 
 
     -- semanal
-    ["Erikryan_7"] = true, -- erik_ryan 1 semana fim 16/09/2025   
-    ["kauamatosvilla"] = true, -- 1384307599876296818 1 semana fim 16/09/2025
-    ["Lucasdichava07"] = true, -- xxmtzinxx. 1 semana fim 17/09/2025
-    ["Biancai_540"] = true, -- santiaog0348_52494 1 semana fim 17/09/2025
+    ["Erikryan_7"] = true, -- erik_ryan 1 semana fim 16/09/2025
 
 
     -- 3 dias
@@ -222,23 +217,7 @@ return {
 ["nicollas15344"] = true, -- @nicollas09349 3d fim 19/09/2025
 ["01Xxx09"] = true, -- @quentengiel_63681 3d fim 19/09/2025
 ["dudagame1725"] = true, -- @lucas01458 3d fim 19/09/2025
-["o"] = true, -- @nick_23729 3d fim 18/09/2025
-["youtiu955"] = true, -- @m0900osk_48794 3d fim 18/09/2025
-["redzblox12"] = true, -- @btsplaygame 3d fim 18/09/2025
-["gguelgamer"] = true, -- @renatoflima89 3d fim 17/09/2025
-["black_rp777"] = true, -- @black_rp 3d fim 17/09/2025
-["Marcelo1p620"] = true, -- @gustavo052932 3d fim 17/09/2025
-["rixosocx"] = true, -- @rixosocx 3d fim 17/09/2025
-["doxPkwsXLBt"] = true, -- @caualucah 3d fim 16/09/2025
-["inc0mu00871"] = true, -- @udn_biel 3d fim 16/09/2025
-["Tubers93177373"] = true, -- @manoapredizdevirus 3d fim 16/09/2025
-["Joaolucasopii"] = true, -- @jao086928 3d fim 16/09/2025
-["batatinhadocara"] = true, -- @luiz._.80 3d fim 16/09/2025
-["APRENDENDOSCRIPT_4"] = true, -- @dupi4031 3d fim 16/09/2025
-["Omelhor_242"] = true, -- @phzinho0160 3d fim 16/09/2025
-["Mtzin0322"] = true, -- @theuz0756 3d fim 16/09/2025
-["PODEROSO_NZ0"] = true, -- @davi026003 3d fim 18/09/2025
-["VAGALUMEPOLAR"] = true, -- @jadzun_18353 3d fim 18/09/2025
+
    
 
     -- outros
