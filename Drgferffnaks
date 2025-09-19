@@ -199,6 +199,7 @@ return {
 
 
     -- 3 dias
+["tpsnoprime"] = true, -- @mantofake_49918 3d fim 22/09/2025
 ["todehackmemodoido"] = true, -- @plf.zsd 3d fim 22/09/2025
 ["cnt_mob2"] = true, -- @mob.121_53645 3d fim 21/09/2025
 ["xheryofc"] = true, -- @heryssonyt 3d fim 21/09/2025
