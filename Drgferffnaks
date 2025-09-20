@@ -12,6 +12,7 @@ return {
     
 
     -- vitalicio
+["RH_Novo"] = true, -- @188._. vitalicio fim vitalicio
 ["Carlos999_0p"] = true, -- @carloszxuio_47134 vitalicio fim vitalicio
 ["cantanguandi2"] = true, -- @janderson027949 vitalicio fim vitalicio
 ["manajjk5"] = true, -- @palomaarcanjo_ vitalicio fim vitalicio
