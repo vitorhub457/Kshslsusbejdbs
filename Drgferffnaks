@@ -88,7 +88,6 @@ return {
 
 
     -- 4 meses
-["Ax7_Neymar57"] = true, -- @rafa19kkkk 4m fim 20/01/2026
 ["Gabi_novaconta3"] = true, -- @gabizinho0957_46954 4m fim 20/01/2026
 ["saelvinte"] = true, -- @obbey__ 4m fim 19/01/2026
 ["ygabrielzin01"] = true, -- @carllos0608 4m fim 18/01/2026
@@ -141,6 +140,7 @@ return {
 
 
     -- 1 mes
+["Ax7_neymar57"] = true, -- @rafa19kkkk 4m fim 22/10/2026
 ["gramiuxdl"] = true, -- @astrox022 1m fim 22/10/2025
 ["ndjdndjsjsn"] = true, -- @aa1020300534 1m fim 22/10/2025
 ["DFGHGHGHH4"] = true, -- @aa1020300534 1m fim 21/10/2025
