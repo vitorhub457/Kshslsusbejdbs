@@ -167,12 +167,6 @@ return {
 ["victorryan200"] = true, -- @japa_2k_ 1m fim 13/10/2025
 ["xgui556"] = true, -- @shadow_07867 1m fim 13/10/2025
 ["pecanha99"] = true, -- @selene2640 1m fim 12/10/2025
-    
-
-    
-   
-    
-   
     ["Wanted_Neanderthaerl"] = true, -- wanted 1 mes fim 24/09/2025
     ["pattsumrbs"] = true, -- josk 1 mes fim 24/09/2025
     ["adm_lucas48"] = true, -- putz_lucas._._89727 1 mes fim 25/09/2025
@@ -211,9 +205,13 @@ return {
     ["neymaraura7"] = true, -- manga0526 1 mes fim 12/10/2025
 
 
-    -- semanal
-    
+
+
+
+    -- 1 semanal
     ["STYEL127"] = true, -- mtzinnaimlock1 1 semana fim 23/09/2025
+
+
 
 
     -- 3 dias
