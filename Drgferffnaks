@@ -219,6 +219,7 @@ return {
 
 
     -- 1 semana
+["MAGO_BLAKE"] = true, -- @samuel024828 1s fim 01/10/2025
 ["Heithorreidocelula"] = true, -- @heitor13546280 1s fim 01/10/2025
 ["ripzo043"] = true, -- @usuario_coquette 1s fim 30/09/2025
 ["sasuke122255"] = true, -- @tsuki1230660 1s fim 30/09/2025
