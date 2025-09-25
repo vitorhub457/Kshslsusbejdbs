@@ -233,6 +233,7 @@ return {
 
 
     -- 3 dias
+["vacagarbost"] = true, -- @thur_forsaken 3d fim 27/09/2025
 ["gustavo_dogOfc"] = true, -- @gustavin_rei_delax 3d fim 27/09/2025
 ["TODDY_CRIA10"] = true, -- @oerickzinf 3d fim 27/09/2025
 ["coquetteadmintest"] = true, -- @mantofake_49918 3d fim 27/09/2025
