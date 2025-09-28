@@ -86,6 +86,7 @@ return {
 
 
     -- 4 meses
+["yonytagarela"] = true, -- @yonytagarela 4m fim 26/01/2026
 ["danielzin1235462"] = true, -- @danielzin0507 4m fim 25/01/2026
 ["ennzo050"] = true, -- @enzzo050_20847 4m fim 25/01/2026
 ["Kingstongh90"] = true, -- @xzbrian_darkzx 4m fim 25/01/2026
