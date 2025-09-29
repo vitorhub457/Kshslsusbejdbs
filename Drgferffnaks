@@ -229,6 +229,7 @@ return {
 
 
     -- 1 semana
+["telc_2"] = true, -- @xxxbolop_03629 1s fim 06/10/2025
 ["R4F1N44"] = true, -- @ooffzadakj 1s fim 05/10/2025
 ["weverton_267"] = true, -- @weverton04002 1s fim 05/10/2025
 ["Amigosdinonaoki"] = true, -- @renan001253 1s fim 04/10/2025
