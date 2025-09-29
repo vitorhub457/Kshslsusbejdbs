@@ -11,6 +11,7 @@ return {
     
 
     -- vitalicio
+["Bby_blessed01"] = true, -- @perf_012 vitalicio fim vitalicio
 ["HEROBRIN3234"] = true, -- @isaacbelizario_86130 vitalicio fim vitalicio
 ["Kakaroto338909"] = true, -- @pietrosilvaramires vitalicio fim vitalicio
 ["famasmarco999"] = true, -- @mrzzk77 vitalicio fim vitalicio
