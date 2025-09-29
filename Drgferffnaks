@@ -110,6 +110,7 @@ return {
     
 
     -- 2 meses
+["REI_THEUZ"] = true, -- @darkxxl_ 2m fim 28/11/2025
 ["gaeldd5566"] = true, -- @renegadee_10 2m fim 28/11/2025
 ["victorryan200"] = true, -- @lolytadev 2m fim 27/11/2025
 ["sung_Shadoww"] = true, -- @caveiraclash 2m fim 27/11/2025
