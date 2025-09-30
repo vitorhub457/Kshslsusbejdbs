@@ -259,6 +259,7 @@ return {
 
 
     -- 3 dias
+["fgbcs13573"] = true, -- @reye_bs 3d fim 03/10/2025
 ["arthurgameryt0009"] = true, -- @thurx007 3d fim 03/10/2025
 ["saulogustavo7ttk"] = true, -- @saulo7xit_83609 3d fim 03/10/2025
 ["bekill13"] = true, -- @be08780 3d fim 02/10/2025
