@@ -154,6 +154,7 @@ return {
 
 
     -- 1 mes
+["Emanuelreiedit"] = true, -- @emanuelreiedit 1m fim 30/10/2025
 ["dgxmega"] = true, -- @mckaioba_06257 1m fim 29/10/2025
 ["hghbdksmoq45439"] = true, -- @tomasgoat11_47046 1m fim 29/10/2025
 ["sofiabarone14"] = true, -- @lolytadev 1m fim 29/10/2025
