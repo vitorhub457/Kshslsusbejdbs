@@ -267,6 +267,7 @@ return {
 
 
     -- 3 dias
+["coquetteadmintest"] = true, -- @mantofake_49918 3d fim 04/10/2025
 ["cadu_cnlh"] = true, -- @dhzin00939 3d fim 04/10/2025
 ["TropaDoRD3"] = true, -- @sdfsfsfs0515 3d fim 04/10/2025
 ["1023NARUTO20"] = true, -- @vamp_123 3d fim 04/10/2025
