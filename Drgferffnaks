@@ -162,6 +162,7 @@ return {
 
 
     -- 1 mes
+["Josiasgamesblox"] = true, -- @isaacstz 1m fim 02/11/2025
 ["eirycm"] = true, -- @naotenhonome0076 1m fim 01/11/2025
 ["DexOnTopForever"] = true, -- @redluadev 1m fim 31/10/2025
 ["TW3GYH130"] = true, -- @e_obrazino777 1m fim 31/10/2025
