@@ -95,6 +95,7 @@ return {
 
 
     -- 4 meses
+["xPapacu"] = true, -- @gustavolucas0465_36597 4m fim 01/02/2026
 ["Estuardo_depaz"] = true, -- @jennydepaz1990 4m fim 28/01/2026
 ["yonytagarela"] = true, -- @yonytagarela 4m fim 26/01/2026
 ["danielzin1235462"] = true, -- @danielzin0507 4m fim 25/01/2026
