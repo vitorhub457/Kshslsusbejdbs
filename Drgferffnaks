@@ -118,6 +118,7 @@ return {
     
 
     -- 2 meses
+["Benjaamin_B"] = true, -- @bezin17382 2m fim 03/12/2025
 ["mathesondoador"] = true, -- @mathesonitoshi 2m fim 01/12/2025
 ["lergen25"] = true, -- @foxin_sdx 2m fim 01/12/2025
 ["bekill13"] = true, -- @be08780 2m fim 01/12/2025
