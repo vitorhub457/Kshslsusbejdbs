@@ -168,6 +168,7 @@ return {
 
 
     -- 1 mes
+["tui1392"] = true, -- @elisiane0484_98971 1m fim 03/11/2025
 ["PKZIN_554321"] = true, -- @pkzin0464_52546 1m fim 03/11/2025
 ["Katherine135711"] = true, -- @davdj0889_18222 1m fim 03/11/2025
 ["XHZ_07"] = true, -- @lvp.x7 1m fim 03/11/2025
