@@ -277,6 +277,7 @@ return {
 
 
     -- 3 dias
+["EPISCADU"] = true, -- @eu_ghostsempre 3d fim 08/10/2025
 ["jasonludavi"] = true, -- @lucas66373 3d fim 08/10/2025
 ["1023NARUTO20"] = true, -- @vamp_123 3d fim 08/10/2025
 ["jejrcekevelvele"] = true, -- @davy_sun._44670 3d fim 08/10/2025
