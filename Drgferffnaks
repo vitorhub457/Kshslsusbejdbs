@@ -275,6 +275,7 @@ return {
 
 
     -- 3 dias
+["Hetien"] = true, -- @hetien_ 3d fim 07/10/2025
 ["Davy_686"] = true, -- @davy_sun._44670 3d fim 07/10/2025
 ["hzqeOLuaQcZ"] = true, -- @gui1019_58758 3d fim 07/10/2025
 ["miguel902293"] = true, -- @miguelcolaresfernandes_03920 3d fim 07/10/2025
