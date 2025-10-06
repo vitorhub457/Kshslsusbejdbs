@@ -13,6 +13,7 @@ return {
     
 
     -- vitalicio
+["desconhesidols"] = true, -- @allanzoka_12345 vitalicio fim vitalicio
 ["FgzinZzz"] = true, -- @gostosao0006 vitalicio fim vitalicio
 ["GUESTS9092"] = true, -- @luan036254 vitalicio fim vitalicio
 ["Loregamer_02GG"] = true, -- @lolytao._88546 vitalicio fim vitalicio
