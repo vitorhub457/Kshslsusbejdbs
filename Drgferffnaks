@@ -277,6 +277,7 @@ return {
 
 
     -- 3 dias
+["01Xxx09"] = true, -- @quentengiel_63681 3d fim 10/10/2025
 ["Victorhugo170110"] = true, -- @victorhugo02595 3d fim 10/10/2025
 ["Mateuss20364"] = true, -- @jpzinxxxx._z 3d fim 10/10/2025
 ["el_diablo60976"] = true, -- @dolly019295 3d fim 10/10/2025
