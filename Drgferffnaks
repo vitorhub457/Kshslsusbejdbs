@@ -13,6 +13,7 @@ return {
     
 
     -- vitalicio
+["timbopa"] = true, -- @pablo_15334 vitalicio fim vitalicio
 ["GuigoRaposa"] = true, -- @guigo0583 vitalicio fim vitalicio
 ["DavizHub"] = true, -- @daviz.hub vitalicio fim vitalicio
 ["FgzinZzz"] = true, -- @gostosao0006 vitalicio fim vitalicio
