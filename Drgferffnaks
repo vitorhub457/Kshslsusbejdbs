@@ -2,7 +2,6 @@ return {
 
 
     -- staff
-["fh_user1"] = true, -- @fh_user Staff
 ["loregamer_02gg"] = true, -- @lolytao._88546 Staff
 ["gravygrumw"] = true, -- @vitoriadalolyta Staff
 ["shadow83953"] = true, -- @snowk6._. Staff
