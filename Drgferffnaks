@@ -12,6 +12,7 @@ return {
     
 
     -- vitalicio
+["GG_ADMIN5"] = true, -- @fidokidbengala__18950 vitalicio fim vitalicio
 ["timbopa"] = true, -- @pablo_15334 vitalicio fim vitalicio
 ["GuigoRaposa"] = true, -- @guigo0583 vitalicio fim vitalicio
 ["DavizHub"] = true, -- @daviz.hub vitalicio fim vitalicio
