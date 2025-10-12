@@ -191,6 +191,7 @@ return {
 
 
     -- 1 mes
+["BIEL_lk001"] = true, -- @rafa071091 1m fim 11/11/2025
 ["daniel705560"] = true, -- @daniel_2560 1m fim 11/11/2025
 ["RDZIM380"] = true, -- @alexjbl_18544 1m fim 11/11/2025
 ["THUNDERgodRKX"] = true, -- @t.wcharles 1m fim 11/11/2025
