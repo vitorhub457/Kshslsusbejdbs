@@ -188,6 +188,7 @@ return {
 
 
     -- 1 mes
+["cnt_mob2"] = true, -- @mob.121_53645 1m fim 10/11/2025
 ["stoleabrainhot986676"] = true, -- @davi0675_00550 1m fim 10/11/2025
 ["wisuhwheueyehdydyd"] = true, -- @pu_detik 1m fim 10/11/2025
 ["hiro_1230tik"] = true, -- @lukin4mgg 1m fim 10/11/2025
