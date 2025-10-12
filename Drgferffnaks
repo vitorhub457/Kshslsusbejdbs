@@ -314,6 +314,7 @@ return {
 
 
     -- 3 dias
+["PHZINN_1244"] = true, -- @phzinn19057 3d fim 15/10/2025
 ["Gabriel_gabb186"] = true, -- @gabriel_gab125_39916 3d fim 15/10/2025
 ["Lertegse"] = true, -- @vinicius040313 3d fim 15/10/2025
 ["maplez_ib"] = true, -- @2kayen 3d fim 15/10/2025
