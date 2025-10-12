@@ -189,6 +189,7 @@ return {
 
 
     -- 1 mes
+["RDZIM380"] = true, -- @alexjbl_18544 1m fim 11/11/2025
 ["THUNDERgodRKX"] = true, -- @t.wcharles 1m fim 11/11/2025
 ["Miguelpvp30358"] = true, -- @rip_teteu10498 1m fim 10/11/2025
 ["cnt_mob2"] = true, -- @mob.121_53645 1m fim 10/11/2025
