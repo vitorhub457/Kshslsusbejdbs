@@ -291,6 +291,7 @@ return {
 
 
     -- 1 semana
+["ESPISCADU"] = true, -- @eu_ghostsempre 1s fim 19/10/2025
 ["fh_user1"] = true, -- @pobre_jhony 1s fim 19/10/2025
 ["deividTaxau10000"] = true, -- @eunaosougoku 1s fim 19/10/2025
 ["davizinhopqd"] = true, -- @dws_12 1s fim 19/10/2025
