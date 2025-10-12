@@ -320,6 +320,7 @@ return {
 
 
     -- 3 dias
+["devin_nf"] = true, -- @adrianff8209666 3d fim 15/10/2025
 ["Hetien"] = true, -- @hetien_ 3d fim 15/10/2025
 ["PHZINN_1244"] = true, -- @phzinn19057 3d fim 15/10/2025
 ["Gabriel_gabb186"] = true, -- @gabriel_gab125_39916 3d fim 15/10/2025
