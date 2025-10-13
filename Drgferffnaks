@@ -129,6 +129,7 @@ return {
     
 
     -- 2 meses
+["CriptorErrorsOfc"] = true, -- @bolt48zx.24 2m fim 11/12/2025
 ["lk_123436"] = true, -- @luiz032068 2m fim 11/12/2025
 ["HiVitormm2"] = true, -- @manveid 2m fim 11/12/2025
 ["nobruff_128"] = true, -- @xgdhddj_25459 2m fim 11/12/2025
