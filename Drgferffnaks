@@ -196,6 +196,7 @@ return {
 
 
     -- 1 mes
+["WS_GELADOO"] = true, -- @wandriodugrau 1m fim 12/11/2025
 ["Laelemilvezes034"] = true, -- @pkz0809 1m fim 12/11/2025
 ["espadachim201"] = true, -- @keven0911_75726 1m fim 12/11/2025
 ["pedroguod"] = true, -- @mpx_0 1m fim 12/11/2025
