@@ -18,6 +18,7 @@ return {
     
 
     -- vitalicio
+["zoroDsad"] = true, -- @zorodsad_4 vitalicio fim vitalicio
 ["Zackinkkj"] = true, -- @bh_rdg vitalicio fim vitalicio
 ["mlkderespeito"] = true, -- @neymano00 vitalicio fim vitalicio
 ["kakaroto_Bacella"] = true, -- @lucasbacellar vitalicio fim vitalicio
