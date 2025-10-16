@@ -15,6 +15,7 @@ return {
     
 
     -- vitalicio
+["mlkderespeito"] = true, -- @neymano00 vitalicio fim vitalicio
 ["kakaroto_Bacella"] = true, -- @lucasbacellar vitalicio fim vitalicio
 ["Eddy_Smokey6"] = true, -- @eddy.smokey vitalicio fim vitalicio
 ["XxmikaelXx91"] = true, -- @mikael_xp_ vitalicio fim vitalicio
