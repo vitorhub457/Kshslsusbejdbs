@@ -19,6 +19,7 @@ return {
     
 
     -- vitalicio
+["fallnext"] = true, -- @carmesimeumermoyt vitalicio fim vitalicio
 ["BIELZIN_0I"] = true, -- @bielzin9191720 vitalicio fim vitalicio
 ["DOUGUI00"] = true, -- @dolly019295 vitalicio fim vitalicio
 ["Zackinkkj"] = true, -- @bh_rdg vitalicio fim vitalicio
