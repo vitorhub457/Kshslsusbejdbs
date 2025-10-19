@@ -356,6 +356,7 @@ return {
 
 
     -- 3 dias
+["fabriciotrentini"] = true, -- @fabricio_legal 3d fim 22/10/2025
 ["matheustezito"] = true, -- @matheustezito 3d fim 22/10/2025
 ["hsuahj_62"] = true, -- @arthur014939 3d fim 22/10/2025
 ["chirp4s1"] = true, -- @quemleumedeu0476 3d fim 22/10/2025
