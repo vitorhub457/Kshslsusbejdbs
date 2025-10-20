@@ -340,6 +340,7 @@ return {
 
 
     -- 3 dias
+["027_miranda"] = true, -- @ezequiel033749 3d fim 23/10/2025
 ["twmnmi"] = true, -- @white_comdoist 3d fim 22/10/2025
 ["Engg7819"] = true, -- @rlhzink 3d fim 22/10/2025
 ["TropaDoRd3"] = true, -- @sdfsfsfs0515_36740 3d fim 22/10/2025
