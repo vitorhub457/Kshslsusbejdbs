@@ -353,6 +353,7 @@ return {
 
 
     -- 3 dias
+["ribeiroda_sul"] = true, -- @carloseduardo039818 3d fim 24/10/2025
 ["YsraelSantos766566"] = true, -- @luan643 3d fim 23/10/2025
 ["peterpam548"] = true, -- @paidefumante 3d fim 23/10/2025
 ["Jjkoid6353"] = true, -- @scripts0903 3d fim 23/10/2025
