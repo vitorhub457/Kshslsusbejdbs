@@ -346,6 +346,7 @@ return {
 
 
     -- 3 dias
+["rd_noitada"] = true, -- @73763hbs 3d fim 25/10/2025
 ["YZZy_1ta"] = true, -- @ayzezz 3d fim 25/10/2025
 ["ITZdudu398"] = true, -- @eduardo_0094_28771 3d fim 25/10/2025
 ["oilozuxjxx"] = true, -- @henrique088532 3d fim 25/10/2025
