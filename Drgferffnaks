@@ -355,6 +355,7 @@ return {
 
 
     -- 3 dias
+["bond_pit"] = true, -- @nycollasmiguel__98382 3d fim 29/10/2025
 ["SECRET_A019"] = true, -- @mkgatinho 3d fim 29/10/2025
 ["Pegador_Roliud"] = true, -- @alanpinhooo 3d fim 29/10/2025
 ["Catnap5957"] = true, -- @bombadofortegrande 3d fim 29/10/2025
