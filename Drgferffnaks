@@ -356,6 +356,7 @@ return {
 
 
     -- 3 dias
+["IN0XER0"] = true, -- @0.magnata11 3d fim 31/10/2025
 ["teteu_paz2"] = true, -- @kelvin_sds_20140 3d fim 31/10/2025
 ["g6b26o"] = true, -- @oedrofeiobb_76111 3d fim 31/10/2025
 ["luishdhje1"] = true, -- @luis089065 3d fim 31/10/2025
