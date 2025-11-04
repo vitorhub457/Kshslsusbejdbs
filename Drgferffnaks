@@ -234,6 +234,7 @@ return {
 
 
     -- 1 mes
+["heytor_2255"] = true, -- @heytor04184 1m fim 04/12/2025
 ["guipamonhaalt"] = true, -- @staylexxx 1m fim 03/12/2025
 ["canbabausta"] = true, -- @sua1rez 1m fim 03/12/2025
 ["alinx021"] = true, -- @emanuel037709 1m fim 03/12/2025
