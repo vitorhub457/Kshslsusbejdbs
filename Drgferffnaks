@@ -234,6 +234,7 @@ return {
 
 
     -- 1 mes
+["guipamonhaALT"] = true, -- @staylexxx 1m fim 04/12/2025
 ["run_aw23"] = true, -- @emanuelsemsenha_31561 1m fim 04/12/2025
 ["issa_xti"] = true, -- @isabellasophiamelo1_70474 1m fim 04/12/2025
 ["heytor_2255"] = true, -- @heytor04184 1m fim 04/12/2025
