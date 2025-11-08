@@ -17,6 +17,7 @@ return {
     
 
     -- vitalicio
+["IN0XER0"] = true, -- @0.magnata11 vitalicio fim vitalicio
 ["0cria_master"] = true, -- @caliban0212 vitalicio fim vitalicio
 ["caiozn7_669"] = true, -- @robertyj_kkj vitalicio fim vitalicio
 ["XHZ_07"] = true, -- @lvp.x7 vitalicio fim vitalicio
