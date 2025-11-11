@@ -133,6 +133,7 @@ return {
 
 
     -- 4 meses
+["ea_nanica"] = true, -- @ekdjejrnr 4m fim 11/03/2026
 ["Uberdashina"] = true, -- @nomeexibiduh4 4m fim 01/03/2026
 ["Orrdaad"] = true, -- @grizz.ez 4m fim 01/03/2026
 ["PH_FLP"] = true, -- @cianuzinho7771 4m fim 27/02/2026
