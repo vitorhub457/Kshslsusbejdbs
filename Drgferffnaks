@@ -350,6 +350,7 @@ return {
 
 
     -- 3 dias
+["Coolkid_qteamassa"] = true, -- @renan09732 3d fim 18/11/2025
 ["vitoriaviropatykk"] = true, -- @silvasouza0245 3d fim 18/11/2025
 ["gustavo_blox04"] = true, -- @seven7.dd 3d fim 18/11/2025
 ["BR_Santos34"] = true, -- @anonino0870_46788 3d fim 17/11/2025
