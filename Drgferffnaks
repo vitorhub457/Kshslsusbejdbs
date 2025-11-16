@@ -242,6 +242,7 @@ return {
 
 
     -- 1 mes
+["SEMVERGOIN1"] = true, -- @victor002596 1m fim 16/12/2025
 ["gustavogame5000"] = true, -- @daniel8450618 1m fim 14/12/2025
 ["gabrielgamesLevel100"] = true, -- @oliverazarado 1m fim 12/12/2025
 ["yOliveiraxz"] = true, -- @gustavo054647 1m fim 10/12/2025
