@@ -242,6 +242,7 @@ return {
 
 
     -- 1 mes
+["JEAN_DAPENHA"] = true, -- @mauro_220775 1m fim 16/12/2025
 ["joaopp000qq"] = true, -- @bussunda_monguaga 1m fim 16/12/2025
 ["alguem232323"] = true, -- @slakkjopa_78415 1m fim 16/12/2025
 ["SEMVERGOIN1"] = true, -- @victor002596 1m fim 16/12/2025
