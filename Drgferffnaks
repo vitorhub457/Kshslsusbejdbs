@@ -17,6 +17,7 @@ return {
     
 
     -- vitalicio
+["LTC_861"] = true, -- @mrcmar vitalicio fim vitalicio
 ["marcos87607"] = true, -- @mrcmar vitalicio fim vitalicio
 ["Gabriel_proziin"] = true, -- @lucas05872 vitalicio fim vitalicio
 ["samuel_mi244"] = true, -- @samuel_mi244_ vitalicio fim vitalicio
