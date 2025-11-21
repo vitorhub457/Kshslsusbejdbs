@@ -340,6 +340,7 @@ return {
 
 
     -- 3 dias
+["pedein_fbr2"] = true, -- @pedrin_xwzz 3d fim 24/11/2025
 ["amo_beij"] = true, -- @pedro073290 3d fim 24/11/2025
 ["penadoidao"] = true, -- @naosou_nz_46516 3d fim 24/11/2025
 ["gabssx32"] = true, -- @ghostt_perdiacontaprincipal 3d fim 23/11/2025
