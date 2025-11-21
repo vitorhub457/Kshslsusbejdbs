@@ -339,6 +339,7 @@ return {
 
 
     -- 3 dias
+["penadoidao"] = true, -- @naosou_nz_46516 3d fim 24/11/2025
 ["gabssx32"] = true, -- @ghostt_perdiacontaprincipal 3d fim 23/11/2025
 ["kjoekdeijdjksk"] = true, -- @joeltavares_17 3d fim 23/11/2025
 ["LANYNHA0006"] = true, -- @beenne 3d fim 23/11/2025
