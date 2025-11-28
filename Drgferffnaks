@@ -142,6 +142,7 @@ return {
 
 
     -- 4 meses
+["mandrake07970"] = true, -- @phzin_kka 4m fim 28/03/2026
 ["naocoraxxxx7"] = true, -- @heitor13546280 4m fim 15/03/2026
 ["serverside29"] = true, -- @serverside29_12749 4m fim 07/02/2026
 ["ea_nanica"] = true, -- @ekdjejrnr 4m fim 11/03/2026
