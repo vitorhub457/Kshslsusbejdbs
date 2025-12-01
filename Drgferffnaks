@@ -325,6 +325,7 @@ return {
 
 
     -- 3 dias
+["neymar_oprincipe"] = true, -- @daviluiz0043 3d fim 04/12/2025
 ["fps_goti"] = true, -- @ig0216 3d fim 03/12/2025
 ["vitordaniel1145"] = true, -- @vitordaniel300 3d fim 03/12/2025
 ["twelo_zinha3"] = true, -- @twzinha 3d fim 02/12/2025
