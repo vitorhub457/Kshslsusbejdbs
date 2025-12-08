@@ -238,6 +238,7 @@ return {
 
 
     -- 1 mes
+["vampixro_0"] = true, -- @aurora_vireliath 1m fim 07/01/2026
 ["aade93"] = true, -- @hector062570 1m fim 05/01/2026
 ["VICTOR_MDCS"] = true, -- @victormanoelcardoso211_49982 1m fim 02/01/2026
 ["yago98128"] = true, -- @reginaldo0207 1m fim 02/01/2026
