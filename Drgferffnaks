@@ -230,6 +230,7 @@ return {
 
 
     -- 1 mes
+["ibak2006"] = true, -- @isac080045 1m fim 08/01/2026
 ["MATHEUSZINHODOGRAU27"] = true, -- @thssnts62 1m fim 07/01/2026
 ["vampixro_0"] = true, -- @aurora_vireliath 1m fim 07/01/2026
 ["aade93"] = true, -- @hector062570 1m fim 05/01/2026
