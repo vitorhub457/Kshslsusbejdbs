@@ -266,6 +266,7 @@ return {
 
 
     -- 3 dias
+["gortflash"] = true, -- @neurotoxinaskkj 3d fim 15/12/2025
 ["FGGAAAI"] = true, -- @mikelsondiniz 3d fim 14/12/2025
 ["xKblTd6rc4"] = true, -- @levonx_syeti 3d fim 14/12/2025
 ["geovaninnha1"] = true, -- @gabriel_29547 3d fim 14/12/2025
