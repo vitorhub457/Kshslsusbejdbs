@@ -14,6 +14,7 @@ return {
     
 
     -- vitalicio
+["DavizHub"] = true, -- @daviz0902 vitalicio fim vitalicio
 ["azulbalufk"] = true, -- @meguru_bachira081 vitalicio fim vitalicio
 ["perolla_253"] = true, -- @noble_starfish_72532 vitalicio fim vitalicio
 ["alarme_16"] = true, -- @delightful_lemur_92199 vitalicio fim vitalicio
