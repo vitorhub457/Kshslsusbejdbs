@@ -272,6 +272,7 @@ return {
 
 
     -- 3 dias
+["LUFFY_N0B"] = true, -- @luffy_locura 3d fim 23/12/2025
 ["issacc_bloxxx2023"] = true, -- @nujgujvgj 3d fim 22/12/2025
 ["Enzomfer10"] = true, -- @joca_gtr 3d fim 22/12/2025
 ["alok2441572"] = true, -- @gb07900 3d fim 22/12/2025
