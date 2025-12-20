@@ -219,6 +219,7 @@ return {
 
 
     -- 1 mes
+["samudocivil35"] = true, -- @samzin9 1m fim 19/01/2026
 ["BAD_SHAYPADO"] = true, -- @cl.reis. 1m fim 19/01/2026
 ["dragonflykjd"] = true, -- @_gostodescript 1m fim 19/01/2026
 ["joaozinw11"] = true, -- @joao012645 1m fim 19/01/2026
