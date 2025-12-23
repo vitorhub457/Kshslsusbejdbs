@@ -271,6 +271,7 @@ return {
 
 
     -- 3 dias
+["baianinhogeras"] = true, -- @santosmidia. 3d fim 25/12/2025
 ["Drxz_151"] = true, -- @drs.tbota 3d fim 25/12/2025
 ["nwjw4j4j"] = true, -- @paudequeijo0703_07622 3d fim 25/12/2025
 ["Truongtieuc65tI"] = true, -- @099912000 3d fim 25/12/2025
