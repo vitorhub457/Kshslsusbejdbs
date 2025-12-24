@@ -179,6 +179,7 @@ return {
     
 
     -- 2 meses
+["Misterio_zeusmod"] = true, -- @yoshi.shisui 2m fim 22/02/2026
 ["skygiovane"] = true, -- @kingxz0.2 2m fim 20/02/2026
 ["stealbrainrotprefiri"] = true, -- @kakazinho8655 2m fim 19/02/2026
 ["eae_gatinhas0"] = true, -- @rafael_sc02 2m fim 18/02/2026
