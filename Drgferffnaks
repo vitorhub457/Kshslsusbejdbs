@@ -272,6 +272,7 @@ return {
 
 
     -- 3 dias
+["guester_66611"] = true, -- @pedroca_peka 3d fim 27/12/2025
 ["ripzin_indra2012"] = true, -- @pedrix_7. 3d fim 26/12/2025
 ["dwasdwasdw184"] = true, -- @edugasper 3d fim 26/12/2025
 ["Carlos_Henrique20160"] = true, -- @henrique101098972 3d fim 26/12/2025
