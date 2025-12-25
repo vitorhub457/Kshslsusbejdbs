@@ -264,6 +264,7 @@ return {
 
 
     -- 1 semana
+["amo_beij"] = true, -- pedro073290 (1336804195361099877) 1s fim 01/01/2026
 ["LeiteQuentinhoHEHE"] = true, -- wzs.15 (1371886453646299208) 1s fim 01/01/2026
 ["pheterpan77"] = true, -- fabian_maikon (1405065328870035577) 1s fim 01/01/2026
 ["kauanovo356"] = true, -- @kaualima8876 1s fim 31/12/2025
