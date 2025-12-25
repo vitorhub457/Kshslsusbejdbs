@@ -280,6 +280,7 @@ return {
 
 
     -- 3 dias
+["lala_blox01131"] = true, -- lala002243 (1451758733855297536) 3d fim 28/12/2025
 ["avendaconta"] = true, -- rip_isolado_oficial (1045458512702091325) 3d fim 28/12/2025
 ["aznbyahsas"] = true, -- admin_cabral (1279478421356937357) 3d fim 28/12/2025
 ["Nick_0hick"] = true, -- nksz00 (1287242033563570257) 3d fim 28/12/2025
