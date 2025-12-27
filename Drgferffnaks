@@ -292,6 +292,7 @@ return {
 
 
     -- 3 dias
+["pdzin_tdr8"] = true, -- coquette_pedro_06365 (1444480947134267595) 3d fim 29/12/2025
 ["LILOyKELVIN"] = true, -- enzin_grau._67693 (1286036995524788316) 3d fim 29/12/2025
 ["Novaelixiti"] = true, -- mr.cosmo0072_33208 (1432194803470172194) 3d fim 29/12/2025
 ["elumsenulself"] = true, -- rip_dark0672_63361 (1451314429802188862) 3d fim 28/01/2026
