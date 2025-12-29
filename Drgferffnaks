@@ -230,6 +230,7 @@ return {
 
 
     -- 1 mes
+["fefeh_276"] = true, -- anderton._67504 (1419477588765835364) 1m fim 28/01/2026
 ["sr_vssvictor"] = true, -- avknlife_78068 (1138578868081533049) 1m fim 27/01/2026
 ["bendesav1"] = true, -- ryanlima0008_78675 (1207709331244585090) 1m fim 27/01/2026
 ["CAZITO111"] = true, -- bisteca_019 (1148741561476198411) 1m fim 26/01/2026
