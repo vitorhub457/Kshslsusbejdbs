@@ -306,6 +306,7 @@ return {
 
 
     -- 3 dias
+["marinhosilvaisaac"] = true, -- isaac_155. (1436016913170829443) 3d fim 02/01/2026
 ["daved_4001"] = true, -- daved_21341 (1440770682333171746) 3d fim 02/01/2026
 ["loros4j9"] = true, -- neurotoxinaskkj (1005295869047877664) 3d fim 01/01/2026
 ["maplez_ib"] = true, -- 919slum (1205686995180068937) 3d fim 01/01/2026
