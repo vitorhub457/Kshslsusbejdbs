@@ -309,6 +309,7 @@ return {
 
 
     -- 3 dias
+["avendaconta"] = true, -- rip_isolado_oficial (1045458512702091325) 3d fim 03/01/2026
 ["Caiofofo298"] = true, -- hard0021 (1429454932242731011) 3d fim 03/01/2026
 ["biu1034"] = true, -- indio08270 (1366087325741875231) 3d fim 02/01/2026
 ["Ax7_isack9"] = true, -- davizin02132 (1427400027948711946) 3d fim 02/01/2026
