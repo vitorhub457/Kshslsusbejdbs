@@ -155,6 +155,7 @@ return {
 
 
     -- 4 meses
+["gk_r4p"] = true, -- geovanbr17 (444289206009987074) 4m fim 30/04/2026
 ["qSpSplxeRbW"] = true, -- reizinhocaramelo (1245475176846725120) 4m fim 28/04/2026
 ["SGT_P1MENTA"] = true, -- p1m3nta_ (1301090196653342750) 4m fim 27/06/2026
 ["guimuitonoob"] = true, -- .mano_gui (1004856596377120952) 4m fim 25/04/2026
