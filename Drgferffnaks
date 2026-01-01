@@ -190,6 +190,7 @@ return {
     
 
     -- 2 meses
+["LENDA_FOFO"] = true, -- euphborges (910536048776450118) 2m fim 02/03/2026
 ["xgui556"] = true, -- shadow_07867 (1410036800310743172) 2m fim 01/03/2026
 ["lslluffy"] = true, -- lslluffy_64567 (1318768253132210307) 2m fim 28/02/2026
 ["pablohatake00710109"] = true, -- darkzin7465 (964969002822680597) 2m fim 28/02/2026
