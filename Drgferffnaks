@@ -236,6 +236,7 @@ return {
 
 
     -- 1 mes
+["rip_arthu1572"] = true, -- moderador005 (1262795172584886272) 1m fim 01/02/2026
 ["Marechal_blox51"] = true, -- breno008219 (1415434267693023272) 1m fim 31/01/2026
 ["wendellstop"] = true, -- wendell057675 (1218943023891873873) 1m fim 31/01/2026
 ["ghostscript95"] = true, -- ismaelpsgamer8355 (959183001445621870) 1m fim 31/01/2026
