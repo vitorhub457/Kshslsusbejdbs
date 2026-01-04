@@ -317,6 +317,7 @@ return {
 
 
     -- 3 dias
+["trem_balz"] = true, -- pk907_03457 (1218664642855833600) 3d fim 07/01/2026
 ["Gusta_real635"] = true, -- amulestadoida (1203852512994529370) 3d fim 06/01/2026
 ["B_POZblCKE"] = true, -- slienthex. (1457114913150472252) 3d fim 06/01/2026
 ["OMELETEOPP"] = true, -- gusttavo777 (1452298423746433137) 3d fim 06/01/2026
