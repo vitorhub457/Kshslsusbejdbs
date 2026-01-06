@@ -241,6 +241,7 @@ return {
 
 
     -- 1 mes
+["solar_brunix"] = true, -- brunogggod (1411154435459121253) 1m fim 05/02/2026
 ["bielytvi"] = true, -- bielzinxcv (1434659824129409196) 1m fim 04/02/2026
 ["fr3ddynho_gamesbr"] = true, -- felipe01839273 (1389057437222572163) 1m fim 03/02/2026
 ["OsNarut0"] = true, -- leprechal0089_07833 (1439074026436825278) 1m fim 01/02/2026
