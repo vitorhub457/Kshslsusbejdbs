@@ -332,6 +332,7 @@ return {
 
 
     -- 3 dias
+["Lacoste_deouro"] = true, -- ruaaaarh (1458945842890412136) 3d fim 12/01/2026
 ["vitim_388"] = true, -- beenne (1240466025011482655) 3d fim 12/01/2026
 ["Zueiro_bilionario"] = true, -- mz_tkzi (1459292900839129158) 3d fim 12/01/2026
 ["ResselSkills"] = true, -- resselkiller (1367150973071392779) 3d fim 12/01/2026
