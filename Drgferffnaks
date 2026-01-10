@@ -332,6 +332,7 @@ return {
 
 
     -- 3 dias
+["Zueiro_bilionario"] = true, -- mz_tkzi (1459292900839129158) 3d fim 12/01/2026
 ["ResselSkills"] = true, -- resselkiller (1367150973071392779) 3d fim 12/01/2026
 ["Bacon_frio0"] = true, -- surubaom (1423842118912184421) 3d fim 12/01/2026
 ["ayzbr7"] = true, -- ayzezz (1167827873856508014) 3d fim 12/01/2026
