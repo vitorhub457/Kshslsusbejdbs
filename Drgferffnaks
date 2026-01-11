@@ -321,6 +321,7 @@ return {
 
 
     -- 1 semana
+["DANIZIN_BLOX"] = true, -- danfuravelhas (955225662686371890) 1s fim 17/01/2026
 ["LUFSHDHDHDH"] = true, -- dex_7770450 (1431364535033401574) 1s fim 17/01/2026
 ["Poderoso_Gb08"] = true, -- gboriginal00rdg (1453869846671655005) 1s fim 17/01/2026
 ["Nathan_Tw"] = true, -- tss_nathan (1449601391705325696) 1s fim 16/01/2026
