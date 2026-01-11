@@ -341,6 +341,7 @@ return {
 
 
     -- 3 dias
+["pdzin_fxp"] = true, -- pdzin7352 (1130673274989318154) 3d fim 14/01/2026
 ["igdu_57"] = true, -- b1k.op. (1454667015439646730) 3d fim 14/01/2026
 ["yop002020"] = true, -- willywonka3218 (759598450915541053) 3d fim 14/01/2026
 ["ColorTristanm5071"] = true, -- joaolucas09307 (1331805296280207424) 3d fim 14/01/2026
