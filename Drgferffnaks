@@ -250,6 +250,7 @@ return {
 
 
     -- 1 mes
+["policiafederalfm"] = true, -- surpresakk_07538 (1326631016541978655) 1m fim 10/02/2026
 ["moreni_041"] = true, -- l4l_fl_55686 (1353858594449395753) 1m fim 10/02/2026
 ["almeidapro10"] = true, -- vocemorreu342 (1310754821053218918) 1m fim 09/02/2026
 ["Moreni_041"] = true, -- l4l_fl_55686 (1353858594449395753) 1m fim 09/02/2026
