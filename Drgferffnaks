@@ -260,6 +260,7 @@ return {
 
 
     -- 1 mes
+["Denolk_new"] = true, -- denolk_new (1401266048799346838) 1m fim 11/02/2026
 ["COMANF667"] = true, -- untrustworthy1 (1172724129854656605) 1m fim 10/02/2026
 ["joaopedro1077w"] = true, -- im_xaryx_ (1084652978218205196) 1m fim 10/02/2026
 ["GUSTAVO_GU137"] = true, -- bryan055441 (1434295078918033438) 1m fim 10/02/2026
