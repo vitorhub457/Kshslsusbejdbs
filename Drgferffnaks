@@ -345,6 +345,7 @@ return {
 
 
     -- 3 dias
+["ripzin_indra2012"] = true, -- th_reliquia_pura (1460137584713007196) 3d fim 18/01/2026
 ["Draxxlovewws"] = true, -- draxxskills11 (1418739818426273952) 3d fim 18/01/2026
 ["oSolitario007"] = true, -- tagking (969648916993818694) 3d fim 18/01/2026
 ["Ezequiel_143255"] = true, -- ezequiel061638 (1392266197306835056) 3d fim 18/01/2026
