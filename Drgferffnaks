@@ -349,6 +349,7 @@ return {
 
 
     -- 3 dias
+["VENHX28"] = true, -- vks012_ (1339930078506778715) 3d fim 20/01/2026
 ["CGGG_PRJOOOO"] = true, -- i5zzs (1031437165156122624) 3d fim 20/01/2026
 ["rian_gui1"] = true, -- rian_gui1 (1386495232572522506) 3d fim 19/01/2026
 ["Miguel842429"] = true, -- migueljubileu456 (1420148744187281550) 3d fim 19/01/2026
