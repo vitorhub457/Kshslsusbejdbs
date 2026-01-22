@@ -341,6 +341,7 @@ return {
 
 
     -- 3 dias
+["rd4800"] = true, -- rdzin70088 (1455750518407430184) 3d fim 25/01/2026
 ["noob_master1162"] = true, -- nicolaszft_ (1235048491995234365) 3d fim 25/01/2026
 ["Joaorieue"] = true, -- joao87777. (1412129731138031748) 3d fim 24/01/2026
 ["joaohack21848"] = true, -- joao_pedro12_ (1203425082102251580) 3d fim 24/01/2026
