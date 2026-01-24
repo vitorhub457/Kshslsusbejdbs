@@ -177,6 +177,7 @@ return {
 
 
     -- 4 meses
+["enzorepefadenati"] = true, -- xinglinling (1422551495949156490) 4m fim 24/05/2026
 ["Pick_dur"] = true, -- chuvin_vp (1371480872796033064) 4m fim 12/05/2026
 ["Ax7_lari86"] = true, -- manu037273 (1458461195802640671) 4m fim 14/05/2026
 ["RIP_CAPUDO04"] = true, -- blessed_vhx (1274808722484367417) 4m fim 05/05/2026
