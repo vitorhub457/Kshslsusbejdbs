@@ -345,6 +345,7 @@ return {
 
 
     -- 3 dias
+["chester_0210"] = true, -- eliasemanuel021 (1356752635994050630) 3d fim 30/01/2026
 ["Chester_0210"] = true, -- eliasemanuel021 (1356752635994050630) 3d fim 30/01/2026
 ["rian_gui1"] = true, -- rian_gui1 (1386495232572522506) 3d fim 30/01/2026
 ["Pretinjk1"] = true, -- golden_beagle_97669 (1419839718459310170) 3d fim 30/01/2026
