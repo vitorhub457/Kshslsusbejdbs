@@ -333,6 +333,7 @@ return {
 
 
     -- 1 semana
+["md_themidia"] = true, -- tryvios (1261196861008773257) 1s fim 04/02/2026
 ["Lula13xvdeo"] = true, -- urubudocaos (1379140469740535942) 1s fim 04/02/2026
 ["lula13xvdeo"] = true, -- urubudocaos (1379140469740535942) 1s fim 04/02/2026
 ["Luffy_bloxfruit860"] = true, -- wallacegael (1447240178354749592) 1s fim 01/02/2026
