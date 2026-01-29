@@ -332,6 +332,7 @@ return {
 
 
     -- 1 semana
+["wl_tazmania"] = true, -- tryvios (1261196861008773257) 1s fim 05/02/2026
 ["md_themidia"] = true, -- tryvios (1261196861008773257) 1s fim 04/02/2026
 ["Lula13xvdeo"] = true, -- urubudocaos (1379140469740535942) 1s fim 04/02/2026
 ["lula13xvdeo"] = true, -- urubudocaos (1379140469740535942) 1s fim 04/02/2026
