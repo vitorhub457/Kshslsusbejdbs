@@ -182,6 +182,7 @@ return {
 
 
     -- 4 meses
+["PlmSuga"] = true, -- loxy_rs (1246518218932097135) 4m fim 03/06/2026
 ["issa_xti"] = true, -- isabellasophiamelo1_70474 (1428031877435883530) 4m fim 27/05/2026
 ["enzorepefadenati"] = true, -- xinglinling (1422551495949156490) 4m fim 24/05/2026
 ["Pick_dur"] = true, -- chuvin_vp (1371480872796033064) 4m fim 12/05/2026
