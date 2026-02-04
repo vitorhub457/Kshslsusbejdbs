@@ -352,6 +352,7 @@ return {
 
 
     -- 3 dias
+["BAIANODOID7"] = true, -- rb_dazideia (1449061354118844520) 3d fim 07/02/2026
 ["scripter20140"] = true, -- henzzorigoni (1465909183344803840) 3d fim 06/02/2026
 ["davilahfhdh"] = true, -- davi89079 (1287798767935946779) 3d fim 06/02/2026
 ["caiaqueiro1"] = true, -- 1caio._. (1295075470039056516) 3d fim 06/02/2026
