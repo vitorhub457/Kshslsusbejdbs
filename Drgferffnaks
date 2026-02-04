@@ -281,6 +281,7 @@ return {
 
 
     -- 1 mes
+["CN_244rs"] = true, -- clt_kn01_60900 (1463317737484058755) 1m fim 06/03/2026
 ["TUBER9307514"] = true, -- kauazinhonunes (1400089385923252235) 1m fim 05/03/2026
 ["roblox_user_2581008561"] = true, -- souza2440690 (1450837092404822209) 1m fim 05/03/2026
 ["Yoshi_83u"] = true, -- spatocos3902 (795986679910498325) 1m fim 03/03/2026
