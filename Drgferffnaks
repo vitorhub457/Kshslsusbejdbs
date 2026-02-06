@@ -278,6 +278,7 @@ return {
 
 
     -- 1 mes
+["0dei0voce1"] = true, -- wendelxtop (1212547563534942228) 1m fim 08/03/2026
 ["LTC_861"] = true, -- magical_otter_32968_64805 (1298069122349006884) 1m fim 08/03/2026
 ["CN_244rs"] = true, -- clt_kn01_60900 (1463317737484058755) 1m fim 06/03/2026
 ["TUBER9307514"] = true, -- kauazinhonunes (1400089385923252235) 1m fim 05/03/2026
