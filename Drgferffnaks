@@ -354,6 +354,7 @@ return {
 
 
     -- 3 dias
+["048_VT"] = true, -- silvax09422 (1368355647409754112) 3d fim 11/02/2026
 ["danilo999610"] = true, -- pailo0105 (1469396692116836353) 3d fim 11/02/2026
 ["Shadow_offyyy"] = true, -- bn.delax.n8_26313 (1299907517014478910) 3d fim 11/02/2026
 ["Rip_anzinnx"] = true, -- socafofo04858 (1075560542586011801) 3d fim 11/02/2026
