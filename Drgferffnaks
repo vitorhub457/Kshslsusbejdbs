@@ -336,6 +336,7 @@ return {
 
 
     -- 1 semana
+["bentesziin_00"] = true, -- bentes_fl (1166109972346716264) 1s fim 16/02/2026
 ["sr_atum23"] = true, -- nobodymn (1005655251078099024) 1s fim 20/02/2026
 ["nFXNOBRU1"] = true, -- nfxnobru1 (1458168911299350553) 1s fim 20/02/2026
 ["Gabrieltry3"] = true, -- amocoquettehub (1469465713478598881) 1s fim 19/02/2026
