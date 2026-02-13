@@ -20,6 +20,7 @@ return {
     
 
     -- vitalicio
+["fialtevs"] = true, -- fialtevs_40427 (1203557657932337205) Vitalício
 ["pao_comovo179"] = true, -- bielboyzao0171_06592 (1461216113735237715) Vitalício
 ["matye6s91847q"] = true, -- benicioeforte0196 (1449484108907417601) Vitalício
 ["kwai_3"] = true, -- springtrr (1010222470583816343) Vitalício
