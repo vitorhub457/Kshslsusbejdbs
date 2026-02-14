@@ -365,6 +365,7 @@ return {
 
 
     -- 3 dias
+["Faelzinmt7"] = true, -- eo_faelzin (1430204492808458345) 3d fim 17/02/2026
 ["rian_gui1"] = true, -- iae_rih (1336414790142263347) 3d fim 17/02/2026
 ["rd4800"] = true, -- rdzin70088 (1455750518407430184) 3d fim 17/02/2026
 ["jpjaques208"] = true, -- eotaldojaques (878036472094162984) 3d fim 16/02/2026
