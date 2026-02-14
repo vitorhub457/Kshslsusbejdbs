@@ -367,6 +367,7 @@ return {
 
 
     -- 3 dias
+["rd4800"] = true, -- rdzin70088 (1455750518407430184) 3d fim 17/02/2026
 ["jpjaques208"] = true, -- eotaldojaques (878036472094162984) 3d fim 16/02/2026
 ["Lunny2303"] = true, -- intelectual_9999 (1438932353878851645) 3d fim 16/02/2026
 ["mcpisquila7"] = true, -- bigbig0383 (1362421470176743655) 3d fim 16/02/2026
