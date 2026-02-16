@@ -365,6 +365,7 @@ return {
 
 
     -- 3 dias
+["Faveladin_01"] = true, -- vtr_gigabait_04915 (1434473020495237120) 3d fim 19/02/2026
 ["LULA13XVDEO"] = true, -- urubudocaos (1379140469740535942) 3d fim 18/02/2026
 ["Bubbleplock"] = true, -- tmmistyc (1446992022438416577) 3d fim 18/02/2026
 ["K1LL_py"] = true, -- k1ll_linux (1334981768973127753) 3d fim 18/02/2026
