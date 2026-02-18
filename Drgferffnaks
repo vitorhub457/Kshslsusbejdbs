@@ -19,6 +19,7 @@ return {
     
 
     -- vitalicio
+["048_VT"] = true, -- silvax09422 (1368355647409754112) Vitalício
 ["slr0071"] = true, -- santt0s_257 (1427137876369473577) Vitalício
 ["SouScriptDesde2024"] = true, -- thefishyt6323 (1403965574513692732) Vitalício
 ["vteteus"] = true, -- pietroxxpz_0 (1449269881831690381) Vitalício
