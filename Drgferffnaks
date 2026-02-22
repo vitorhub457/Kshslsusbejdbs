@@ -191,6 +191,7 @@ return {
 
 
     -- 4 meses
+["lucasX20037"] = true, -- lucas_dark0072_41268 (1429096366973648907) 4m fim 22/06/2026
 ["Ghost_sp0"] = true, -- ghost_ofc0428_04006 (1306029875827703842) 4m fim 22/06/2026
 ["joseandrel993"] = true, -- joseandre0558 (1269715271992606804) 4m fim 18/06/2026
 ["K1LL_py"] = true, -- k1ll_linux (1334981768973127753) 4m fim 17/06/2026
