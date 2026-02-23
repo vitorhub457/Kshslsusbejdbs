@@ -329,6 +329,7 @@ return {
 
 
     -- 1 semana
+["MA_212D"] = true, -- voidsquad (1127557030731853904) 1s fim 02/03/2026
 ["Poderoso_Gb08"] = true, -- gboriginal00rdg (1453869846671655005) 1s fim 01/03/2026
 ["Sjdjan9"] = true, -- gusta001557 (1470973528659460353) 1s fim 01/03/2026
 ["Moisesemanuel20"] = true, -- bolota_raio33 (1436565096397668352) 1s fim 28/02/2026
