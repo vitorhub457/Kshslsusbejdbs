@@ -341,6 +341,7 @@ return {
 
 
     -- 3 dias
+["(Seu"] = true, -- nanisupremacy_ (1043920833002872942) 3d fim 01/03/2026
 ["chester_0210"] = true, -- eliasemanuel021 (1356752635994050630) 3d fim 28/02/2026
 ["Muca_pdm"] = true, -- yuri044463 (1469822731305357383) 3d fim 28/02/2026
 ["moreninx1p"] = true, -- rczin77. (1271949768993673340) 3d fim 28/02/2026
