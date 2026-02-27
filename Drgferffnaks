@@ -277,6 +277,7 @@ return {
 
 
     -- 1 mes
+["emanoel_massa"] = true, -- zamasu09116 (1466105828271587419) 1m fim 29/03/2026
 ["ilvxzyl"] = true, -- ilvxx6 (1143986155386322994) 1m fim 27/03/2026
 ["gabrielxupx"] = true, -- gabriel_xzn_ (1399507095879028774) 1m fim 27/03/2026
 ["BRZNINE"] = true, -- itachi0687955 (1363670086564446361) 1m fim 26/03/2026
