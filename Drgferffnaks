@@ -340,6 +340,7 @@ return {
 
 
     -- 3 dias
+["ezabanga"] = true, -- zezembwut (1414769734544785508) 3d fim 03/03/2026
 ["paitaaonn0"] = true, -- biel046811 (1437758860608929874) 3d fim 03/03/2026
 ["vaiquen1"] = true, -- polenguinho.1 (939315446497304636) 3d fim 03/03/2026
 ["chiqui26282"] = true, -- edgardelosyupis (1368367333193683089) 3d fim 02/03/2026
