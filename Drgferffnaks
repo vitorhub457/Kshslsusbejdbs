@@ -320,6 +320,7 @@ return {
 
 
     -- 1 semana
+["vteteus"] = true, -- pietroxxpz_0 (1449269881831690381) 1s fim 09/03/2026
 ["CrystalZapRocket"] = true, -- erickwaldemir (1346651863411458059) 1s fim 07/03/2026
 ["CHV_HH"] = true, -- japoneshg (1432941865899917406) 1s fim 03/03/2026
 ["MA_212D"] = true, -- voidsquad (1127557030731853904) 1s fim 02/03/2026
