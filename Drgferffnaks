@@ -334,6 +334,7 @@ return {
 
 
     -- 3 dias
+["Dark_span12"] = true, -- kfsantts__58113 (1258209554643161129) 3d fim 05/03/2026
 ["1MIGUEL1BLACK1"] = true, -- kings77. (991014244248076289) 3d fim 04/03/2026
 ["chester_0210"] = true, -- eliasemanuel021 (1356752635994050630) 3d fim 04/03/2026
 ["Gabriel_111709"] = true, -- gabriel111101 (1278825569034698786) 3d fim 04/03/2026
