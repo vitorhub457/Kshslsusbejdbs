@@ -319,6 +319,7 @@ return {
 
 
     -- 3 dias
+["wendellstop"] = true, -- wendell057675 (1218943023891873873) 3d fim 17/03/2026
 ["chester_0210"] = true, -- eliasemanuel021 (1356752635994050630) 3d fim 17/03/2026
 ["welljoao123"] = true, -- joaomiguelbandeira (1306751732155547762) 3d fim 17/03/2026
 ["vaiquen1"] = true, -- polenguinho.1 (939315446497304636) 3d fim 17/03/2026
