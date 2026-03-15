@@ -314,6 +314,7 @@ return {
 
 
     -- 3 dias
+["Kaio_40057"] = true, -- gb06220 (1406719445891682445) 3d fim 18/03/2026
 ["Hetien"] = true, -- hetien_ (1415772456722890752) 3d fim 18/03/2026
 ["wendellstop"] = true, -- wendell057675 (1218943023891873873) 3d fim 17/03/2026
 ["chester_0210"] = true, -- eliasemanuel021 (1356752635994050630) 3d fim 17/03/2026
