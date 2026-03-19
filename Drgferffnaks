@@ -309,6 +309,7 @@ return {
 
 
     -- 3 dias
+["selokonumcopensaa"] = true, -- sparkling_raccoon_66415 (1462222702692667597) 3d fim 22/03/2026
 ["da444733"] = true, -- davidi12346890 (1461779271696646311) 3d fim 22/03/2026
 ["brsheik9"] = true, -- luizinho4037 (1002025059738726492) 3d fim 21/03/2026
 ["renan_rn14"] = true, -- da_balinha021 (1338289750095691915) 3d fim 21/03/2026
