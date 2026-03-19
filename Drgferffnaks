@@ -222,6 +222,7 @@ return {
     
 
     -- 2 meses
+["CHV_HH"] = true, -- japoneshp (1481809002945052794) 2m fim 18/05/2026
 ["Zueiro_bilionario"] = true, -- humano_666 (1480866751246893156) 2m fim 15/05/2026
 ["enzogftf"] = true, -- skyler_zn (1456175889984393319) 2m fim 13/05/2026
 ["roblox_user_5276216094"] = true, -- thz_midiax7_17281 (1454527318788935914) 2m fim 09/05/2026
