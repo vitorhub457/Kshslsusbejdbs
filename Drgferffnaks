@@ -308,6 +308,7 @@ return {
 
 
     -- 3 dias
+["muca_pdm"] = true, -- yuri044463 (1469822731305357383) 3d fim 22/03/2026
 ["selokonumcopensaa"] = true, -- sparkling_raccoon_66415 (1462222702692667597) 3d fim 22/03/2026
 ["da444733"] = true, -- davidi12346890 (1461779271696646311) 3d fim 22/03/2026
 ["brsheik9"] = true, -- luizinho4037 (1002025059738726492) 3d fim 21/03/2026
