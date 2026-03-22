@@ -268,6 +268,7 @@ return {
 
 
     -- 1 mes
+["arthur_redd1"] = true, -- rowena0172_18810 (1466943223581900932) 1m fim 21/04/2026
 ["jose_mlkk"] = true, -- zeca_rick_12551 (1238481306065567758) 1m fim 19/04/2026
 ["pizza_ebomsim"] = true, -- davi036154 (1360421683210620988) 1m fim 18/04/2026
 ["plyksijc"] = true, -- biel.fxp1 (1370846062356467894) 1m fim 18/04/2026
