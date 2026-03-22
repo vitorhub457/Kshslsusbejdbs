@@ -224,6 +224,7 @@ return {
     
 
     -- 2 meses
+["jvscript7"] = true, -- jvdolins7 (1432028736924160031) 2m fim 21/05/2026
 ["Zmary100"] = true, -- marymonteiro0219 (1485093743886340126) 2m fim 21/05/2026
 ["AKTSUKISMi"] = true, -- marymonteiro0219 (1485093743886340126) 2m fim 21/05/2026
 ["eu_legitandokkj"] = true, -- leuelkkj (1089993587867000872) 2m fim 20/05/2026
