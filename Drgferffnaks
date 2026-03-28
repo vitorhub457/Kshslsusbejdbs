@@ -21,6 +21,7 @@ return {
 
 
     -- vitalicio
+["BAD_SHAYPADO"] = true, -- cl.reis. (862158272252215336) Vitalício
 ["Mizaelfm2"] = true, -- aguamista (1100869038843887626) Vitalício
 ["pedro_gabriel915"] = true, -- mulpan0427 (1486413271669014582) Vitalício
 ["rdzinho21k"] = true, -- _meno_zinho (1401197759180046386) Vitalício
