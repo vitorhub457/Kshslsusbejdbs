@@ -283,6 +283,7 @@ return {
 
 
     -- 1 mes
+["r_noec"] = true, -- dsxnow (1488095439977709568) 1m fim 29/04/2026
 ["ftaaaap"] = true, -- dark092866 (1141382110184214558) 1m fim 28/04/2026
 ["mama_mya05"] = true, -- cl.reis. (862158272252215336) 1m fim 27/04/2026
 ["V7mp_Aykiu"] = true, -- zdarkzinxy (1108527831945854987) 1m fim 27/04/2026
