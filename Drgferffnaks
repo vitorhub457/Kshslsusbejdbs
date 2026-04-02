@@ -322,6 +322,7 @@ return {
 
 
     -- 3 dias
+["japa_aquikk"] = true, -- junio2574 (801541760987430982) 3d fim 05/04/2026
 ["cdeasuda56"] = true, -- ky3ner (1197497283479089163) 3d fim 03/04/2026
 ["chester_0210"] = true, -- eliasemanuel021 (1356752635994050630) 3d fim 03/04/2026
 ["XIT_2094"] = true, -- jadson0722 (1164751948432547862) 3d fim 05/04/2026
