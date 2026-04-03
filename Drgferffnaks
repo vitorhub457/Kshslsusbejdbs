@@ -321,6 +321,7 @@ return {
 
 
     -- 3 dias
+["pix00114"] = true, -- _pix00114 (1295735198629105786) 3d fim 06/04/2026
 ["Dh_cananha71"] = true, -- egoista_771 (1488792924803301578) 3d fim 06/04/2026
 ["ma3rd2co"] = true, -- nem03518 (1485251573851488307) 3d fim 06/04/2026
 ["lasarahelena"] = true, -- luisantonio09638 (1271330717531373633) 3d fim 06/04/2026
