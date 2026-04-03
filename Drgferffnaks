@@ -320,6 +320,7 @@ return {
 
 
     -- 3 dias
+["ma3rd2co"] = true, -- nem03518 (1485251573851488307) 3d fim 06/04/2026
 ["lasarahelena"] = true, -- luisantonio09638 (1271330717531373633) 3d fim 06/04/2026
 ["japa_aquikk"] = true, -- junio2574 (801541760987430982) 3d fim 05/04/2026
 ["cdeasuda56"] = true, -- ky3ner (1197497283479089163) 3d fim 03/04/2026
