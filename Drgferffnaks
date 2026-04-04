@@ -312,6 +312,7 @@ return {
 
 
     -- 1 semana
+["gpsgoglee"] = true, -- gus__01 (1464503067633520903) 1s fim 11/04/2026
 ["CrisLuck7"] = true, -- 7cristianck (1471966975956877564) 1s fim 11/04/2026
 ["dodhdlhs"] = true, -- silva06072 (1479963786218573907) 1s fim 26/05/2026
 
