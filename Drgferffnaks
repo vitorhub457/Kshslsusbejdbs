@@ -325,6 +325,7 @@ return {
 
 
     -- 3 dias
+["dk_teama"] = true, -- caio09202 (1192425490238152778) 3d fim 14/04/2026
 ["Dh_cananha71"] = true, -- egoista_771 (1488792924803301578) 3d fim 14/04/2026
 ["joao_off988"] = true, -- joaohenrique0984_15328 (1432540176235630625) 3d fim 14/04/2026
 ["loytao2"] = true, -- lolytadev (1318233264460267523) 3d fim 14/04/2026
