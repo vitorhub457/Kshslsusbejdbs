@@ -319,6 +319,7 @@ return {
 
 
     -- 1 semana
+["jeanrrdj"] = true, -- ikaro01728 (1352453141546799159) 1s fim 22/04/2026
 ["CrystalZapRocket"] = true, -- erickwaldemir (1346651863411458059) 1s fim 19/04/2026
 ["pressao1004"] = true, -- benicio0180_56399 (1387245231321124935) 1s fim 19/04/2026
 ["cavalo12346716"] = true, -- joao_v4_24186 (1163993387343544381) 1s fim 16/04/2026
