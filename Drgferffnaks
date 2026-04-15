@@ -282,6 +282,7 @@ return {
 
 
     -- 1 mes
+["ducorree7"] = true, -- ducorre.7_59863 (1471718700787957902) 1m fim 15/05/2026
 ["Tz_xv77"] = true, -- tzin_rj (1484312705174208603) 1m fim 15/05/2026
 ["sung_Shadoww"] = true, -- linear839 (1493393787550961674) 1m fim 13/05/2026
 ["twarsxo"] = true, -- jogos03_70005 (1478151129891213422) 1m fim 12/05/2026
