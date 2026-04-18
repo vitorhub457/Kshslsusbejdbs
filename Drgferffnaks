@@ -247,6 +247,7 @@ return {
     
 
     -- 2 meses
+["GUERERINH"] = true, -- domizera_ttx (1475253448533606583) 2m fim 17/06/2026
 ["w82osjsa"] = true, -- zyronisconta19999 (1477360783963852810) 2m fim 16/06/2026
 ["CoveFred"] = true, -- ilovecoquettehun (1472683424916574249) 2m fim 11/06/2026
 ["TvictorZinT"] = true, -- vitinrlk062 (1393631320248160256) 2m fim 11/06/2026
