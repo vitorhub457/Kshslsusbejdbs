@@ -21,6 +21,7 @@ return {
 
 
     -- vitalicio
+["Cademeustaff"] = true, -- deluxzzk (1463681908021137644) Vitalício
 ["Zueiro_bilionario"] = true, -- humano_666 (1480866751246893156) Vitalício
 ["Juh_hsk"] = true, -- juh.sx_ (1494311413299282064) Vitalício
 ["loytao2"] = true, -- lolytadev (1318233264460267523) Vitalício
