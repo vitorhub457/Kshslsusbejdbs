@@ -2,14 +2,7 @@ return {
 
 
     -- staff
-["feekflapyk8"] = true, -- cherrydev40 (1368244277263597659) Staff
-["Apenas_eu362"] = true, -- money_or_love (1486075132215689418) Staff
-["TrollLinux"] = true, -- money_or_love (1486075132215689418) Staff
-["apenas_eu362"] = true, -- sla._.0_0 (1486075132215689418) Staff
-["bielytvi"] = true, -- bielzinxcv (1434659824129409196) Staff
-    ["Usuario_X1x1x1"] = true, -- shelby
-    ["BSX_ADMIRI"] = true, -- BSX
-    ["RaelAdminScripter"] = true, -- Rael 
+
 
     -- influencer
 
@@ -17,320 +10,110 @@ return {
 
     -- booster
 ["raul_santos22"] = true, -- iambr1ck22 (1042132426647945316) Booster
-["ukunfuan3p"] = true, -- dkzinduhgtau (1470221824049811476) Booster
-["Mateusx9992"] = true, -- joao_vitor125 (1444303235451060316) Booster
+
 
 
 
     -- vitalicio
 ["Joao_polapo08"] = true, -- zou_new (1456003654866829332) Vitalício
-["Cademeustaff"] = true, -- deluxzzk (1463681908021137644) Vitalício
-["Zueiro_bilionario"] = true, -- humano_666 (1480866751246893156) Vitalício
-["Juh_hsk"] = true, -- juh.sx_ (1494311413299282064) Vitalício
-["loytao2"] = true, -- lolytadev (1318233264460267523) Vitalício
-["pedro2610081"] = true, -- pedrohenr1q (1286685208405475487) Vitalício
-["calvo_productions"] = true, -- sigma0459_89932 (1202371460853792788) Vitalício
-["jjsjsjs_41"] = true, -- wesleydiasfernandes_94270 (1485320887405248594) Vitalício
-["bacurasy"] = true, -- santo01994 (753782944937672825) Vitalício
-["Magosupremo132"] = true, -- markin070877 (1491113810558324748) Vitalício
-["sheliliesss"] = true, -- dsxnow_87907 (1488095439977709568) Vitalício
-["kaio_kkj000"] = true, -- manokaio0380 (1461867360423121009) Vitalício
-["teteuziinhoh"] = true, -- catnep0162 (1486562882714865769) Vitalício
-["fp_grox16"] = true, -- groxz_gg16_06852 (1473475635018989679) Vitalício
-["skyblocksqqqq"] = true, -- angel_zx777 (1453896094441410636) Vitalício
-["BAD_SHAYPADO"] = true, -- cl.reis. (862158272252215336) Vitalício
-["Mizaelfm2"] = true, -- aguamista (1100869038843887626) Vitalício
-["pedro_gabriel915"] = true, -- mulpan0427 (1486413271669014582) Vitalício
-["rdzinho21k"] = true, -- _meno_zinho (1401197759180046386) Vitalício
-["enzola1237xb"] = true, -- enzo066495 (1449204498940559425) Vitalício
-["ziovxoo"] = true, -- developer0zxy (1475663527233716370) Vitalício
-["d1ss_princess"] = true, -- _sl_ytsms (1482476630432550932) Vitalício
-["koofe_195"] = true, -- heitor037999 (1461494966143684628) Vitalício
-["rsnx999"] = true, -- rsnx777 (711663484621815888) Vitalício
-["BART_0149"] = true, -- skyler_zn (1456175889984393319) Vitalício
-["021pleboy254"] = true, -- san008981 (1483502350067830797) Vitalício
-["Sjdjan9"] = true, -- gusta001557 (1470973528659460353) Vitalício
-["vteteus"] = true, -- pietroxxpz_0 (1449269881831690381) Vitalício
-["Renanzinrlk9"] = true, -- jamesauramaisego_43318 (1422358133870694402) Vitalício
-["nikitovasco1004"] = true, -- moraesdodc (1399505757476491304) Vitalício
-["samot33348ds"] = true, -- pisth_yt3636 (1474009084654260332) Vitalício
-["rafax_fwck"] = true, -- spankku. (1227773850859868160) Vitalício
-["joaoking667"] = true, -- joaoexe66 (1159593299972194374) Vitalício
-["Cajuzin1245"] = true, -- cajuzinho0313 (1333852691759104082) Vitalício
-["jaa299"] = true, -- itz_gaby0928 (1456670142648811763) Vitalício
-["junin777w"] = true, -- junin_pilutorto_91269 (1328584845856604172) Vitalício
-["GIGI_MK01"] = true, -- ray16games (924792577247567882) Vitalício
-["Markusraylan15"] = true, -- ray16games (924792577247567882) Vitalício
-["048_VT"] = true, -- silvax09422 (1368355647409754112) Vitalício
-["slr0071"] = true, -- santt0s_257 (1427137876369473577) Vitalício
-["SouScriptDesde2024"] = true, -- thefishyt6323 (1403965574513692732) Vitalício
-["fialtevs"] = true, -- fialtevs_40427 (1203557657932337205) Vitalício
-["pao_comovo179"] = true, -- bielboyzao0171_06592 (1461216113735237715) Vitalício
-["matye6s91847q"] = true, -- benicioeforte0196 (1449484108907417601) Vitalício
-["kwai_3"] = true, -- springtrr (1010222470583816343) Vitalício
-["fabiotv78"] = true, -- fabio046961 (1368306201942823034) Vitalício
-["OMELETEOPP"] = true, -- guxtah777g_09385 (1356375707579842570) Vitalício
-["ax7_gaby075"] = true, -- gleicekelly075 (1447212476536983665) Vitalício
-["usiajahge"] = true, -- xxdxrkxx229 (1241913931149348864) Vitalício
-["poathecat123"] = true, -- tacinho0523_43172 (1378491550551773255) Vitalício
-["llenado123456"] = true, -- yungtuca7777 (1343249184974966794) Vitalício
-["Kakashi003784"] = true, -- yege0077_26379 (1160220235731832952) Vitalício
-["djonatanmz"] = true, -- djony_x (1161539201095962634) Vitalício
-["M0RANGUETT8"] = true, -- test10.o (1422204539192217701) Vitalício
-["yJBunnyzinha"] = true, -- bunnyzinhafoda (1426549606589796465) Vitalício
-["KNz7Fernando"] = true, -- bigode02._. (1065367649518891098) Vitalício
-["luiz_tzcoronel1"] = true, -- luizhenrique35376978 (1217486957811339401) Vitalício
-["Chocolate2iir"] = true, -- spidzxy (1416471912808185987) Vitalício
-["Bacon_frio0"] = true, -- surubaom (1423842118912184421) Vitalício
-["S1llyL4ugh"] = true, -- eojkkkk (1421241157144416329) Vitalício
-["Ilovejesuss20"] = true, -- kahue_snts (1284528257076826225) Vitalício
-["hyago8535"] = true, -- xarilal (1200865584183779541) Vitalício
-["barbileibou"] = true, -- zaravirouemokkj (1315185719618310205) Vitalício
 ["Moon_lord186"] = true, -- kira_ksp (1321261058723418112) Vitalício
-["Wzleandro7"] = true, -- zs_leo (813041359425896538) Vitalício
-["roblox_user_10080348379"] = true, -- kystrypkry (1458952078972948524) Vitalício
-["totozao1236"] = true, -- jean_sla. (1457853655398093042) Vitalício
-["pvd_p34"] = true, -- silvaxxxz._ (1457244281403343023) Vitalício
-["hackbom1663"] = true, -- rodri01157 (1245064610789458001) Vitalício
-["scorpion123pp"] = true, -- hill_lyxs (713779997831069726) Vitalício
-["peterparker12345644"] = true, -- obito_uchiahh (1441884823487774854) Vitalício
-["3001_O"] = true, -- gandelo_79591 (1450662573061181484) Vitalício
-["Leoxzao"] = true, -- leoxzao (898324455502262292) Vitalício
-["medaumbrainrot679"] = true, -- fernanda_765 (1455994908669251595) Vitalício
-["Admdarkghost_peter"] = true, -- obito_uchiahh (1441884823487774854) Vitalício
-["bernardo7087"] = true, -- bernardo07915 (1415128918897197137) Vitalício
+["kaiqugd3"] = true, -- kaiquerenckcarvalho (1374568265493385377) Vitalício
+["Zueiro_bilionario"] = true, -- humano_666 (1480866751246893156) Vitalício
 ["DANIEL153HAS"] = true, -- goku_kakaroto1558_62476 (1248391597041782896) Vitalício
-["bryan544455"] = true, -- bryan055441 (1434295078918033438) Vitalício
-["Gabriel09sz"] = true, -- tsusolitary_theustsu (868201322996961280) Vitalício
-["chocolate2iir"] = true, -- @goodskalk_15958 vitalicio fim vitalicio
-["lorenzeti1744477"] = true, -- @mls_._ vitalicio fim vitalicio
-["daniel705560"] = true, -- @daniel_2560 vitalicio fim vitalicio
-["LinhChiShad0wninja07"] = true, -- @jhonyhenry_ vitalicio fim vitalicio
-["DavizHub"] = true, -- @daviz0902 vitalicio fim vitalicio
-["azulbalufk"] = true, -- @meguru_bachira081 vitalicio fim vitalicio
-["perolla_253"] = true, -- @noble_starfish_72532 vitalicio fim vitalicio
-["VitorX576"] = true, -- @porwervitorkl vitalicio fim vitalicio
-["NovaX0548"] = true, -- @janderson027949 vitalicio fim vitalicio
+["Juh_hsk"] = true, -- juh.sx_ (1494311413299282064) Vitalício
+["fabiotv78"] = true, -- fabio046961 (1368306201942823034) Vitalício
+["bielzinho091622"] = true, -- wesley1039. (1378836374026715381) Vitalício
+["NovaX0548"] = true, -- janderson027949 (1392681958319980616) Vitalício
+["botinha_W"] = true, -- biel06814 (1208794841211736097) Vitalício
+["teteuziinhoh"] = true, -- catnep0162 (1486562882714865769) Vitalício
+["M0RANGUETT8"] = true, -- test10.o (1422204539192217701) Vitalício
 ["Ax7_Mono14"] = true, -- @ei_corinthians_voce_e_meu_amor vitalicio fim vitalicio
-["PrinceRyanI_I"] = true, -- @ei_corinthians_voce_e_meu_amor vitalicio fim vitalicio
-["Eduardo703bz"] = true, -- @pao_queijobrp_48130 vitalicio fim vitalicio
-["lergen25"] = true, -- @foxin_sdx vitalicio fim vitalicio
-["Rafael_GMR0687"] = true, -- @eduardo_br01 vitalicio fim vitalicio
-["kidfunzx"] = true, -- @itsme_abcdef vitalicio fim vitalicio
-["baconjabiraca"] = true, -- @jinwoo_llt vitalicio fim vitalicio
-["INC0MUN2802"] = true, -- @paulera_1234 vitalicio fim vitalicio
-["marcos87607"] = true, -- @mrcmar vitalicio fim vitalicio
-["Gabriel_proziin"] = true, -- @lucas05872 vitalicio fim vitalicio
+["llenado123456"] = true, -- yungtuca7777 (1343249184974966794) Vitalício
+["kwai_3"] = true, -- springtrr (1010222470583816343) Vitalício
+["sheliliesss"] = true, -- dsxnow_87907 (1488095439977709568) Vitalício
+["Mizaelfm2"] = true, -- aguamista (1100869038843887626) Vitalício
+["ziovxoo"] = true, -- developer0zxy (1475663527233716370) Vitalício
+["fialtevs"] = true, -- fialtevs_40427 (1203557657932337205) Vitalício
+["Gabriel_proziin"] = true, -- silva8453 (993297915701374987) fim vitalicio
+["Magosupremo132"] = true, -- markin070877 (1491113810558324748) Vitalício
+["lergen25"] = true, -- foxin_sdx (1089629818628349962) fim vitalicio
+["Wzleandro7"] = true, -- zs_leo (813041359425896538) Vitalício
+["koofe_195"] = true, -- heitor037999 (1461494966143684628) Vitalício
+["junin777w"] = true, -- junin_pilutorto_91269 (1328584845856604172) Vitalício
+["Rei_leopardoooooo"] = true, -- autistas52_11275481 (1423399419021234388) Vitalício
+["pvd_p34"] = true, -- silvaxxxz._ (1457244281403343023) Vitalício
+["Markusraylan15"] = true, -- ray16games (924792577247567882) Vitalício
+["skyblocksqqqq"] = true, -- angel_zx777 (1453896094441410636) Vitalício
+["Renanzinrlk9"] = true, -- jamesauramaisego_43318 (1422358133870694402) Vitalício
+["jaa299"] = true, -- itz_gaby0928 (1456670142648811763) Vitalício
+["021pleboy254"] = true, -- san008981 (1483502350067830797) Vitalício
 ["samuel_mi244"] = true, -- @samuel_mi244_ vitalicio fim vitalicio
-["mathezinhoiniciante1"] = true, -- @papagaio0082 vitalicio fim vitalicio
-["JOYSOYIESCRIPTER2"] = true, -- @fx_nathan_ vitalicio fim vitalicio
-["IN0XER0"] = true, -- @0.magnata11 vitalicio fim vitalicio
-["0cria_master"] = true, -- @caliban0212 vitalicio fim vitalicio
-["XHZ_07"] = true, -- @lvp.x7 vitalicio fim vitalicio
-["MC_luuky7"] = true, -- @novin70066 vitalicio fim vitalicio
-["heitor_game5894"] = true, -- @heitoramaemilly vitalicio fim vitalicio
-["StreetVersePTBR"] = true, -- @delayprint vitalicio fim vitalicio
-["dan29025"] = true, -- @dansmx_. vitalicio fim vitalicio
-["shadow83953"] = true, -- @desativadok6._ vitalicio fim vitalicio
-["jaguaribara2132"] = true, -- @rip_joaoxx17k vitalicio fim vitalicio
-["Aao_miguel"] = true, -- @drk_ang vitalicio fim vitalicio
-["Gabrielzinx_S2"] = true, -- @gabrielzinx_s2 vitalicio fim vitalicio
-["mn_dh87"] = true, -- @caroline03644 vitalicio fim vitalicio
-["Matheuskriat889"] = true, -- @santzzz_h_29665 vitalicio fim vitalicio
-["sshy_japa"] = true, -- @gkxvkggkif_77517 vitalicio fim vitalicio
-["papaiffrtrt"] = true, -- @pedro2344064 vitalicio fim vitalicio
-["wosbssh"] = true, -- @phzind. vitalicio fim vitalicio
-["vehshddhdhdhh"] = true, -- @maycon_scripts_ vitalicio fim vitalicio
-["EzequielHenrique1244"] = true, -- @ezequiel033749 vitalicio fim vitalicio
-["fallnext"] = true, -- @carmesimeumermoyt vitalicio fim vitalicio
-["BIELZIN_0I"] = true, -- @bielzin9191720 vitalicio fim vitalicio
-["DOUGUI00"] = true, -- @dolly019295 vitalicio fim vitalicio
-["Zackinkkj"] = true, -- @bh_rdg vitalicio fim vitalicio
-["mlkderespeito"] = true, -- @neymano00 vitalicio fim vitalicio
-["kakaroto_Bacella"] = true, -- @lucasbacellar vitalicio fim vitalicio
-["Eddy_Smokey6"] = true, -- @eddy.smokey vitalicio fim vitalicio
-["XxmikaelXx91"] = true, -- @mikael_xp_ vitalicio fim vitalicio
-["Luizmiguel0156"] = true, -- @up_luiz827_78695 vitalicio fim vitalicio
-["Rei_leopardoooooo"] = true, -- @autistas52 vitalicio fim vitalicio
-["kitt_esplod"] = true, -- @kittyzinha0397_64715 vitalicio fim vitalicio
-["AmooSenna"] = true, -- @1mattheuszxx_29151 vitalicio fim vitalicio
-["GG_ADMIN5"] = true, -- @fidokidbengala__18950 vitalicio fim vitalicio
-["timbopa"] = true, -- @pablo_15334 vitalicio fim vitalicio
-["GuigoRaposa"] = true, -- @guigo0583 vitalicio fim vitalicio
-["desconhesidols"] = true, -- @allanzoka_12345 vitalicio fim vitalicio
-["GUESTS9092"] = true, -- @luan036254 vitalicio fim vitalicio
-["Loregamer_02GG"] = true, -- @lolytao._88546 vitalicio fim vitalicio
-["987STEPSIS987"] = true, -- @dabatshi79 vitalicio fim vitalicio
-["Bby_blessed01"] = true, -- @perf_012 vitalicio fim vitalicio
-["HEROBRIN3234"] = true, -- @isaacbelizario_86130 vitalicio fim vitalicio
-["Kakaroto338909"] = true, -- @pietrosilvaramires vitalicio fim vitalicio
-["famasmarco999"] = true, -- @mrzzk77 vitalicio fim vitalicio
-["GG_clashsla"] = true, -- @slaoquebotar vitalicio fim vitalicio
-["RH_Novo"] = true, -- @188._. vitalicio fim vitalicio
-["BaconX23Z"] = true, -- @carloszxuio_47134 vitalicio fim vitalicio
-["lovew0ll"] = true, -- @palomaarcanjo_ vitalicio fim vitalicio
-["Ussh935"] = true, -- @olhauneyma_79781 vitalicio fim vitalicio
-["pintilinteste"] = true, -- @gostodebrainrots vitalicio fim vitalicio
-["DarYizinXD"] = true, -- @vrendsx vitalicio fim vitalicio
-["Gojo_22796"] = true, -- @jesusvive._. vitalicio fim vitalicio
 ["Taylor14Brother"] = true, -- @naopeganomeu___f_42980 vitalicio fim vitalicio
-["hwhehhwhehwh"] = true, -- @gbknalha02 vitalicio fim vitalicio
-["ChaRada519"] = true, -- @cauareymond244 vitalicio fim vitalicio
-    ["gtavaitoma"] = true, -- kakashi_script99 vitalicio
-    ["garfishbjwc_88"] = true, -- lohan_xiter vitalicio
-    ["dszin0_0"] = true, -- leaodalapa vitalicio
-    ["MIGUEL2000MU1"] = true, -- clone vitalicio
-    ["pedredsom100"] = true, -- _miguelbrasil vitalicio
-    ["tinaFamilia21"] = true, -- yblood06 vitalicio
-    ["Luckezeira"] = true, -- luckzeira vitalicio
-    ["kaiqugd3"] = true, -- kaique gringo vitalicio
-    ["elsjpfa"] = true, -- darkzin02 vitalicio
-    ["rlk_15786"] = true, -- joaobernado05 vitalicio
-    ["krbx82h"] = true, -- capivara05 vitalicio
-    ["bundarosinha"] = true, -- nescas4 vitalicio
-    ["LominhaBl"] = true, -- palomaarcanjo_ vitalicio
-    ["SOZINHO958"] = true, -- mario_afera_11561 vitalicio
-    ["HENRIQUEJUCURUTU"] = true, -- sonhodeseradm vitalicio
-    ["moons7334"] = true, -- kauazin vitalicio
-    ["bielzinho091622"] = true, -- bielzinh01 vitalicio
-    ["yTiwDxz12"] = true, -- sr_matheus vitalicio
-    ["lucca776172"] = true, -- tulio05 vitalicio
-    ["amosoeu"] = true, -- palomaarcanjo_ vitalicio
-    ["RemGamer777"] = true, -- bureksigma vitalicio
-    ["darkizinho9910"] = true, -- thetitan vitalicio
-    ["Lucas_ktx806"] = true, -- cassio0956 vitalicio
-    ["Bacon_SuperFaturadop"] = true, -- yotagy_ vitalicio
-    ["luisssss549"] = true, -- skyfilhinhudimamae vitalicio
-    ["Nuvenzinho6"] = true, -- pedrohenrique08 vitalicio
-    ["Voutepegarmuahahah"] = true, -- cinta0831 vitalicio
-    ["daviw2341"] = true, -- daviw2342 vitalicio
-    ["ITZ_SOMBRI01"] = true, -- blackk444 vitalicio
-    ["Narutoplaysoficiau"] = true, -- kauanzin0670 vitalicio
-    ["Clarinhalinda_vitor"] = true, -- tito017561 vitalicio
-    ["ALEX893163"] = true, -- alex._carol vitalicio
-    ["botinha_W"] = true, -- coroa_dograu vitalicio
-    ["uniaoflasco397"] = true, -- 12345g0421 vitalicio
-    ["lilice201859"] = true, -- biel_027 vitalicio
-    ["Proytoficial02"] = true, -- proytoficial05 vitalicio
-    ["rip_bacon00367"] = true, -- rakk0552_033 vitalicio
-    ["famitopey"] = true, -- wdzzy7xx vitalicio
-    ["Conta_desconhecid47"] = true, -- dunzkii vitalicio
-    ["CaoHieu_32953"] = true, -- oliverx0088 vitalicio
-    ["KauanRodriguesLeao4"] = true, -- kl777. vitalicio
-    ["b13_tio"] = true, -- juliohenrique3942 vitalicio
-    ["Dudxzz8"] = true, -- eudhdj vitalicio
-    ["Davizera_1022"] = true, -- davizin0974_45048 vitalicio
-    ["jehsjwhla"] = true, -- stuprusigma vitalicio
-    ["Angelo626962"] = true, -- @angelo9929282 vitalicio
+["slr0071"] = true, -- santt0s_257 (1427137876369473577) Vitalício
+["CaoHieu_32953"] = true, -- oliverx0088 vitalicio
+["rsnx999"] = true, -- rsnx777 (711663484621815888) Vitalício
+["rafax_fwck"] = true, -- spankku. (1227773850859868160) Vitalício
+["peterparker12345644"] = true, -- obito_uchiahh (1441884823487774854) Vitalício
+["Cademeustaff"] = true, -- deluxzzk (1463681908021137644) Vitalício
+["d1ss_princess"] = true, -- _sl_ytsms (1482476630432550932) Vitalício
+["elsjpfa"] = true, -- darkzin02 vitalicio
+["LominhaBl"] = true, -- palomaarcanjo_ (1408559797141242001) Vitalício
+["lovew0ll"] = true, -- mahh0527_60264 (1303110366506516511) Vitalício
+["Proytoficial02"] = true, -- croquete02 (1065892331900911626) Vitalício
+["bundarosinha"] = true, -- nescas4 (777552750787297301) Vitalício
 
 
 
 
     -- 4 meses
-["xvenomdev"] = true, -- venomdevx (1126266231322837113) 4m fim 17/08/2026
-["script_vini4"] = true, -- vnas0005 (1479079221337919558) 4m fim 10/08/2026
-["SLK_JAPA771"] = true, -- edu_175._96447 (1465131404198412373) 4m fim 01/08/2026
-["lucasninja44444"] = true, -- lucashenrique0586 (1484260097478889526) 4m fim 17/07/2026
 ["K1LL_py"] = true, -- k1ll_linux (1334981768973127753) 4m fim 12/07/2026
-["testevinivini"] = true, -- imojisengmail.com.br (1469877207609377052) 4m fim 01/07/2026
-["23kekaal"] = true, -- fillintheferbs (1335979777135480893) 4m fim 29/06/2026
-["lucasX20037"] = true, -- lucas_dark0072_41268 (1429096366973648907) 4m fim 22/06/2026
-["Ghost_sp0"] = true, -- ghost_ofc0428_04006 (1306029875827703842) 4m fim 22/06/2026
-["joseandrel993"] = true, -- joseandre0558 (1269715271992606804) 4m fim 18/06/2026
-["PlmSuga"] = true, -- loxy_rs (1246518218932097135) 4m fim 08/06/2026
-["enzorepefadenati"] = true, -- xinglinling (1422551495949156490) 4m fim 29/05/2026
-["Pick_dur"] = true, -- chuvin_vp (1371480872796033064) 4m fim 17/05/2026
-["Ax7_lari86"] = true, -- manu037273 (1458461195802640671) 4m fim 19/05/2026
-["RIP_CAPUDO04"] = true, -- blessed_vhx (1274808722484367417) 4m fim 10/05/2026
-["gk_r4p"] = true, -- geovanbr17 (444289206009987074) 4m fim 05/05/2026
-["qSpSplxeRbW"] = true, -- reizinhocaramelo (1245475176846725120) 4m fim 03/05/2026
-["SGT_P1MENTA"] = true, -- p1m3nta_ (1301090196653342750) 4m fim 02/07/2026
-["guimuitonoob"] = true, -- .mano_gui (1004856596377120952) 4m fim 30/04/2026
-["dnkdndxj"] = true, -- @arthurwebergame2_50050 4m fim 28/04/2026
+["SLK_JAPA771"] = true, -- edu_175._96447 (1465131404198412373) 4m fim 01/08/2026
+["script_vini4"] = true, -- vnas0005 (1479079221337919558) 4m fim 10/08/2026
     
 
     -- 2 meses
-["GUERERINH"] = true, -- domizera_ttx (1475253448533606583) 2m fim 17/06/2026
-["w82osjsa"] = true, -- zyronisconta19999 (1477360783963852810) 2m fim 16/06/2026
-["CoveFred"] = true, -- ilovecoquettehun (1472683424916574249) 2m fim 11/06/2026
-["TvictorZinT"] = true, -- vitinrlk062 (1393631320248160256) 2m fim 11/06/2026
-["OsNarut0"] = true, -- apedinego. (1492138388277428345) 2m fim 10/06/2026
-["FACHAZX9"] = true, -- eobut (1492149076823769119) 2m fim 09/06/2026
-["Kauafernando144"] = true, -- kauafernandopinheiro._62527 (1414311672725770270) 2m fim 09/06/2026
 ["gabrielxupx"] = true, -- gabriel_xzn_ (1399507095879028774) 2m fim 07/06/2026
-["lylsgky"] = true, -- _cabelu (542134224980017163) 2m fim 06/06/2026
 ["naoMe_BaneNmrl"] = true, -- davy01962 (1321797476721623075) 2m fim 06/06/2026
-["janzinho_itz88"] = true, -- santwz7__ (1221804781379780711) 2m fim 27/05/2026
-["DebbieReid126"] = true, -- aidoneus.7 (1333608722806603778) 2m fim 24/05/2026
-["jvscript7"] = true, -- jvdolins7 (1432028736924160031) 2m fim 21/05/2026
-["Zmary100"] = true, -- marymonteiro0219 (1485093743886340126) 2m fim 21/05/2026
-["AKTSUKISMi"] = true, -- marymonteiro0219 (1485093743886340126) 2m fim 21/05/2026
-["eu_legitandokkj"] = true, -- leuelkkj (1089993587867000872) 2m fim 20/05/2026
-["CHV_HH"] = true, -- japoneshp (1481809002945052794) 2m fim 18/05/2026
-["enzogftf"] = true, -- skyler_zn (1456175889984393319) 2m fim 13/05/2026
-["roblox_user_5276216094"] = true, -- thz_midiax7_17281 (1454527318788935914) 2m fim 09/05/2026
-["wl_tazmania"] = true, -- shardezz (1401005190479483092) 2m fim 08/05/2026
-["rafael_4683"] = true, -- fael008441 (1464464937274572985) 2m fim 05/05/2026
-["RengokuDark14"] = true, -- rengokugamer777_13845 (1304199309482528850) 2m fim 03/05/2026
-["Fx_BropsTM"] = true, -- joyful_hamster_21617 (1478484238620819568) 2m fim 02/05/2026
-["YUE_YUE027"] = true, -- lara022126 (1476749688324624456) 2m fim 28/04/2026
-["roubobrainront"] = true, -- ruanff6307 (933866214445420594) 2m fim 26/04/2026
-["Sla_888l"] = true, -- moises1290. (1441036505807196202) 2m fim 25/04/2026
+["Kauafernando144"] = true, -- kauafernandopinheiro._62527 (1414311672725770270) 2m fim 09/06/2026
+["OsNarut0"] = true, -- apedinego. (1492138388277428345) 2m fim 10/06/2026
 ["davi_zx775"] = true, -- davisilva9944 (1437305130931327016) 2m fim 28/05/2026
-["tlgdd68"] = true, -- conrado04892 (1445721982770352249) 2m fim 13/05/2026
-
-
+["CoveFred"] = true, -- ilovecoquettehun (1472683424916574249) 2m fim 11/06/2026
+["GUERERINH"] = true, -- domizera_ttx (1475253448533606583) 2m fim 17/06/2026
+["lylsgky"] = true, -- _cabelu (542134224980017163) 2m fim 06/06/2026
+["rafael_4683"] = true, -- fael008441 (1464464937274572985) 2m fim 05/05/2026
+["Zmary100"] = true, -- marymonteiro0219 (1485093743886340126) 2m fim 21/05/2026
+["YUE_YUE027"] = true, -- lara022126 (1476749688324624456) 2m fim 28/04/2026
 
 
     -- 1 mes
-["ducorree7"] = true, -- ducorre.7_59863 (1471718700787957902) 1m fim 15/05/2026
-["Tz_xv77"] = true, -- tzin_rj (1484312705174208603) 1m fim 15/05/2026
-["sung_Shadoww"] = true, -- linear839 (1493393787550961674) 1m fim 13/05/2026
-["twarsxo"] = true, -- jogos03_70005 (1478151129891213422) 1m fim 12/05/2026
-["duda12345rrt"] = true, -- kaio123465 (1300982153080868927) 1m fim 12/05/2026
-["renan_rn14"] = true, -- da_balinha021 (1338289750095691915) 1m fim 12/05/2026
-["THEUS15524"] = true, -- catzinho0626 (1490111900875231355) 1m fim 10/05/2026
-["pablo_pik9"] = true, -- pablozeira (1490327481935331398) 1m fim 07/05/2026
-["DiogoYTxbr"] = true, -- michaelkaiser1705_33055 (1451364180643807245) 1m fim 05/05/2026
-["davialamao20156"] = true, -- uriellargato_82903 (1482171826787455037) 1m fim 05/05/2026
-["Davialamao20156"] = true, -- uriellargato_82903 (1482171826787455037) 1m fim 05/05/2026
 ["TheBlackxxxl"] = true, -- coringa08433 (1055676312360071278) 1m fim 04/05/2026
-["iH7Xngu"] = true, -- vamp4sx (783182842921615383) 1m fim 03/05/2026
-["emanoel_massa"] = true, -- emanoel_pst (1484834764975509524) 1m fim 30/04/2026
-["r_noec"] = true, -- dsxnow (1488095439977709568) 1m fim 29/04/2026
-["ftaaaap"] = true, -- dark092866 (1141382110184214558) 1m fim 28/04/2026
-["mama_mya05"] = true, -- cl.reis. (862158272252215336) 1m fim 27/04/2026
-["V7mp_Aykiu"] = true, -- zdarkzinxy (1108527831945854987) 1m fim 27/04/2026
-["Ph_Shadow9042"] = true, -- rosana.rosa1355 (1052653518600810496) 1m fim 27/04/2026
-["komiol76"] = true, -- blczim4 (1409981671582990358) 1m fim 22/05/2026
+["DiogoYTxbr"] = true, -- michaelkaiser1705_33055 (1451364180643807245) 1m fim 05/05/2026
 ["Marizinhairis1"] = true, -- rowena0172_18810 (1466943223581900932) 1m fim 24/04/2026
-["Ax7_neymar57"] = true, -- @rafa19kkkk 4m fim 27/10/2026
-
-
-
+["ducorree7"] = true, -- ducorre.7_59863 (1471718700787957902) 1m fim 15/05/2026
+["renan_rn14"] = true, -- da_balinha021 (1338289750095691915) 1m fim 12/05/2026
+["iH7Xngu"] = true, -- vamp4sx (783182842921615383) 1m fim 03/05/2026
+["r_noec"] = true, -- dsxnow (1488095439977709568) 1m fim 29/04/2026
+["THEUS15524"] = true, -- catzinho0626 (1490111900875231355) 1m fim 10/05/2026
+["twarsxo"] = true, -- jogos03_70005 (1478151129891213422) 1m fim 12/05/2026
+["ftaaaap"] = true, -- dark092866 (1141382110184214558) 1m fim 28/04/2026
+["sung_Shadoww"] = true, -- linear839 (1493393787550961674) 1m fim 13/05/2026
+["komiol76"] = true, -- blczim4 (1409981671582990358) 1m fim 22/05/2026
 
 
 
     -- 1 semana
+["DED_crx7"] = true, -- ded087161 (1020478032043053077) 1s fim 26/04/2026
 ["santszmih"] = true, -- ikaro01728 (1352453141546799159) 1s fim 26/04/2026
 ["jeanrrdj"] = true, -- ikaro01728 (1352453141546799159) 1s fim 26/04/2026
-["DED_crx7"] = true, -- ded087161 (1020478032043053077) 1s fim 26/04/2026
-["ma3rd2co"] = true, -- nem03518 (1485251573851488307) 1s fim 24/04/2026
-["XlucasXr1"] = true, -- lucas_1890 (1109957738387230740) 1s fim 23/04/2026
-["dodhdlhs"] = true, -- silva06072 (1479963786218573907) 1s fim 26/05/2026
 
 
 
 
 
     -- 3 dias
-["Rj_k4auan"] = true, -- lucas_14_rj7388 (1014924290451329024) 3d fim 23/04/2026
 ["jjkoid6353"] = true, -- scripts0903 (1381760439012294738) 3d fim 23/04/2026
-["VickiFreeman6"] = true, -- kakashi081750 (1495782864560717910) 3d fim 23/04/2026
-["enzo_progamer252"] = true, -- kevin_script (1462884513024573596) 3d fim 23/04/2026
-["SOLITARIO2406"] = true, -- melvinzzk (730133585704779928) 3d fim 23/04/2026
 ["chester_0210"] = true, -- eliasemanuel021 (1356752635994050630) 3d fim 23/04/2026
-["rip_fff666"] = true, -- bloxfruit099618 (1259597825373638749) 3d fim 22/05/2026
+["SOLITARIO2406"] = true, -- melvinzzk (730133585704779928) 3d fim 23/04/2026
 
 
     -- outros
