@@ -107,6 +107,7 @@ return {
 
 
     -- 1 semana
+["JPTHEMIDIA1"] = true, -- bnssx (1420914692720955492) 1s fim 01/05/2026
 ["DED_crx7"] = true, -- ded087161 (1020478032043053077) 1s fim 26/04/2026
 ["santszmih"] = true, -- ikaro01728 (1352453141546799159) 1s fim 26/04/2026
 ["jeanrrdj"] = true, -- ikaro01728 (1352453141546799159) 1s fim 26/04/2026
