@@ -20,6 +20,7 @@ return {
 
 
     -- vitalicio
+["BIELZIN_0I"] = true, -- bielzin9191720 (1422828773459492874) Vitalício
 ["djonatanmz"] = true, -- djony_x (1161539201095962634) Vitalício
 ["GUESTS9092"] = true, -- luan036254 (1321637113313235037) Vitalício
 ["rafael_ip11"] = true, -- rafael_020_50341 (1422613331524456610) Vitalício
