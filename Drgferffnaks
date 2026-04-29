@@ -108,6 +108,7 @@ return {
 
 
     -- 1 mes
+["gotinhawb"] = true, -- hz05043 (1498836199794671622) 1m fim 29/05/2026
 ["efrad3579"] = true, -- kauagalhart (1058464443786334258) 1m fim 29/05/2026
 ["renegado999775"] = true, -- alexrip. (1495487819332718756) 1m fim 25/05/2026
 ["the_zeus498"] = true, -- shado_wzx9 (1495552493910884565) 1m fim 24/05/2026
