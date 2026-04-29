@@ -141,6 +141,7 @@ return {
 
 
     -- 3 dias
+["reisl20"] = true, -- ja033585 (1445509142738636931) 3d fim 02/05/2026
 ["Jose_9999999TON"] = true, -- rodrigoat0947_50592 (1396880546029895760) 3d fim 02/05/2026
 ["YouTube14geo"] = true, -- geovandry_zzz (1130657611105173554) 3d fim 02/05/2026
 ["COELINHO_028"] = true, -- sennaxz_22_99140 (1493433111651029002) 3d fim 02/05/2026
