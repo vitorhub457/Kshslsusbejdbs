@@ -140,6 +140,7 @@ return {
 
 
     -- 1 semana
+["DED_crx7"] = true, -- ded087161 (1020478032043053077) 1s fim 09/05/2026
 ["santszmih"] = true, -- ikaro01728 (1352453141546799159) 1s fim 07/05/2026
 ["jeanrrdj"] = true, -- ikaro01728 (1352453141546799159) 1s fim 07/05/2026
 ["dosdsof"] = true, -- thurcpx (1434915639390376027) 1s fim 07/05/2026
