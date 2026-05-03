@@ -24,6 +24,7 @@ return {
 
 
     -- vitalicio
+["Bby_blessed01"] = true, -- thays_bby (1396626985870032928) Vitalício
 ["kakaroto_Bacella"] = true, -- lucasbacellar (1121815474859167925) Vitalício
 ["Eduardo703bz"] = true, -- soy_eduardo2008 (1316572992318214205) Vitalício
 ["Bacon_frio0"] = true, -- secreto6767 (1499800063021682774) Vitalício
