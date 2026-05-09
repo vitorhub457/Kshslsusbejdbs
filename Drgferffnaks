@@ -133,6 +133,7 @@ return {
 
 
     -- 1 mes
+["ZR_DRAKI1"] = true, -- sheikknalhap7_18982 (1489762660483469373) 1m fim 08/06/2026
 ["yelp2zx"] = true, -- wellington052778 (1311304413037461634) 1m fim 08/06/2026
 ["Ilovexit7"] = true, -- leonardo_judas (1501265605880315954) 1m fim 07/06/2026
 ["Magnata_15735"] = true, -- tiojef. (1420538034323198003) 1m fim 07/06/2026
