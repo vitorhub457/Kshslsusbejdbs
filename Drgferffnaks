@@ -192,6 +192,7 @@ return {
 
 
     -- 3 dias
+["chester_0210"] = true, -- eliasemanuel021 (1356752635994050630) 3d fim 21/05/2026
 ["TRH_CLINTOY"] = true, -- clint7047 (960765402223370270) 3d fim 21/05/2026
 ["Coringa_zx70"] = true, -- ffh4x9111 (1088220965281988648) 3d fim 20/05/2026
 ["Roblo128905"] = true, -- anthonymateus0149 (1462433242371194994) 3d fim 20/05/2026
