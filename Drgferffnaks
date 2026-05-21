@@ -150,6 +150,7 @@ return {
 
 
     -- 1 mes
+["TPS_REX01"] = true, -- rick.sx00 (1146221681996746802) 1m fim 20/06/2026
 ["Zoe_Cookie200312"] = true, -- xcarecax._23535 (1460059805141041314) 1m fim 15/06/2026
 ["saco1a2"] = true, -- jhon8790 (1060704961622716516) 1m fim 13/06/2026
 ["AXSgbriel"] = true, -- gabriel041761 (1466271990884073611) 1m fim 13/06/2026
