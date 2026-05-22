@@ -196,6 +196,7 @@ return {
 
 
     -- 3 dias
+["venicius_secundario"] = true, -- vinihack. (1491216683048632404) 3d fim 25/05/2026
 ["chester_0210"] = true, -- eliasemanuel021 (1356752635994050630) 3d fim 25/05/2026
 ["bieliw8h"] = true, -- honrando_biel (1407773344706596925) 3d fim 25/05/2026
 ["Coringa_zx70"] = true, -- ffh4x9111 (1088220965281988648) 3d fim 25/05/2026
