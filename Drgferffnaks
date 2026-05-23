@@ -197,6 +197,7 @@ return {
 
 
     -- 3 dias
+["asteroide737"] = true, -- fandorenegado6663_40436 (1486850756811423834) 3d fim 26/05/2026
 ["mcefelipe"] = true, -- diogo026607 (1459136870981177370) 3d fim 25/05/2026
 ["venicius_secundario"] = true, -- vinihack. (1491216683048632404) 3d fim 25/05/2026
 ["chester_0210"] = true, -- eliasemanuel021 (1356752635994050630) 3d fim 25/05/2026
