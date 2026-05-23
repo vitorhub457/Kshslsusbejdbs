@@ -195,6 +195,7 @@ return {
 
 
     -- 3 dias
+["conpreivnemdeche"] = true, -- joyce024375 (1453073315429093565) 3d fim 26/05/2026
 ["ttllmmo1"] = true, -- nicollas1230963 (1492179570206707782) 3d fim 26/05/2026
 ["asteroide737"] = true, -- fandorenegado6663_40436 (1486850756811423834) 3d fim 26/05/2026
 ["mcefelipe"] = true, -- diogo026607 (1459136870981177370) 3d fim 25/05/2026
