@@ -193,6 +193,7 @@ return {
 
 
     -- 3 dias
+["ThalesphLk"] = true, -- thales_reideus_29601 (1435985302589276283) 3d fim 27/05/2026
 ["Bolinha_golf09"] = true, -- l7_qteama7 (1503961638624039115) 3d fim 27/05/2026
 ["daved12286"] = true, -- davizinho02721 (1442595938727366658) 3d fim 26/05/2026
 ["ZD_MANGADOTIK"] = true, -- gbzin8777i_13937 (1450868399058980914) 3d fim 26/05/2026
