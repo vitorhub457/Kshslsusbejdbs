@@ -14,6 +14,7 @@ return {
 
 
     -- booster
+["bistecone17890"] = true, -- eo_nzx (1490326058510057532) Booster
 ["eo_nzx"] = true, -- eo_nzx (1490326058510057532) Booster
 ["freezx108"] = true, -- freeztsoca (1448704194533003397) Booster
 ["StealAMaracana"] = true, -- goolldenglove (1205737299619352608) Booster
