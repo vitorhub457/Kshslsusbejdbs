@@ -124,6 +124,7 @@ return {
     
 
     -- 2 meses
+["Taycamps01"] = true, -- tayc.0765 (1509969895356367118) 2m fim 28/07/2026
 ["PRINCIPEAPR9"] = true, -- abelelha200 (1508682848385761280) 2m fim 27/07/2026
 ["karelebe83"] = true, -- marymonteiro0219_01234 (1485093743886340126) 2m fim 26/07/2026
 ["XxKing_NerusxX"] = true, -- sla05839 (1298328956180893726) 2m fim 26/07/2026
