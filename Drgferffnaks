@@ -166,6 +166,7 @@ return {
 
 
     -- 1 mes
+["luisnx_x"] = true, -- lucas_pto_22225 (1481014700341723178) 1m fim 30/06/2026
 ["JPDAVI778099"] = true, -- davi020487 (1510388108879855829) 1m fim 29/06/2026
 ["065juninho"] = true, -- ja033585 (1445509142738636931) 1m fim 27/06/2026
 ["conpreivnemdeche"] = true, -- joyce024375 (1453073315429093565) 1m fim 26/06/2026
