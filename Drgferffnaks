@@ -210,6 +210,7 @@ return {
 
 
     -- 3 dias
+["asteroide737"] = true, -- fandorenegado6663_40436 (1486850756811423834) 3d fim 03/06/2026
 ["DAVYMiGUEL28178"] = true, -- dzk.crds (1490423620491542619) 3d fim 03/06/2026
 ["kadu_TZX"] = true, -- caeljugz_1_50009 (1246793111301132360) 3d fim 03/06/2026
 ["CHV_HH"] = true, -- realtrapper21 (1432941865899917406) 3d fim 02/06/2026
