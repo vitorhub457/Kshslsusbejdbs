@@ -128,6 +128,7 @@ return {
     
 
     -- 2 meses
+["L2_tui"] = true, -- kilulla (716742520880758855) 2m fim 31/07/2026
 ["the_zeus498"] = true, -- shado_wzx9_90829 (1495552493910884565) 2m fim 29/07/2026
 ["Taycamps01"] = true, -- tayc.0765 (1509969895356367118) 2m fim 28/07/2026
 ["PRINCIPEAPR9"] = true, -- abelelha200 (1508682848385761280) 2m fim 27/07/2026
