@@ -202,6 +202,7 @@ return {
 
 
     -- 1 semana
+["Coringa_zx70"] = true, -- ffh4x9111 (1088220965281988648) 1s fim 11/06/2026
 ["chester_0210"] = true, -- eliasemanuel021 (1356752635994050630) 1s fim 10/06/2026
 ["itz_blackzinh01"] = true, -- draxmdx_51131 (1467112234919526637) 1s fim 08/06/2026
 ["joaogabrielMS2403"] = true, -- joaofferobloxjao (1495448810262888469) 1s fim 07/06/2026
