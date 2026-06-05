@@ -26,6 +26,7 @@ return {
 
 
     -- vitalicio
+["TrollLinux"] = true, -- pnsc7_7 (1486075132215689418) Vitalício
 ["Nicolausantos_18anos"] = true, -- fafa5h5j1_14483 (1302759617729790086) Vitalício
 ["ffhdhdgrdts"] = true, -- gipa8631_67046 (1306993005839777814) Vitalício
 ["o_lambretao"] = true, -- falke_landa_90422 (1458038811681357885) Vitalício
