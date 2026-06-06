@@ -14,6 +14,7 @@ return {
 
 
     -- booster
+["chirp4s1"] = true, -- michel_231112 (1317717988270673930) Booster
 ["XxAbrianGZ"] = true, -- resxzzopv3 (1501527043546939463) Booster
 ["bistecone17890"] = true, -- eo_nzx (1490326058510057532) Booster
 ["Lostxpzz"] = true, -- freeztsoca (1448704194533003397) Booster
