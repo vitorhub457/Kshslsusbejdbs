@@ -137,6 +137,7 @@ return {
     
 
     -- 2 meses
+["bangchan_szkchan"] = true, -- skz.bangchan._68554 (1360100424656621703) 2m fim 06/08/2026
 ["jdhd73uduhd"] = true, -- s7060_55559 (1414442782889869565) 2m fim 05/08/2026
 ["Ronaldinho056765"] = true, -- yumizinhacoxinha (1097317951075532860) 2m fim 05/08/2026
 ["kaulwz"] = true, -- kaulwzz_ (1108529432785866772) 2m fim 04/08/2026
