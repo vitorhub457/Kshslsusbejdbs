@@ -186,6 +186,7 @@ return {
 
 
     -- 1 mes
+["ax7_bielty"] = true, -- gigi07672_04617 (1369419584326598686) 1m fim 14/07/2026
 ["renan_rn14"] = true, -- da_balinha021 (1338289750095691915) 1m fim 12/07/2026
 ["Alii_Gabi"] = true, -- ikaro01728 (1352453141546799159) 1m fim 11/07/2026
 ["THEUS15524"] = true, -- lolyta_lcw (1506866724241150072) 1m fim 11/07/2026
