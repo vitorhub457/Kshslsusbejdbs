@@ -227,6 +227,7 @@ return {
 
 
     -- 3 dias
+["SIGMA05409"] = true, -- pato063935 (1488678571923869779) 3d fim 19/06/2026
 ["Strix_Thiago"] = true, -- thiozin_blox (1458996525572030648) 3d fim 19/06/2026
 ["vtzinn_092"] = true, -- daniel_jhonsons (1450272003566207009) 3d fim 19/06/2026
 ["THIAGO_14576"] = true, -- thiozin_blox (1458996525572030648) 3d fim 19/06/2026
