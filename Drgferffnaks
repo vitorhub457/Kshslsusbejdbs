@@ -223,6 +223,7 @@ return {
 
 
     -- 3 dias
+["venicius_secundario"] = true, -- vinihack. (1491216683048632404) 3d fim 22/06/2026
 ["kakaje_450"] = true, -- sixsevan._luis (1452508852355334224) 3d fim 22/06/2026
 ["pedrinsp012"] = true, -- penha0975 (1466634605166727188) 3d fim 22/06/2026
 ["sopratomarban13"] = true, -- .382426 (1210949265036148746) 3d fim 22/06/2026
