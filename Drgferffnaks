@@ -224,6 +224,7 @@ return {
 
 
     -- 3 dias
+["pudim_morango244"] = true, -- n_sebo (1517864465360490639) 3d fim 23/06/2026
 ["thp606"] = true, -- vini.920_12610 (1502409632792973322) 3d fim 23/06/2026
 ["lluz00"] = true, -- rayllanpyetromedeirosrocha_64440 (1276699301531095184) 3d fim 23/06/2026
 ["venicius_secundario"] = true, -- vinihack. (1491216683048632404) 3d fim 22/06/2026
