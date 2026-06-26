@@ -196,6 +196,7 @@ return {
 
 
     -- 1 mes
+["nop_games1"] = true, -- nopzeracolo_21041 (1362800536021110925) 1m fim 26/07/2026
 ["raposo665"] = true, -- rhyanalves0507 (1411425949001711718) 1m fim 26/07/2026
 ["DavidGGgun"] = true, -- 5283220989 (1388559981128843345) 1m fim 25/07/2026
 ["Strix_Thiago"] = true, -- thiozin_blox (1458996525572030648) 1m fim 25/07/2026
