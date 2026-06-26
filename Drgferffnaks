@@ -25,6 +25,7 @@ return {
 
 
     -- vitalicio
+["ITZ_SOMBRI01"] = true, -- cr7cronaldo_07529 (1442242018259767457) Vitalício
 ["SantosWinchester"] = true, -- lc_vpx_75324 (1239903653247189054) Vitalício
 ["azulbalufk"] = true, -- meguru_bachira081 (1358956600945148086) Vitalício
 ["b13_tio"] = true, -- juliohenrique3942 (1070115001806897264) Vitalício
