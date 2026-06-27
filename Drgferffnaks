@@ -11,6 +11,7 @@ return {
 
 
     -- booster
+["eo_nzx"] = true, -- eo_nzx (1490326058510057532) Booster
 ["n7criak"] = true, -- llovgod (1448704194533003397) Booster
 ["rtrt967"] = true, -- lolytadev (1318233264460267523) Booster
 ["pedro547756"] = true, -- magical_8277272626256262 (1472547811726725182) Booster
