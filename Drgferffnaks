@@ -24,6 +24,7 @@ return {
 
 
     -- vitalicio
+["GUERERINH"] = true, -- guererinh (1284974539041669252) Vitalício
 ["furiazxs00"] = true, -- yege0077_26379 (1160220235731832952) Vitalício
 ["ggkgkckb"] = true, -- pedro_vbl_17217 (1467613031126007961) Vitalício
 ["S1llyL4ugh"] = true, -- s1lly_l4ugh (1421241157144416329) Vitalício
