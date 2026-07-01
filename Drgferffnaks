@@ -239,6 +239,7 @@ return {
 
 
     -- 3 dias
+["Mafioso_GP4"] = true, -- ll00676 (1474267996339048570) 3d fim 04/07/2026
 ["badzinho_ofc"] = true, -- kairyuu87 (1479208196424990870) 3d fim 04/07/2026
 ["rafa_890089"] = true, -- frost02822 (1505585035565076480) 3d fim 03/07/2026
 ["1Ytiow_toddy8"] = true, -- haha_toma (1484389225548873981) 3d fim 03/07/2026
