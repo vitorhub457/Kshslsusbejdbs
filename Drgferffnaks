@@ -245,6 +245,7 @@ return {
 
 
     -- 3 dias
+["chester_0210"] = true, -- eliasemanuel021 (1356752635994050630) 3d fim 06/07/2026
 ["pedro_xs043"] = true, -- penha0975 (1466634605166727188) 3d fim 06/07/2026
 ["itz_pandinha812"] = true, -- desconhecido03398 (1389008505419071602) 3d fim 05/07/2026
 ["hdjdhdhurhrjtl"] = true, -- mmbielzinn_57275 (1148720359890227220) 3d fim 05/07/2026
