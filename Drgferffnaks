@@ -244,6 +244,7 @@ return {
 
 
     -- 3 dias
+["mexicano_rlk"] = true, -- mexicano_9102 (1226410348295229492) 3d fim 07/07/2026
 ["profissional_skywars"] = true, -- oejrjzhrif_64482 (1403747939549184090) 3d fim 07/07/2026
 ["Nayvenaill"] = true, -- tsuo_xz_42545 (1340766735237779497) 3d fim 06/07/2026
 ["wendellstop"] = true, -- wendell057675 (1218943023891873873) 3d fim 06/07/2026
