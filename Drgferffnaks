@@ -145,6 +145,7 @@ return {
 
 
     -- 4 meses
+["treme_terr"] = true, -- joaovitor00624 (889280864607961119) 4m fim 03/11/2026
 ["miguelcastiglioni"] = true, -- karolnogs (1124696729837637714) 4m fim 20/10/2026
 ["sr_Gustavinhofxp"] = true, -- contaprrd (1503573770609229945) 4m fim 06/10/2026
 ["abigail133630"] = true, -- abigai142 (1491097878641246348) 4m fim 28/09/2026
