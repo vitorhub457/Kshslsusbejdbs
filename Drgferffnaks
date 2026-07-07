@@ -243,6 +243,7 @@ return {
 
 
     -- 3 dias
+["sntzx_blessed"] = true, -- breno06223 (1206965783981330444) 3d fim 10/07/2026
 ["9254j64"] = true, -- proplay0716 (1260288913684037757) 3d fim 10/07/2026
 ["Felyppegabriel1234"] = true, -- yago_0872 (1373688208574906413) 3d fim 10/07/2026
 ["FX_arthur536"] = true, -- 001_arthur. (982821587868864582) 3d fim 09/07/2026
