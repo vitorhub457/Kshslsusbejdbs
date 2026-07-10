@@ -242,6 +242,7 @@ return {
 
 
     -- 3 dias
+["grilodelmato"] = true, -- gbtremzin77 (1364490099848511568) 3d fim 13/07/2026
 ["fx_Pauli10"] = true, -- alerrandro09230 (1401900930072580117) 3d fim 13/07/2026
 ["paitaaonn0"] = true, -- biel046811 (1437758860608929874) 3d fim 13/07/2026
 ["rian_gui1"] = true, -- guizinho_x (1183958133106814996) 3d fim 13/07/2026
