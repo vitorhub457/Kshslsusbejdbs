@@ -240,6 +240,7 @@ return {
 
 
     -- 3 dias
+["fx_Pauli10"] = true, -- alerrandro09230 (1401900930072580117) 3d fim 13/07/2026
 ["paitaaonn0"] = true, -- biel046811 (1437758860608929874) 3d fim 13/07/2026
 ["rian_gui1"] = true, -- guizinho_x (1183958133106814996) 3d fim 13/07/2026
 ["kauepqpq"] = true, -- kaue075890 (1296919676894318674) 3d fim 13/07/2026
