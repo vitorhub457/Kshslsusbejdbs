@@ -249,6 +249,7 @@ return {
 
 
     -- 3 dias
+["dk_teama"] = true, -- caio09202 (1192425490238152778) 3d fim 18/07/2026
 ["dndnfndndk"] = true, -- josue1222 (1078248100793163827) 3d fim 18/07/2026
 ["Vinyz_Santyz0"] = true, -- vini03113 (1230173478544474233) 3d fim 17/07/2026
 ["xPapacu"] = true, -- gustavolucas47 (1310220936083013695) 3d fim 17/07/2026
