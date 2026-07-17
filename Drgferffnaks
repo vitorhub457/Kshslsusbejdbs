@@ -162,6 +162,7 @@ return {
     
 
     -- 2 meses
+["trem_caro15556"] = true, -- ruim444. (1519694408356986960) 2m fim 15/09/2026
 ["conpreivnemdeche"] = true, -- joyce024375 (1453073315429093565) 2m fim 08/09/2026
 ["drakezz_07"] = true, -- noia_062 (1498000419216035914) 2m fim 08/09/2026
 ["Akinho_4"] = true, -- empalador1417 (581485723425701891) 2m fim 05/09/2026
