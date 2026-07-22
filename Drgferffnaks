@@ -265,6 +265,7 @@ return {
 
 
     -- 3 dias
+["grilodelmato"] = true, -- gbtremzin77 (1364490099848511568) 3d fim 25/07/2026
 ["StefanieReese200"] = true, -- thalla.22 (1528023436448895079) 3d fim 25/07/2026
 ["pudim_morango244"] = true, -- n_sebo (1517864465360490639) 3d fim 25/07/2026
 ["rip_reliquia35"] = true, -- renato007746 (1455044685457264752) 3d fim 25/07/2026
