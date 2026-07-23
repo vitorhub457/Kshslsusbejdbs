@@ -264,6 +264,7 @@ return {
 
 
     -- 3 dias
+["SANU_CORTESPRO"] = true, -- valvaljack157 (1312587749781409933) 3d fim 26/07/2026
 ["ANJOFF150"] = true, -- julho0009_19237 (1516295004526477347) 3d fim 26/07/2026
 ["Coringa_zx70"] = true, -- ffh4x9111 (1088220965281988648) 3d fim 26/07/2026
 ["mari_nesquik"] = true, -- joaoexe66 (1159593299972194374) 3d fim 26/07/2026
