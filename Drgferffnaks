@@ -264,6 +264,7 @@ return {
 
 
     -- 3 dias
+["Coringa_zx70"] = true, -- ffh4x9111 (1088220965281988648) 3d fim 26/07/2026
 ["mari_nesquik"] = true, -- joaoexe66 (1159593299972194374) 3d fim 26/07/2026
 ["grilodelmato"] = true, -- gbtremzin77 (1364490099848511568) 3d fim 25/07/2026
 ["StefanieReese200"] = true, -- thalla.22 (1528023436448895079) 3d fim 25/07/2026
