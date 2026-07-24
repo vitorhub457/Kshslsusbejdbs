@@ -263,6 +263,7 @@ return {
 
 
     -- 3 dias
+["loirinchoraproarco"] = true, -- bra_bro (1263114508461936686) 3d fim 27/07/2026
 ["SANU_CORTESPRO"] = true, -- valvaljack157 (1312587749781409933) 3d fim 26/07/2026
 ["ANJOFF150"] = true, -- julho0009_19237 (1516295004526477347) 3d fim 26/07/2026
 ["Coringa_zx70"] = true, -- ffh4x9111 (1088220965281988648) 3d fim 26/07/2026
