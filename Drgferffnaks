@@ -267,6 +267,7 @@ return {
 
 
     -- 3 dias
+["LUCAS_X656"] = true, -- lucas98706 (1464616449690697802) 3d fim 29/07/2026
 ["pietromiguelmaiaia"] = true, -- joaoexe66 (1159593299972194374) 3d fim 29/07/2026
 ["dk_teama"] = true, -- caio09202 (1192425490238152778) 3d fim 29/07/2026
 ["hugoprira307"] = true, -- talisson_4455 (1509691918123270288) 3d fim 29/07/2026
