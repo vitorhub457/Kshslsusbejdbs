@@ -261,6 +261,7 @@ return {
 
 
     -- 3 dias
+["Linguilau_OFICIAL"] = true, -- prime_monkey_26492 (1499338077963812974) 3d fim 31/07/2026
 ["teteu_wq03"] = true, -- teteu_ttk_64116 (1204412627288330296) 3d fim 31/07/2026
 ["enaldinho01132"] = true, -- mandela7._ (1395531443928699093) 3d fim 31/07/2026
 ["noam_7789"] = true, -- samueloff_ (1529910317562204161) 3d fim 31/07/2026
