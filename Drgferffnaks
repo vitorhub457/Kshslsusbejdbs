@@ -29,6 +29,7 @@ return {
 
 
     -- vitalicio
+["lergen25"] = true, -- foxin_sdx (1089629818628349962) Vitalício
 ["rosim312"] = true, -- diogo_rosim (1302475127526523032) Vitalício
 ["KameYTofc1"] = true, -- skauzz1 (1368244277263597659) Vitalício
 ["Luan827228"] = true, -- vg612 (1375941103030894764) Vitalício
