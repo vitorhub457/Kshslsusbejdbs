@@ -210,6 +210,7 @@ return {
 
 
     -- 1 mes
+["STYEL127"] = true, -- desative. (1487574045858857151) 1m fim 28/08/2026
 ["komiol76"] = true, -- blczim4 (1409981671582990358) 1m fim 11/08/2026
 ["KowzimFIFA"] = true, -- kowzi_ (1487624524026609824) 1m fim 26/08/2026
 ["MINAYTLINDA"] = true, -- lambari0618 (1289446204505063507) 1m fim 26/08/2026
