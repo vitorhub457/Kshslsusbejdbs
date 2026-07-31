@@ -264,6 +264,7 @@ return {
 
 
     -- 3 dias
+["thou_57"] = true, -- miqueias_1276 (1479271167448711278) 3d fim 03/08/2026
 ["1SHDHKSY"] = true, -- cavaleiro_lord (1451970853267968004) 3d fim 03/08/2026
 ["xtbwafe"] = true, -- davimanoelterragmail.com_49914 (1459967599008813364) 3d fim 03/08/2026
 ["cossul1k"] = true, -- artsousa838 (1453394215383076896) 3d fim 02/08/2026
