@@ -209,7 +209,6 @@ return {
 ["lylsgky"] = true, -- _cabelu (542134224980017163) 2m fim 03/08/2026
 ["albertainsten320"] = true, -- osvaldo065376 (1511564276651790518) 2m fim 02/08/2026
 ["Jv200278"] = true, -- jucat_rex (1438231944750960838) 2m fim 01/08/2026
-["L2_tui"] = true, -- kilulla (716742520880758855) 2m fim 31/07/2026
 
 
     -- 1 mes
@@ -252,13 +251,11 @@ return {
 ["zago_wiu"] = true, -- lucasb06666 (1518097616422834198) 1m fim 03/08/2026
 ["ks011dk"] = true, -- knxtzx (1449514842716246106) 1m fim 03/08/2026
 ["conta_teste123456767"] = true, -- pedro_3642_15962 (1472058412660687003) 1m fim 01/08/2026
-["cherozin_OFC"] = true, -- kimtaehyung0963 (1463363714161049686) 1m fim 31/07/2026
 
 
 
     -- 1 semana
 ["miguel_zoom9"] = true, -- alzoom23 (1193586910787027089) 1s fim 01/08/2026
-["arthur_clonebr"] = true, -- art777x (619284295781187634) 1s fim 31/07/2026
 
 
 
@@ -279,11 +276,6 @@ return {
 ["guimastes64"] = true, -- lupita06099 (1518784812809322607) 3d fim 01/08/2026
 ["david234567481"] = true, -- 11910739982 (1484376402865164378) 3d fim 01/08/2026
 ["gabrielpro22545"] = true, -- gbzin2010hz (1141222541785038915) 3d fim 01/08/2026
-["Faelzinmt7"] = true, -- eo_faelzin (1430204492808458345) 3d fim 31/07/2026
-["davi9w9282j"] = true, -- naoseikkkk0469 (1359849195648979079) 3d fim 31/07/2026
-["Linguilau_OFICIAL"] = true, -- prime_monkey_26492 (1499338077963812974) 3d fim 31/07/2026
-["teteu_wq03"] = true, -- teteu_ttk_64116 (1204412627288330296) 3d fim 31/07/2026
-["enaldinho01132"] = true, -- mandela7._ (1395531443928699093) 3d fim 31/07/2026
 ["LUCAS_X656"] = true, -- lucas98706 (1464616449690697802) 3d fim 28/08/2026
 ["guidin138"] = true, -- brian049587 (1523460597486719067) 3d fim 10/10/2026
 ["kakaje_450"] = true, -- sixsevannnnnnn (1517995156681396246) 3d fim 19/11/2026
