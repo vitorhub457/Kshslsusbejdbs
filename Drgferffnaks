@@ -263,6 +263,7 @@ return {
 
 
     -- 3 dias
+["gdcdn4brbr"] = true, -- vegatifoy (1457862797571657742) 3d fim 04/08/2026
 ["itz_moreninhoDa125"] = true, -- felipe026167 (1532026852443553822) 3d fim 04/08/2026
 ["Cassio_rlz"] = true, -- cassio_xjd (1343062395785842770) 3d fim 04/08/2026
 ["X8FINIT"] = true, -- cavaleiro_lord (1451970853267968004) 3d fim 04/08/2026
