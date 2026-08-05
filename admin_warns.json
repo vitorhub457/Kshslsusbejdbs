@@ -12,5 +12,19 @@
                 "data": "05/08/2026 09:57"
             }
         ]
+    },
+    "1368306201942823034": {
+        "discord_id": "1368306201942823034",
+        "username": "fabio046961",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1318233264460267523",
+                "autor_name": "ロリタ",
+                "motivo": "abuso de kick e kick sem motivo",
+                "data": "05/08/2026 09:59"
+            }
+        ]
     }
 }
