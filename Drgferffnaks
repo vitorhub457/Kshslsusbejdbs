@@ -266,6 +266,7 @@ return {
 
 
     -- 3 dias
+["Rin_itochi20121"] = true, -- mendrux.panela_70228 (1450686422464856251) 3d fim 08/08/2026
 ["mthzim079_9"] = true, -- pt_l7_96310 (1509365013331054642) 3d fim 08/08/2026
 ["pedro_xs043"] = true, -- ilovef10763 (1531377738521378958) 3d fim 08/08/2026
 ["narutinhohsjs"] = true, -- el_diablo_0042 (1496963786672832666) 3d fim 08/08/2026
