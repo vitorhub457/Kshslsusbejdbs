@@ -40,5 +40,19 @@
                 "data": "05/08/2026 10:02"
             }
         ]
+    },
+    "1379140469740535942": {
+        "discord_id": "1379140469740535942",
+        "username": "urubudocaos",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1318233264460267523",
+                "autor_name": "ロリタ",
+                "motivo": "Sem motivo especificado",
+                "data": "05/08/2026 17:02"
+            }
+        ]
     }
 }
