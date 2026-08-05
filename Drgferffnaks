@@ -169,6 +169,7 @@ return {
 
 
     -- 4 meses
+["Propalada"] = true, -- anonimo.112 (1522055906441822397) 4m fim 03/12/2026
 ["Rip_drago5678"] = true, -- fxz0024 (1305990682468552766) 4m fim 24/11/2026
 ["treme_terr"] = true, -- joaovitor00624 (889280864607961119) 4m fim 03/11/2026
 ["miguelcastiglioni"] = true, -- karolnogs (1124696729837637714) 4m fim 20/10/2026
