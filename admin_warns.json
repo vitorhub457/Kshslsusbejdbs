@@ -26,5 +26,19 @@
                 "data": "05/08/2026 09:59"
             }
         ]
+    },
+    "1267606312670466071": {
+        "discord_id": "1267606312670466071",
+        "username": "patolok9",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1318233264460267523",
+                "autor_name": "ロリタ",
+                "motivo": "motivo abusando dos kicks e kicks sem motivo aparente",
+                "data": "05/08/2026 10:02"
+            }
+        ]
     }
 }
