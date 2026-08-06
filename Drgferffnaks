@@ -266,6 +266,7 @@ return {
 
 
     -- 3 dias
+["1SHDHKSY"] = true, -- cavaleiro_lord (1451970853267968004) 3d fim 09/08/2026
 ["ANJOFF150"] = true, -- julho0009_19237 (1516295004526477347) 3d fim 09/08/2026
 ["Rin_itochi20121"] = true, -- mendrux.panela_70228 (1450686422464856251) 3d fim 08/08/2026
 ["mthzim079_9"] = true, -- pt_l7_96310 (1509365013331054642) 3d fim 08/08/2026
