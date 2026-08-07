@@ -266,6 +266,7 @@ return {
 
 
     -- 3 dias
+["Anzai_002"] = true, -- kss7247 (1096090699679674479) 3d fim 10/08/2026
 ["ripgui52"] = true, -- reisxzz_ (1453811289142067352) 3d fim 10/08/2026
 ["Luizinho18486"] = true, -- luizinho01973 (1389801197455671421) 3d fim 10/08/2026
 ["mano_kaue9"] = true, -- vint20031 (1487985710312194128) 3d fim 09/08/2026
