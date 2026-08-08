@@ -257,6 +257,7 @@ return {
 
 
     -- 1 semana
+["FACADAS_Hg"] = true, -- facadas_hg (1017191622129229846) 1s fim 15/08/2026
 ["Alice240603"] = true, -- sophia054747 (1466611694062145578) 1s fim 13/08/2026
 ["flvorheaa"] = true, -- dgz0685 (1506969000242839584) 1s fim 13/08/2026
 ["Breno08533"] = true, -- ppq10762 (1517601890337034392) 1s fim 12/08/2026
