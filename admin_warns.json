@@ -82,5 +82,19 @@
                 "data": "09/08/2026 11:57"
             }
         ]
+    },
+    "1502035562649882807": {
+        "discord_id": "1502035562649882807",
+        "username": "kzinnlzx",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1318233264460267523",
+                "autor_name": "ロリタ",
+                "motivo": "abuso do comando kick {sem motivo aparente nos kicks}",
+                "data": "09/08/2026 12:51"
+            }
+        ]
     }
 }
