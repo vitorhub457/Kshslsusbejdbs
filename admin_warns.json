@@ -72,7 +72,7 @@
     "1517601890337034392": {
         "discord_id": "1517601890337034392",
         "username": "ppq10762",
-        "warns": 2,
+        "warns": 3,
         "historico": [
             {
                 "adv_num": 1,
@@ -87,6 +87,13 @@
                 "autor_name": "ロリタ",
                 "motivo": "<@1517601890337034392>",
                 "data": "09/08/2026 17:54"
+            },
+            {
+                "adv_num": 3,
+                "autor_id": "1318233264460267523",
+                "autor_name": "ロリタ",
+                "motivo": "kick sem motivo",
+                "data": "09/08/2026 17:55"
             }
         ]
     },
