@@ -110,5 +110,19 @@
                 "data": "09/08/2026 12:51"
             }
         ]
+    },
+    "1221224398867009710": {
+        "discord_id": "1221224398867009710",
+        "username": "tito017561",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1318233264460267523",
+                "autor_name": "ロリタ",
+                "motivo": "abusando do painel admin kick sem motivo",
+                "data": "11/08/2026 14:08"
+            }
+        ]
     }
 }
