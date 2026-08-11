@@ -124,5 +124,19 @@
                 "data": "11/08/2026 14:08"
             }
         ]
+    },
+    "1523460597486719067": {
+        "discord_id": "1523460597486719067",
+        "username": "brian049587",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1318233264460267523",
+                "autor_name": "ロリタ",
+                "motivo": "Abusando do comando kick, kill",
+                "data": "11/08/2026 16:31"
+            }
+        ]
     }
 }
