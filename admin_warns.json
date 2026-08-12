@@ -138,5 +138,19 @@
                 "data": "11/08/2026 16:31"
             }
         ]
+    },
+    "1428546197379088469": {
+        "discord_id": "1428546197379088469",
+        "username": "samuel_mi244_",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1318233264460267523",
+                "autor_name": "ロリタ",
+                "motivo": "abusando do comando \"kick, crash.\" n é permitido",
+                "data": "12/08/2026 17:55"
+            }
+        ]
     }
 }
