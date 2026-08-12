@@ -166,5 +166,19 @@
                 "data": "12/08/2026 17:57"
             }
         ]
+    },
+    "1258126494773936243": {
+        "discord_id": "1258126494773936243",
+        "username": "lilly.zx",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1318233264460267523",
+                "autor_name": "ロリタ",
+                "motivo": "abusando \"kick\" motivo besta",
+                "data": "12/08/2026 18:05"
+            }
+        ]
     }
 }
