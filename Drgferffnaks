@@ -203,7 +203,6 @@ return {
 ["itz_blackzinh01"] = true, -- draxmdx_51131 (1467112234919526637) 2m fim 17/08/2026
 ["marcoszz50"] = true, -- marcelo003680 (1407526488277913704) 2m fim 15/08/2026
 ["OsNarut0"] = true, -- apedinego._27416 (1492138388277428345) 2m fim 13/08/2026
-["patinholoko229"] = true, -- patolok9 (1267606312670466071) 2m fim 11/08/2026
 
 
     -- 1 mes
@@ -222,7 +221,6 @@ return {
 ["Luckezeira"] = true, -- luckezeira._28265 (1455245694062432269) 1m fim 29/08/2026
 ["raposo665"] = true, -- rhyanalves0507 (1411425949001711718) 1m fim 29/08/2026
 ["STYEL127"] = true, -- desative. (1487574045858857151) 1m fim 28/08/2026
-["komiol76"] = true, -- blczim4 (1409981671582990358) 1m fim 11/08/2026
 ["KowzimFIFA"] = true, -- kowzi_ (1487624524026609824) 1m fim 26/08/2026
 ["MINAYTLINDA"] = true, -- lambari0618 (1289446204505063507) 1m fim 26/08/2026
 ["Jerry_22272"] = true, -- jery_22245 (1477754904750592165) 1m fim 24/08/2026
@@ -244,7 +242,6 @@ return {
 ["mrcapivaru"] = true, -- inconmu_ (1398053797879877794) 1m fim 13/08/2026
 ["luanazevedode999"] = true, -- noia_062 (1498000419216035914) 1m fim 12/08/2026
 ["RLK_CIBOLA"] = true, -- nois0505 (1527740743274332194) 1m fim 12/08/2026
-["pedrizz_017"] = true, -- pedro_0095868 (1278106461599305781) 1m fim 11/08/2026
 
 
 
@@ -273,9 +270,6 @@ return {
 ["mineirex_00"] = true, -- mineirim00 (1429949526239875085) 3d fim 12/08/2026
 ["Obello0293"] = true, -- kzinnlzx (1502035562649882807) 3d fim 12/08/2026
 ["Itz_Neykzinn"] = true, -- wesley035508 (1277317049529532552) 3d fim 12/08/2026
-["Arthur_637889"] = true, -- arthur099914 (1406752854110244996) 3d fim 11/08/2026
-["Lostzin608"] = true, -- lostzin69 (1489488546342633624) 3d fim 11/08/2026
-["Tiago285542"] = true, -- lostkkj0667 (1467233878799421542) 3d fim 11/08/2026
 ["LUCAS_X656"] = true, -- lucas98706 (1464616449690697802) 3d fim 28/08/2026
 ["guidin138"] = true, -- brian049587 (1523460597486719067) 3d fim 10/10/2026
 ["kakaje_450"] = true, -- sixsevannnnnnn (1517995156681396246) 3d fim 19/11/2026
