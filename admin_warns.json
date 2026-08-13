@@ -180,5 +180,19 @@
                 "data": "12/08/2026 18:05"
             }
         ]
+    },
+    "1499339742830002238": {
+        "discord_id": "1499339742830002238",
+        "username": "matheus_2247",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1318233264460267523",
+                "autor_name": "ロリタ",
+                "motivo": "abusando do comando kick",
+                "data": "13/08/2026 20:08"
+            }
+        ]
     }
 }
