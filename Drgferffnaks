@@ -26,6 +26,7 @@ return {
 
 
     -- vitalicio
+["ax7_teusofc"] = true, -- reibr. (822929397861842954) Vitalício
 ["daviw2341"] = true, -- daviw2342_54661 (1271597629528211609) Vitalício
 ["coolkid12311904bem9"] = true, -- ian123_08 (1430991251586420857) Vitalício
 ["eo_nzx"] = true, -- nzx4_ (1436128230154309712) Vitalício
