@@ -198,7 +198,7 @@
     "1500184208885154052": {
         "discord_id": "1500184208885154052",
         "username": "abu051759",
-        "warns": 1,
+        "warns": 2,
         "historico": [
             {
                 "adv_num": 1,
@@ -206,6 +206,13 @@
                 "autor_name": "ロリタ",
                 "motivo": "abuso de kick com motivo patetico",
                 "data": "15/08/2026 18:43"
+            },
+            {
+                "adv_num": 2,
+                "autor_id": "1318233264460267523",
+                "autor_name": "ロリタ",
+                "motivo": "abuso de hackcrash",
+                "data": "15/08/2026 18:49"
             }
         ]
     }
