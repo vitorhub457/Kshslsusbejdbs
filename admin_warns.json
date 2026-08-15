@@ -194,5 +194,19 @@
                 "data": "13/08/2026 20:08"
             }
         ]
+    },
+    "1500184208885154052": {
+        "discord_id": "1500184208885154052",
+        "username": "abu051759",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1318233264460267523",
+                "autor_name": "ロリタ",
+                "motivo": "abuso de kick com motivo patetico",
+                "data": "15/08/2026 18:43"
+            }
+        ]
     }
 }
