@@ -236,5 +236,19 @@
                 "data": "16/08/2026 19:00"
             }
         ]
+    },
+    "1496963786672832666": {
+        "discord_id": "1496963786672832666",
+        "username": "el_diablo_0042",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1318233264460267523",
+                "autor_name": "ロリタ",
+                "motivo": "abusando do kick",
+                "data": "16/08/2026 19:13"
+            }
+        ]
     }
 }
