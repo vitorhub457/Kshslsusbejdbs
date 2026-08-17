@@ -205,6 +205,7 @@ return {
 
 
     -- 1 mes
+["KszinBlox1"] = true, -- kstalent._45897 (1488992795363381424) 1m fim 16/09/2026
 ["tytycyelly123"] = true, -- hellena_l_44736 (1503530846232117398) 1m fim 16/09/2026
 ["Kauafernando144"] = true, -- kauafernandopinheiro._62527 (1414311672725770270) 1m fim 16/09/2026
 ["CauanPierre10"] = true, -- ff_ha4x_doctor (1064730213105291264) 1m fim 14/09/2026
