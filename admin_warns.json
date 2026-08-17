@@ -250,5 +250,19 @@
                 "data": "16/08/2026 19:13"
             }
         ]
+    },
+    "1485320887405248594": {
+        "discord_id": "1485320887405248594",
+        "username": "wesleydiasfernandes_94270",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1318233264460267523",
+                "autor_name": "ロリタ",
+                "motivo": "abusando do kick com motivo tolo",
+                "data": "17/08/2026 10:53"
+            }
+        ]
     }
 }
