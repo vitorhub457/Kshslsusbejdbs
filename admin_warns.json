@@ -264,5 +264,19 @@
                 "data": "17/08/2026 10:53"
             }
         ]
+    },
+    "1301226394675580928": {
+        "discord_id": "1301226394675580928",
+        "username": "coringa_rj0406_91739",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1258126494773936243",
+                "autor_name": "hyazo",
+                "motivo": "crash por motivo idiota",
+                "data": "17/08/2026 22:52"
+            }
+        ]
     }
 }
