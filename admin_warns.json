@@ -292,5 +292,19 @@
                 "data": "18/08/2026 21:10"
             }
         ]
+    },
+    "1484920532850970634": {
+        "discord_id": "1484920532850970634",
+        "username": "anny069788",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1258126494773936243",
+                "autor_name": "hyazo",
+                "motivo": "Sem motivo especificado",
+                "data": "19/08/2026 13:21"
+            }
+        ]
     }
 }
