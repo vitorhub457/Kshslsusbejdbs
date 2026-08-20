@@ -334,5 +334,19 @@
                 "data": "19/08/2026 21:18"
             }
         ]
+    },
+    "1308884106972500004": {
+        "discord_id": "1308884106972500004",
+        "username": "vg812",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1258126494773936243",
+                "autor_name": "hyazo",
+                "motivo": "spam de comandos na mesma pessoa (kill e jail)",
+                "data": "20/08/2026 18:10"
+            }
+        ]
     }
 }
