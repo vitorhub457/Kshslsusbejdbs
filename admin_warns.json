@@ -163,7 +163,7 @@
     "1517995156681396246": {
         "discord_id": "1517995156681396246",
         "username": "sixsevannnnnnn",
-        "warns": 2,
+        "warns": 3,
         "historico": [
             {
                 "adv_num": 1,
@@ -178,6 +178,13 @@
                 "autor_name": "hyazo",
                 "motivo": "kick por motivo idiota",
                 "data": "20/08/2026 10:53"
+            },
+            {
+                "adv_num": 3,
+                "autor_id": "1258126494773936243",
+                "autor_name": "hyazo",
+                "motivo": "kick por motivo idiota",
+                "data": "20/08/2026 17:59"
             }
         ]
     },
