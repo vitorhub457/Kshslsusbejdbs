@@ -331,7 +331,7 @@
     "1488992795363381424": {
         "discord_id": "1488992795363381424",
         "username": "kstalent._45897",
-        "warns": 1,
+        "warns": 2,
         "historico": [
             {
                 "adv_num": 1,
@@ -339,6 +339,13 @@
                 "autor_name": "hyazo",
                 "motivo": "spam de comandos na mesma pessoa sem necessidade (inclusive comando de kick)",
                 "data": "19/08/2026 21:18"
+            },
+            {
+                "adv_num": 2,
+                "autor_id": "1258126494773936243",
+                "autor_name": "hyazo",
+                "motivo": "rejoin com motivo bobo",
+                "data": "21/08/2026 18:12"
             }
         ]
     },
