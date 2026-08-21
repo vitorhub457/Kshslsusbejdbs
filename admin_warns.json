@@ -310,7 +310,7 @@
     "1484920532850970634": {
         "discord_id": "1484920532850970634",
         "username": "anny069788",
-        "warns": 1,
+        "warns": 2,
         "historico": [
             {
                 "adv_num": 1,
@@ -318,6 +318,13 @@
                 "autor_name": "hyazo",
                 "motivo": "Sem motivo especificado",
                 "data": "19/08/2026 13:21"
+            },
+            {
+                "adv_num": 2,
+                "autor_id": "1258126494773936243",
+                "autor_name": "hyazo",
+                "motivo": "kick por motivo idiota",
+                "data": "21/08/2026 11:29"
             }
         ]
     },
