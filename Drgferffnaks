@@ -238,6 +238,7 @@ return {
 
 
     -- 3 dias
+["Ripadavizin"] = true, -- davilucas07168 (1356282452410241188) 3d fim 25/08/2026
 ["Biazinha077720"] = true, -- luishenri1003 (1479973125146939594) 3d fim 25/08/2026
 ["TrollzinnYT"] = true, -- o393ieirir_75800 (1533106175241883778) 3d fim 24/08/2026
 ["CrystalZapRocket"] = true, -- erickwaldemir (1346651863411458059) 3d fim 24/08/2026
