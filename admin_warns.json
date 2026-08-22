@@ -362,5 +362,19 @@
                 "data": "20/08/2026 18:10"
             }
         ]
+    },
+    "1453896094441410636": {
+        "discord_id": "1453896094441410636",
+        "username": "angel_zx777",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1258126494773936243",
+                "autor_name": "hyazo",
+                "motivo": "kick por motivo tolo",
+                "data": "22/08/2026 17:06"
+            }
+        ]
     }
 }
