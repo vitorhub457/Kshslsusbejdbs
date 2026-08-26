@@ -390,5 +390,19 @@
                 "data": "26/08/2026 15:33"
             }
         ]
+    },
+    "1487624524026609824": {
+        "discord_id": "1487624524026609824",
+        "username": "kowzi_",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1258126494773936243",
+                "autor_name": "hyazo",
+                "motivo": "Sem motivo especificado",
+                "data": "26/08/2026 20:28"
+            }
+        ]
     }
 }
