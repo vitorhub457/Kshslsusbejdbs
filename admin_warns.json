@@ -376,5 +376,19 @@
                 "data": "22/08/2026 17:06"
             }
         ]
+    },
+    "1529163709673508900": {
+        "discord_id": "1529163709673508900",
+        "username": "davipimentel5067",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1258126494773936243",
+                "autor_name": "hyazo",
+                "motivo": "kickS por motivo bobo",
+                "data": "26/08/2026 15:33"
+            }
+        ]
     }
 }
