@@ -418,5 +418,19 @@
                 "data": "27/08/2026 08:49"
             }
         ]
+    },
+    "1541970748782940163": {
+        "discord_id": "1541970748782940163",
+        "username": "nicolas050037",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1258126494773936243",
+                "autor_name": "hyazo",
+                "motivo": "kick e jail por motivo bobo",
+                "data": "27/08/2026 08:51"
+            }
+        ]
     }
 }
