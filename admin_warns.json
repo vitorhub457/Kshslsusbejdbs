@@ -432,5 +432,19 @@
                 "data": "27/08/2026 08:51"
             }
         ]
+    },
+    "1184962678620426363": {
+        "discord_id": "1184962678620426363",
+        "username": "murilo0490",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1258126494773936243",
+                "autor_name": "hyazo",
+                "motivo": "Sem motivo especificado",
+                "data": "27/08/2026 08:58"
+            }
+        ]
     }
 }
