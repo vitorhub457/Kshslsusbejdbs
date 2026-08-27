@@ -404,5 +404,19 @@
                 "data": "26/08/2026 20:28"
             }
         ]
+    },
+    "1384005540950180031": {
+        "discord_id": "1384005540950180031",
+        "username": "sousa1k",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1258126494773936243",
+                "autor_name": "hyazo",
+                "motivo": "Sem motivo especificado",
+                "data": "27/08/2026 08:49"
+            }
+        ]
     }
 }
