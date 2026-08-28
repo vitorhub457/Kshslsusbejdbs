@@ -380,7 +380,7 @@
     "1529163709673508900": {
         "discord_id": "1529163709673508900",
         "username": "davipimentel5067",
-        "warns": 2,
+        "warns": 3,
         "historico": [
             {
                 "adv_num": 1,
@@ -395,6 +395,13 @@
                 "autor_name": "hyazo",
                 "motivo": "kill várias vezes na mesma pessoas e seguido de ban",
                 "data": "27/08/2026 15:24"
+            },
+            {
+                "adv_num": 3,
+                "autor_id": "1258126494773936243",
+                "autor_name": "⃟",
+                "motivo": "kick por motivo bobo",
+                "data": "28/08/2026 17:22"
             }
         ]
     },
