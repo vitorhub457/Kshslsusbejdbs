@@ -415,7 +415,7 @@
     "1384005540950180031": {
         "discord_id": "1384005540950180031",
         "username": "sousa1k",
-        "warns": 2,
+        "warns": 3,
         "historico": [
             {
                 "adv_num": 1,
@@ -430,6 +430,13 @@
                 "autor_name": "hyazo",
                 "motivo": "kick sem motivo(e ainda por cima xingou o caba que foi banido)",
                 "data": "27/08/2026 13:45"
+            },
+            {
+                "adv_num": 3,
+                "autor_id": "1258126494773936243",
+                "autor_name": "⃟",
+                "motivo": "Sem motivo especificado",
+                "data": "28/08/2026 00:49"
             }
         ]
     },
