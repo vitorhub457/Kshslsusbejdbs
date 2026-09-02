@@ -474,5 +474,19 @@
                 "data": "27/08/2026 08:58"
             }
         ]
+    },
+    "1349769026414448731": {
+        "discord_id": "1349769026414448731",
+        "username": "teus03027",
+        "warns": 1,
+        "historico": [
+            {
+                "adv_num": 1,
+                "autor_id": "1258126494773936243",
+                "autor_name": "lilly",
+                "motivo": "kick por motivo bobo",
+                "data": "01/09/2026 21:30"
+            }
+        ]
     }
 }
